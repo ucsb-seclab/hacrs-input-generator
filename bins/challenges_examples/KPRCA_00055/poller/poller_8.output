@@ -1,0 +1,58 @@
+Matrix math is fun!
+-------------------
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Swap Columns in a  Matrix:
+Select Matrix 1 or Matrix 2
+>> Enter Column Index 1: Enter Column Index 2: Original Matrix
+| 0 |
+Swapped Columns
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Create a Random Matrix:
+Select Matrix 1 or Matrix 2
+>> New Row Size (0 to stay the same): New Column Size (0 to stay the same): Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Print Matrices:
+-Matrix 1-
+| 63 | 35 | -28 | 82 | 102 | -58 | -63 | -4 | -116 |
+| 50 | 40 | -63 | -78 | 18 | -100 | -50 | 58 | -73 |
+| -38 | 37 | 79 | -50 | 23 | 7 | -13 | -94 | 120 |
+| 26 | -10 | 80 | -47 | 1 | -93 | -25 | 9 | 121 |
+| -78 | 45 | 104 | 7 | -125 | 41 | -117 | 47 | -30 |
+| -37 | -121 | -98 | -89 | -48 | 116 | 84 | 69 | -39 |
+| 100 | -111 | 101 | 66 | -26 | 66 | 27 | 89 | -28 |
+| 68 | -109 | 70 | -99 | 77 | 82 | 121 | 104 | 60 |
+| -32 | -122 | 18 | 56 | 34 | -67 | 4 | 57 | -90 |
+

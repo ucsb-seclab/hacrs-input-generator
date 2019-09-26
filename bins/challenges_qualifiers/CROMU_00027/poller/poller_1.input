@@ -1,0 +1,1 @@
+ACS+0.1[SEND:Server.Commands_new:136:Commands all share the form:~n~tCOMMAND:page_name:length:data~nThe Commands are REQUEST, QUERY, SEND, REMOVE, VISUALIZE, and INTERACT.~n]ACS-0.1[QUERY:::]

@@ -1,0 +1,5 @@
+{
+  "command": "cat /home/lukas/lukas/projects/hacrs/cgc/bins/challenges_qualifiers/CROMU_00041/pov/pov_1.input | /home/lukas/.virtualenvs/angr-dev-pypy/bin/shellphish-qemu-cgc-tracer -d exec /home/lukas/lukas/projects/hacrs/cgc/bins/challenges_qualifiers/CROMU_00041/bin/CROMU_00041 2>&1 1>/dev/null | tail -n 10", 
+  "exit_code": 0, 
+  "crash_trace": "Trace 0x55de568bcba0 [0804d42b] "
+}

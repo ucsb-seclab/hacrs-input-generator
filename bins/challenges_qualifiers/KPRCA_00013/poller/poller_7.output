@@ -1,0 +1,136 @@
+Accel:-$ Cell Repr: 
+Success.
+Accel:-$ Success.
+Accel:-$ Cell Value: 
+Success.
+Accel:-$ Cell Value: 
+Success.
+Accel:-$ Success.
+Accel:-$ Cell Value: 
+Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Cell Repr: 
+Success.
+Accel:-$ Cell Repr: 
+Success.
+Accel:-$ Cell Value: 
+Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:Success.
+Accel:-$ Success.
+Accel:-$ Cell Rl Value: 
+Success.
+Accel:-$ Success.
+Access.
+Accel:-$ Success.
+Accel:-$ CelSuccess.
+Accel:-$ Cell Repr: 
+Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Cell Value: 
+Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:-$ Success.
+AccA93="B13i4vjSF6c586WUqTlVYbU6eGCaUy6nXi6XdCZqz8jxyzy5TJgLCuJdMwcXZqnMKuiuEd2hX5CfXFA4T44SIfhUaY4rbMKukjLy"
+C4=-91039.012
+C35=-82670.010
+C86="n4jCZcwBlr2n98R1pzPiLR50Rdbt6hJLAE1flrebmDBX45iuMdbO7F1wFQcZTjwcilw7dr60Ag1K0FLwEjEUP0Dq8cl9TEoEra6Z"
+D8="WFBvj7GHVABsvF0YyYEIIugLdjcgrUE9McnIiBhayXBYDpsDOf8uqaEVA7myLkan3r6y1nRuCW3MgOduDSH7d5OyBXK1wn3opoyE"
+E31="ZEgA2NbTK1zsaJahnvtJIYY1TICHqhuxlgtGtqOlS12a1dJUSkf4HG6Hc1Am5mLAts4yJW9m2sLbQ8uHLRcOe8EEkzctDAy9RXEl"
+E60=-61961.102
+G2==COS(-68339.243)
+G38==SQRT(N67)
+H19=-55782.005
+H30=61233.494
+I34=65969.406
+J8=6656.035
+M13="nXPfsFvZNtw5Yasf5s5K3m9K2dfBVpUjCtgP2dZuHr95BfDqKRmi5k1tvzho6QDKyl321IiA6nYVzfN6luJOqZQIfzrWsAUfqHWN"
+P14="oGR9bwsz8piYwLBjmhD0onzKdwi5qseSCXum8qYTDjX1cFpL5X4WCx6Gqbm30vEdtyOfmaUTAsKjc4g5xfiNohwN8hh5xXRFnfNk"
+P42==LOG10((M79 * -18806.303))
+P86==(47066.344 + 93005.357)
+R79=-4985.210
+R91=-56238.470
+S77==(56721.667 * MIN(58803.612, ABS(-9594.710), 15753.798, D36, 71654.742))
+U57==COS(-66399.975)
+U70==STDDEV(-62602.707, D15, 46252.287, A45)
+W48="xdAMm6QSUR6CxNA2tvsM3k5QQGZgyM3yfmAG4o8ohWl230rs8fq1EYrK2JxUmC2kEWFkQxswz7JaX9OF6nSLuOuPJMFf1ApvFbG3"
+W55=68977.444
+X57="BiOBJSxhYQAahpEZjJTCb2aSlPy0hKSlWzvPFVdTruzI15Z4ZwTFOhtsb2OKf7j4ITbssNLkUkIKnDiEDW7uXWC8vAJTG3V1djGl"
+Z39==(-45327.657 * (COS(V45) / 73814.348))
+Z71==(Q84 * 30519.054)
+Z81=66637.222
+Z95="ZL8juzXDqPnxQ8KINZZqgVasFob4lMtbBgtTRDWs8ualKKMPSOQNAAluyrv9DcCb1ShgS6cTCaCjAvygm7ZH3kRsuIWYmwPEonXt"
+Success.
+Accel:-$ Success.
+Accel:-$ Success.
+Accel:Repr: 
+Success.
+Accel:-$ A93="B13i4vjSF6c586WUqbU6eGCaUy6nXi6XdCZqz8jxyzy5TJgLCuJdMwcXZqnMKuiuEd2hX5CfXFA4T44SIfhUaY4rbMKukjLy"
+C4=-91039.012
+C35=-82670.010
+C86="n4jCZcwBlr2n98R1pzPiLR50Rdbt6hJLAE1flrebmDBX45iuMdbO7F1wFQcZTjwcilw7dr60Ag1K0FLwEjEUP0Dq8cl9TEoEra6Z"
+C90=-62134.850
+D8="WFBvj7GHVABsvF0YyYEIIugLdjcgrUE9McnIiBhayXBYDpsDOf8uqaEVA7myLkan3r6y1nRuCW3MgOduDSH7d5OyBXK1wn3opoyE"
+E31="ZEgA2NbTK1zsaJahnvtJIYY1TICHqhuxlgtGtqOlS12a1dJUSkf4HG6Hc1Am5mLAts4yJW9m2sLbQ8uHLRcOe8EEkzctDAy9RXEl"
+E60=-61961.102
+G2==COS(-68339.243)
+G38==SQRT(N67)
+H19=-55782.005
+H30=61233.494
+I9==SIN(B31)
+I13==((-43529.771 * 29230.537) + -8090.514)
+I34=65969.406
+J8=6656.035
+M13="nXPfsFvZNtw5Yasf5s5K3m9K2dfBVpUjCtgP2dZuHr95BfDqKRmi5k1tvzho6QDKyl321IiA6nYVzfN6luJOqZQIfzrWsAUfqHWN"
+P14="oGR9bwsz8piYwLBjmhD0onzKdwi5qseSCXum8qYTDjX1cFpL5X4WCx6Gqbm30vEdtyOfmaUTAsKjc4g5xfiNohwN8hh5xXRFnfNk"
+P42==LOG10((M79 * -18806.303))
+P86==(47066.344 + 93005.357)
+R79=-4985.210
+R91=-56238.470
+S77==(56721.667 * MIN(58803.612, ABS(-9594.710), 15753.798, D36, 71654.742))
+U57==COS(-66399.975)
+U70==STDDEV(-62602.707, D15, 46252.287, A45)
+V97=-27518.527
+W48="xdAMm6QSUR6CxNA2tvsM3k5QQGZgyM3yfmAG4o8ohWl230rs8fq1EYrK2JxUmC2kEWFkQxswz7JaX9OF6nSLuOuPJMFf1ApvFbG3"
+W55=68977.444
+X57="BiOBJSxhYQAahpEZjJTCb2aSlPy0hKSlWzvPFVdTruzI15Z4ZwTFOhtsb2OKf7j4ITbssNLkUkIKnDiEDW7uXWC8vAJTG3V1djGl"
+Z9==POWER(G79, P60)
+Z39==(-45327.657 * (COS(V45) / 73814.348))
+Z71==(Q84 * 30519.054)
+Z81=66637.222
+Z95="ZL8juzXDqPnxQ8KINZZqgVasFob4lMtbBgtTRDWs8ualKKMPSOQNAAluyrv9DcCb1ShgS6cTCaCjAvygm7ZH3kRsuIWYmwPEonXt"
+Success.
+Accel:-$ Cell Repr: 
+SuSuccess.
+Accel:-$ Success.
+Accel:-$ Sul Value: -39816.488
+Success.
+Accel:-$ CelCell Value: -0.984
+Success.
+Accel:-$ Cell Value: "xdAMm6QSUR6CxNA2tvsM3k5QQGZgyM3yfmAG4o8ohWl230rs8fq1EYrK2JxUmC2kEWFkQxswz7JaX9OF6nSLuOuPJMFf1ApvFbG3"
+Success.
+Accel:-$ Cell Vcel:-$ Cell Value: 38702.516
+Success.
+Accel:-$ 260
+Success.
+Accel:-$ Cell Value: 61233.4000
+Success.
+Accel:-$  Value: 140071.701
+Success.
+Accel:-$ Cell VaHr95BfDqKRmi5k1tvzho6QDKyl321IiA6nYVzfN6luJOqZQIfzrWsAUfqHWN"
+Success.
+Accel:-$ 

@@ -1,0 +1,52 @@
+Welcome to the diary logger!
+Length: 608
+Magic number: 0x4242
+Future: 0xc80
+Offset: 0x8
+Title: identity
+Entry Count: 0x3
+first name: acacaacbccccbc
+last name: ababacaaaacacaabcba
+age: 0xa7
+Title: books
+Entry Count: 0x2
+author: cbbaabbccb
+made into a movie: false
+Title: movies
+Entry Count: 0x2
+title: cbb
+plot summary: bbaaaacbbba
+Title: vehicles
+Entry Count: 0x6
+make: cbbbcbbccbb
+modeles
+Entry Count: 0x5
+title: ccababaa
+producer: acbccbbaccbcccacabba songs
+Entry Count: 0x4
+writer: acbcacaabacc
+free online: false
+year: 0xa6
+publisher: cbbabbcbaccbac
+Title: books
+Entry Count: 0x3
+author: cbaaacaa
+made into a movie: false
+publisher: abccab
+Title: vehicles
+Entry Count: 0x4
+make: bb
+model: cabaca
+doors: 0x8e
+displacement units: 0x39
+Title: identity
+Entry Count: 0x8
+first name: cabcabab
+last name: bcabacbabca
+age: 0xdb
+middle name: baabcbbaabacbabb
+birth city: acaacaacaacacbabbabb
+married: true
+birth country: cbabbbbaabacabbbcaac
+weight: 0x504b
+good book.

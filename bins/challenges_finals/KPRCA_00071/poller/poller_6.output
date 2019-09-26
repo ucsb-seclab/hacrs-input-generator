@@ -1,0 +1,85 @@
+1. Register New Player
+2. Exit
+> Flair 1 = Terminator
+Flair 2 = 2001
+Flair 3 = Collosus
+Enter player information: [name,flair]
+
+Welcome to WarGames, Player. It's just you vs. me
+---Player's stats---
+Current Score: 0
+Number of Three in a row draws: 0
+Number of Three in a row wins: 0
+Number of Hammer, Sheet, Sheers wins: 0
+Number of Guess my number wins: 0
+
+Choose a game to play:
+--Easy--
+1. Hammer, Sheet, Sheers
+--Medium--
+2. Guess my number
+--Impossible--
+3. Three in a row
+4. Give up
+
+Shall we play a game?
+Game # You're playing 3 in a row. Good luck!
+|-|-|-|
+|-|-|-|
+|-|-|-|
+Enter move [y,x]: 
+|-|-|-|
+|-|-|-|
+|H|-|-|
+
+|-|-|-|
+|-|C|-|
+|H|-|-|
+Enter move [y,x]: 
+|-|-|-|
+|-|C|-|
+|H|H|-|
+
+|-|-|-|
+|-|C|-|
+|H|H|C|
+Enter move [y,x]: 
+|H|-|-|
+|-|C|-|
+|H|H|C|
+
+|H|-|-|
+|C|C|-|
+|H|H|C|
+Enter move [y,x]: 
+|H|-|-|
+|C|C|H|
+|H|H|C|
+
+|H|C|-|
+|C|C|H|
+|H|H|C|
+Enter move [y,x]: 
+|H|C|H|
+|C|C|H|
+|H|H|C|
+It's a tie!
+---Player's stats---
+Current Score: 0
+Number of Three in a row draws: 1
+Number of Three in a row wins: 0
+Number of Hammer, Sheet, Sheers wins: 0
+Number of Guess my number wins: 0
+
+Choose a game to play:
+--Easy--
+1. Hammer, Sheet, Sheers
+--Medium--
+2. Guess my number
+--Impossible--
+3. Three in a row
+4. Give up
+
+Shall we play a game?
+Game # Enter max value (Default=65535): Guess the number [16 guesses left]: Too Low
+Guess the number [15 guesses left]: Guess the number [15 guesses left]: 

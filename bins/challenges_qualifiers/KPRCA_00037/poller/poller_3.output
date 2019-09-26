@@ -1,0 +1,35 @@
+Valid CGC executable format found [3352 bytes]
+
+6 section header(s):
+  [No.] Name                 Type           Addr     Off    Size
+  [  0]                      NULL           00000000 000000 000000
+  [  1] Z                    GROUP          664ff952 000700 000113
+  [  2] bPjUGZZLtwStlS       GROUP          fa00eda9 000813 00017e
+  [  3] AEtdlxemXMF                      SYMTAB         00000000 000a0f 000150
+  [  5] ZAnpcoNxKJgeXERulnl  STRTAB         00000000 000b5f 0001b9
+
+21 symbol(s):
+  [No.] Value       Size Type    Bind    Name
+  [  0] 0x1f5cc5f3     0 NOTYPE  NUM     BF
+  [  1] 0xcd854062     0 NOTYPE  NUM     BnmRPRXTVC
+  [  2] 0x7c04805d     0 NUM     GLOBAL  FUC
+  [  3] 0x7bbb1d2b     0 NUM     GLOBAL  JRJyHBBUBBxA
+  [  4] 0x98675e0f     0 COMMON  LOCAL   NukNqFMYYAWNdjxqoaVN
+  [  5] 0xc199c5ca     0 SECTION WEAK    QIXudrblp
+  [  6] 0xda206fe7     0 COMMON  LOCAL   StINkxjZlL
+  [  7] 0x037a7bb5     0 TLS     WEAK    VQYpnmqFoPDzycRnfu
+  [  8] 0xc8845ca6  1718 OBJECT  LOCAL   VutrZraKEfDNffuMUTpv
+  [  9] 0x3941b6dd     0 NUM     WEAK    WrWK
+  [ 10] 0xbd708998     0 TLS     GLOBAL  YJNhrvWPRlBdj
+  [ 11] 0x3e38bf9f     0 NOTYPE  GLOBAL  YNoN
+  [ 12] 0xc6bff071     0 FILE    WEAK    YblyzOr
+  [ 13] 0xaf233412     0 COMMON  NUM     Z
+  [ 14] 0x8f1fe0b4     0 NOTYPE  NUM     bbuvqXSFwUkwM
+  [ 15] 0xf8392e45     0 NUM     WEAK    deDoDdq
+  [ 16] 0x8b1d604f     0 COMMON  WEAK    iUBEWH
+  [ 17] 0x9b31ebc7     0 FILE    GLOBAL  jBS
+  [ 18] 0xac64c3a4     0 TLS     LOCAL   mnbdPFbbW
+  [ 19] 0x5566d999     0 COMMON  LOCAL   zBTKkkoYdyeqHEv
+  [ 20] 0xfbe8edb8  1868 OBJECT  WEAK    zlYklHyYrwEQFk
+
+DONE

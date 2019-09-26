@@ -1,0 +1,31 @@
+HELLO
+AUTH 29D1AD36
+SET data 9luu2oyH2rBlGNIJJZZ2h8WjxS2DK4HE4XKW1moqz4ETRD4eqiUoo5d61uZxfkWE4CBcBAzXf2kSSiCx9zJs6te6rFv6nVrfos3r5pzQ6hUY7Qrcie3RFEHhivhcy94
+SET mode decode
+SET key 4eLlY5kP4TBHx9cuJ8IlxKwirTl1RMBAhiDpQto56kAXekIInogtx0Pmb0xqa5d7ltkPn93flrRtQEuQ6
+CALL /parcour
+SET key JP62doOmsYUaxjXaXvwXz3YCyfo5UTTZYWxixlgzoa2bSqLJ4qG9gnPd
+SET data qLo4mo2PxxCMq0Q4XMSHEg
+CALL trNtSRmMGR
+CALL /root64
+CALL /
+CALL /parcour
+CALL /parcour
+CALL /parcour
+CALL /parcour
+SET mode decode
+SET mode encode
+SET key a17bH354Sq5pl0CRg3D9J0fw5ZTdYz7CMBRMs6CoZAqecc6EPRyyKpCHBZuzikdmx0f245RIkXTo4ZMb65r08abFkjj5xw8
+SET key WnDtbGdiNohpXWE7TICIWdJwGXe3O3lWgkpruZNt12wJtYN5E89lMHsEQ9NZpHXmLvJRGBoNbG0xoJwgOT9iHN4AvedfFc1Y
+SET data K4ibHaZpWHImMUTmeihgeDUe3VEeIfwGVYZmd64PXFF38UwTwdXyhZ
+CALL /root64
+CALL PhNkQ2GYoTWFMH2NwU
+SET mode encode
+CALL /
+CALL 63lXqmXGSBx2zkA
+CALL /root64
+CALL /parcour
+CALL /
+SET key SwtN2raC5rxs4l49PeatsfUNHDeUzdbdqIfcZHFV5FpMpPev536Yc1FjqcO4HrlOq7CiEF6jqz
+SET data CQRa7Wwl3FJU9SFLQO5SUiAo
+BYE

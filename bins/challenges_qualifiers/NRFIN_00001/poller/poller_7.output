@@ -1,0 +1,745 @@
+This is the Chuck Norris (joke) Management Protocol (CNMP).
+We know you need a break, so take some time and amuse yourself. If you have a good Chuck Norris joke, you can add it to our listing.
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 3: Chuck Norris has a grizzly bear carpet in his room. The bear isn't dead it is just afriad to move.
+> Current CNMP joke count is 45. Enjoy!
+> 0: When Alexander Bell invented the telephone he had 3 missed calls from Chuck Norris.
+1: Fear of spiders is aracnaphobia, fear of tight spaces is chlaustraphobia, fear of Chuck Norris is called Logic
+2: There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.
+3: Chuck Norris has a grizzly bear carpet in his room. The bear isn't dead it is just afriad to move.
+4: Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.
+5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+6: Chuck Norris doesn't call the wrong number. You answer the wrong phone.
+7: Some magicans can walk on water, Chuck Norris can swim through land.
+8: Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.
+9: Chuck Norris once urinated in a semi truck's gas tank as a joke....that truck is now known as Optimus Prime.
+10: Chuck Norris can cut through a hot knife with butter
+11: Chuck Norris counted to infinity - twice.
+12: Chuck Norris is the reason why Waldo is hiding.
+13: When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
+14: Death once had a near-Chuck Norris experience
+15: Chuck Norris can slam a revolving door.
+16: Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+17: Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+18: Chuck Norris can win a game of Connect Four in only three moves.
+19: Chuck Norris once got bit by a rattle snake........ After three days of pain and agony ..................the rattle snake died
+20: There is no theory of evolution. Just a list of animals Chuck Norris allows to live.
+21: Chuck Norris can light a fire by rubbing two ice-cubes together.
+22: When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+23: Chuck Norris is so fast, he can dodge raindrops.
+24: Chuck Norris doesn't wear a watch. HE decides what time it is.
+25: The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris.
+26: Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+27: If Chuck Norris were to ever run out of ammo, his weapon would continue to fire out of fear of disappointing Chuck Norris.
+28: Chuck Norris' hand is the only hand that can beat a Royal Flush.
+29: Chuck Norris made a Happy Meal cry.
+30: If you spell Chuck Norris in Scrabble, you win. Forever.
+31: Fear of Chuck Norris is also called common sense.
+32: Outer space exists because it's afraid to be on the same planet with Chuck Norris.
+33: Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+34: Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+35: Einstein said you can't move at the speed of light. Obviously he was never kicked by Chuck Norris...
+36: Chuck Norris does not sleep. He waits.
+37: Chuck Norris has no shadow....nothing's stupid enough to follow Chuck Norris.
+38: Chuck Norris is so intimidating even his reflection won't look back at him.
+39: When Chuck Norris throws you into a bottomless pit, you hit the bottom.
+40: Some kids pee their name in snow. Chuck Norris pees his name in concrete.
+41: Chuck Norris has the greatest Poker-Face of all time.
+42: Chuck Norris played Russian Roulette with a fully loaded gun and won.
+43: Chuck Norris doesn't fold paper airplanes, he folds airplanes into paper.
+44: Chuck Norris knows the last digit of pi.
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 43: Chuck Norris doesn't fold paper airplanes, he folds airplanes into paper.
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 45
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 46
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 20: There is no theory of evolution. Just a list of animals Chuck Norris allows to live.
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 29: Chuck Norris made a Happy Meal cry.
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Current CNMP joke count is 47. Enjoy!
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 47
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> 0: When Alexander Bell invented the telephone he had 3 missed calls from Chuck Norris.
+1: Fear of spiders is aracnaphobia, fear of tight spaces is chlaustraphobia, fear of Chuck Norris is called Logic
+2: There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.
+3: Chuck Norris has a grizzly bear carpet in his room. The bear isn't dead it is just afriad to move.
+4: Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.
+5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+6: Chuck Norris doesn't call the wrong number. You answer the wrong phone.
+7: Some magicans can walk on water, Chuck Norris can swim through land.
+8: Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.
+9: Chuck Norris once urinated in a semi truck's gas tank as a joke....that truck is now known as Optimus Prime.
+10: Chuck Norris can cut through a hot knife with butter
+11: Chuck Norris counted to infinity - twice.
+12: Chuck Norris is the reason why Waldo is hiding.
+13: When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
+14: Death once had a near-Chuck Norris experience
+15: Chuck Norris can slam a revolving door.
+16: Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+17: Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+18: Chuck Norris can win a game of Connect Four in only three moves.
+19: Chuck Norris once got bit by a rattle snake........ After three days of pain and agony ..................the rattle snake died
+20: There is no theory of evolution. Just a list of animals Chuck Norris allows to live.
+21: Chuck Norris can light a fire by rubbing two ice-cubes together.
+22: When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+23: Chuck Norris is so fast, he can dodge raindrops.
+24: Chuck Norris doesn't wear a watch. HE decides what time it is.
+25: The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris.
+26: Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+27: If Chuck Norris were to ever run out of ammo, his weapon would continue to fire out of fear of disappointing Chuck Norris.
+28: Chuck Norris' hand is the only hand that can beat a Royal Flush.
+29: Chuck Norris made a Happy Meal cry.
+30: If you spell Chuck Norris in Scrabble, you win. Forever.
+31: Fear of Chuck Norris is also called common sense.
+32: Outer space exists because it's afraid to be on the same planet with Chuck Norris.
+33: Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+34: Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+35: Einstein said you can't move at the speed of light. Obviously he was never kicked by Chuck Norris...
+36: Chuck Norris does not sleep. He waits.
+37: Chuck Norris has no shadow....nothing's stupid enough to follow Chuck Norris.
+38: Chuck Norris is so intimidating even his reflection won't look back at him.
+39: When Chuck Norris throws you into a bottomless pit, you hit the bottom.
+40: Some kids pee their name in snow. Chuck Norris pees his name in concrete.
+41: Chuck Norris has the greatest Poker-Face of all time.
+42: Chuck Norris played Russian Roulette with a fully loaded gun and won.
+43: Chuck Norris doesn't fold paper airplanes, he folds airplanes into paper.
+44: Chuck Norris knows the last digit of pi.
+45: rPOSRNUoKRnyz8S1XCw92YJ1S
+46: HPoXnc8PAWXeW0ggEsiq0Gy3HSWvpb2kqKZhBwTri5ojNM3OB30YDHiDcnPNCwkK9wG734ovoIDQdtkyUxndpcdyxMczgJmcZBQbogtzVPnEIZydJ1seUzGicb4OAYbkOvdFJq4qJ6pIiUkRn4MYcuAXaJykMZfBja6IC76pJX2nN8AyP7iy5IJJWG4Wa62YtlND0vXdKRpHezWmIgNmclpU9YP5dcRD4B8wR6k8aAiQoWQNqBLXaSSHyimoJRhv6ndhy1M4vyFuWoVrF9dUXnQnGGckCWILxl1VSSTPMRRztGQPMOB2Mz3HoBiv190wwgs5MTL8cWq7dUBCMiGPTAin1cUTTMTN0b5DjmQ03mXGe04n4Qrr38Y3RLEORRTRsPugBCAiriE8DIw6iiCXqkCUnH8fa1
+47: i8LqNnlmBjJl6AdoTPCHAIdnDrJgKlHM9xILzauJbUHvZi5xLBHN1cFiVtX5fP7j0CAZdvb0yVg2ku9rGT4aIutdT1UCePmCOz63tnEsNWaydDhpF1nDTLzUfUWlrkBaO51y07VtyG70TpQnuSqJXHvsWBoF6HkRsxvvq262KXFuAyeQDOXVsRcZhOZ4y4DVikaqAkhqRFbXSC7mxp2lv4f1UBytU6hlTeH
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 48
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> 0: When Alexander Bell invented the telephone he had 3 missed calls from Chuck Norris.
+1: Fear of spiders is aracnaphobia, fear of tight spaces is chlaustraphobia, fear of Chuck Norris is called Logic
+2: There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.
+3: Chuck Norris has a grizzly bear carpet in his room. The bear isn't dead it is just afriad to move.
+4: Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.
+5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+6: Chuck Norris doesn't call the wrong number. You answer the wrong phone.
+7: Some magicans can walk on water, Chuck Norris can swim through land.
+8: Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.
+9: Chuck Norris once urinated in a semi truck's gas tank as a joke....that truck is now known as Optimus Prime.
+10: Chuck Norris can cut through a hot knife with butter
+11: Chuck Norris counted to infinity - twice.
+12: Chuck Norris is the reason why Waldo is hiding.
+13: When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
+14: Death once had a near-Chuck Norris experience
+15: Chuck Norris can slam a revolving door.
+16: Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+17: Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+18: Chuck Norris can win a game of Connect Four in only three moves.
+19: Chuck Norris once got bit by a rattle snake........ After three days of pain and agony ..................the rattle snake died
+20: There is no theory of evolution. Just a list of animals Chuck Norris allows to live.
+21: Chuck Norris can light a fire by rubbing two ice-cubes together.
+22: When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+23: Chuck Norris is so fast, he can dodge raindrops.
+24: Chuck Norris doesn't wear a watch. HE decides what time it is.
+25: The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris.
+26: Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+27: If Chuck Norris were to ever run out of ammo, his weapon would continue to fire out of fear of disappointing Chuck Norris.
+28: Chuck Norris' hand is the only hand that can beat a Royal Flush.
+29: Chuck Norris made a Happy Meal cry.
+30: If you spell Chuck Norris in Scrabble, you win. Forever.
+31: Fear of Chuck Norris is also called common sense.
+32: Outer space exists because it's afraid to be on the same planet with Chuck Norris.
+33: Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+34: Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+35: Einstein said you can't move at the speed of light. Obviously he was never kicked by Chuck Norris...
+36: Chuck Norris does not sleep. He waits.
+37: Chuck Norris has no shadow....nothing's stupid enough to follow Chuck Norris.
+38: Chuck Norris is so intimidating even his reflection won't look back at him.
+39: When Chuck Norris throws you into a bottomless pit, you hit the bottom.
+40: Some kids pee their name in snow. Chuck Norris pees his name in concrete.
+41: Chuck Norris has the greatest Poker-Face of all time.
+42: Chuck Norris played Russian Roulette with a fully loaded gun and won.
+43: Chuck Norris doesn't fold paper airplanes, he folds airplanes into paper.
+44: Chuck Norris knows the last digit of pi.
+45: rPOSRNUoKRnyz8S1XCw92YJ1S
+46: HPoXnc8PAWXeW0ggEsiq0Gy3HSWvpb2kqKZhBwTri5ojNM3OB30YDHiDcnPNCwkK9wG734ovoIDQdtkyUxndpcdyxMczgJmcZBQbogtzVPnEIZydJ1seUzGicb4OAYbkOvdFJq4qJ6pIiUkRn4MYcuAXaJykMZfBja6IC76pJX2nN8AyP7iy5IJJWG4Wa62YtlND0vXdKRpHezWmIgNmclpU9YP5dcRD4B8wR6k8aAiQoWQNqBLXaSSHyimoJRhv6ndhy1M4vyFuWoVrF9dUXnQnGGckCWILxl1VSSTPMRRztGQPMOB2Mz3HoBiv190wwgs5MTL8cWq7dUBCMiGPTAin1cUTTMTN0b5DjmQ03mXGe04n4Qrr38Y3RLEORRTRsPugBCAiriE8DIw6iiCXqkCUnH8fa1
+47: i8LqNnlmBjJl6AdoTPCHAIdnDrJgKlHM9xILzauJbUHvZi5xLBHN1cFiVtX5fP7j0CAZdvb0yVg2ku9rGT4aIutdT1UCePmCOz63tnEsNWaydDhpF1nDTLzUfUWlrkBaO51y07VtyG70TpQnuSqJXHvsWBoF6HkRsxvvq262KXFuAyeQDOXVsRcZhOZ4y4DVikaqAkhqRFbXSC7mxp2lv4f1UBytU6hlTeH
+48: DMX8EDUFvFxH2Je3Ds0M7hP5bCWqlM5XUmLnqpaXua1LZXs6cveJqgNScsQ6idHIAOL4G5a1SQNJ49UQrHJ5Ew591wCzAhTSOg4YJwBrjRYDp15HgBeuBRkScKMydKGkwwP8e9TrqIG40z7QgeQ2ozS
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Current CNMP joke count is 49. Enjoy!
+> 0: When Alexander Bell invented the telephone he had 3 missed calls from Chuck Norris.
+1: Fear of spiders is aracnaphobia, fear of tight spaces is chlaustraphobia, fear of Chuck Norris is called Logic
+2: There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.
+3: Chuck Norris has a grizzly bear carpet in his room. The bear isn't dead it is just afriad to move.
+4: Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.
+5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+6: Chuck Norris doesn't call the wrong number. You answer the wrong phone.
+7: Some magicans can walk on water, Chuck Norris can swim through land.
+8: Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.
+9: Chuck Norris once urinated in a semi truck's gas tank as a joke....that truck is now known as Optimus Prime.
+10: Chuck Norris can cut through a hot knife with butter
+11: Chuck Norris counted to infinity - twice.
+12: Chuck Norris is the reason why Waldo is hiding.
+13: When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
+14: Death once had a near-Chuck Norris experience
+15: Chuck Norris can slam a revolving door.
+16: Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+17: Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+18: Chuck Norris can win a game of Connect Four in only three moves.
+19: Chuck Norris once got bit by a rattle snake........ After three days of pain and agony ..................the rattle snake died
+20: There is no theory of evolution. Just a list of animals Chuck Norris allows to live.
+21: Chuck Norris can light a fire by rubbing two ice-cubes together.
+22: When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+23: Chuck Norris is so fast, he can dodge raindrops.
+24: Chuck Norris doesn't wear a watch. HE decides what time it is.
+25: The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris.
+26: Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+27: If Chuck Norris were to ever run out of ammo, his weapon would continue to fire out of fear of disappointing Chuck Norris.
+28: Chuck Norris' hand is the only hand that can beat a Royal Flush.
+29: Chuck Norris made a Happy Meal cry.
+30: If you spell Chuck Norris in Scrabble, you win. Forever.
+31: Fear of Chuck Norris is also called common sense.
+32: Outer space exists because it's afraid to be on the same planet with Chuck Norris.
+33: Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+34: Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+35: Einstein said you can't move at the speed of light. Obviously he was never kicked by Chuck Norris...
+36: Chuck Norris does not sleep. He waits.
+37: Chuck Norris has no shadow....nothing's stupid enough to follow Chuck Norris.
+38: Chuck Norris is so intimidating even his reflection won't look back at him.
+39: When Chuck Norris throws you into a bottomless pit, you hit the bottom.
+40: Some kids pee their name in snow. Chuck Norris pees his name in concrete.
+41: Chuck Norris has the greatest Poker-Face of all time.
+42: Chuck Norris played Russian Roulette with a fully loaded gun and won.
+43: Chuck Norris doesn't fold paper airplanes, he folds airplanes into paper.
+44: Chuck Norris knows the last digit of pi.
+45: rPOSRNUoKRnyz8S1XCw92YJ1S
+46: HPoXnc8PAWXeW0ggEsiq0Gy3HSWvpb2kqKZhBwTri5ojNM3OB30YDHiDcnPNCwkK9wG734ovoIDQdtkyUxndpcdyxMczgJmcZBQbogtzVPnEIZydJ1seUzGicb4OAYbkOvdFJq4qJ6pIiUkRn4MYcuAXaJykMZfBja6IC76pJX2nN8AyP7iy5IJJWG4Wa62YtlND0vXdKRpHezWmIgNmclpU9YP5dcRD4B8wR6k8aAiQoWQNqBLXaSSHyimoJRhv6ndhy1M4vyFuWoVrF9dUXnQnGGckCWILxl1VSSTPMRRztGQPMOB2Mz3HoBiv190wwgs5MTL8cWq7dUBCMiGPTAin1cUTTMTN0b5DjmQ03mXGe04n4Qrr38Y3RLEORRTRsPugBCAiriE8DIw6iiCXqkCUnH8fa1
+47: i8LqNnlmBjJl6AdoTPCHAIdnDrJgKlHM9xILzauJbUHvZi5xLBHN1cFiVtX5fP7j0CAZdvb0yVg2ku9rGT4aIutdT1UCePmCOz63tnEsNWaydDhpF1nDTLzUfUWlrkBaO51y07VtyG70TpQnuSqJXHvsWBoF6HkRsxvvq262KXFuAyeQDOXVsRcZhOZ4y4DVikaqAkhqRFbXSC7mxp2lv4f1UBytU6hlTeH
+48: DMX8EDUFvFxH2Je3Ds0M7hP5bCWqlM5XUmLnqpaXua1LZXs6cveJqgNScsQ6idHIAOL4G5a1SQNJ49UQrHJ5Ew591wCzAhTSOg4YJwBrjRYDp15HgBeuBRkScKMydKGkwwP8e9TrqIG40z7QgeQ2ozS
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 23: Chuck Norris is so fast, he can dodge raindrops.
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 49
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Current CNMP joke count is 50. Enjoy!
+> 0: When Alexander Bell invented the telephone he had 3 missed calls from Chuck Norris.
+1: Fear of spiders is aracnaphobia, fear of tight spaces is chlaustraphobia, fear of Chuck Norris is called Logic
+2: There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.
+3: Chuck Norris has a grizzly bear carpet in his room. The bear isn't dead it is just afriad to move.
+4: Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.
+5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+6: Chuck Norris doesn't call the wrong number. You answer the wrong phone.
+7: Some magicans can walk on water, Chuck Norris can swim through land.
+8: Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.
+9: Chuck Norris once urinated in a semi truck's gas tank as a joke....that truck is now known as Optimus Prime.
+10: Chuck Norris can cut through a hot knife with butter
+11: Chuck Norris counted to infinity - twice.
+12: Chuck Norris is the reason why Waldo is hiding.
+13: When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
+14: Death once had a near-Chuck Norris experience
+15: Chuck Norris can slam a revolving door.
+16: Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+17: Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+18: Chuck Norris can win a game of Connect Four in only three moves.
+19: Chuck Norris once got bit by a rattle snake........ After three days of pain and agony ..................the rattle snake died
+20: There is no theory of evolution. Just a list of animals Chuck Norris allows to live.
+21: Chuck Norris can light a fire by rubbing two ice-cubes together.
+22: When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+23: Chuck Norris is so fast, he can dodge raindrops.
+24: Chuck Norris doesn't wear a watch. HE decides what time it is.
+25: The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris.
+26: Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+27: If Chuck Norris were to ever run out of ammo, his weapon would continue to fire out of fear of disappointing Chuck Norris.
+28: Chuck Norris' hand is the only hand that can beat a Royal Flush.
+29: Chuck Norris made a Happy Meal cry.
+30: If you spell Chuck Norris in Scrabble, you win. Forever.
+31: Fear of Chuck Norris is also called common sense.
+32: Outer space exists because it's afraid to be on the same planet with Chuck Norris.
+33: Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+34: Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+35: Einstein said you can't move at the speed of light. Obviously he was never kicked by Chuck Norris...
+36: Chuck Norris does not sleep. He waits.
+37: Chuck Norris has no shadow....nothing's stupid enough to follow Chuck Norris.
+38: Chuck Norris is so intimidating even his reflection won't look back at him.
+39: When Chuck Norris throws you into a bottomless pit, you hit the bottom.
+40: Some kids pee their name in snow. Chuck Norris pees his name in concrete.
+41: Chuck Norris has the greatest Poker-Face of all time.
+42: Chuck Norris played Russian Roulette with a fully loaded gun and won.
+43: Chuck Norris doesn't fold paper airplanes, he folds airplanes into paper.
+44: Chuck Norris knows the last digit of pi.
+45: rPOSRNUoKRnyz8S1XCw92YJ1S
+46: HPoXnc8PAWXeW0ggEsiq0Gy3HSWvpb2kqKZhBwTri5ojNM3OB30YDHiDcnPNCwkK9wG734ovoIDQdtkyUxndpcdyxMczgJmcZBQbogtzVPnEIZydJ1seUzGicb4OAYbkOvdFJq4qJ6pIiUkRn4MYcuAXaJykMZfBja6IC76pJX2nN8AyP7iy5IJJWG4Wa62YtlND0vXdKRpHezWmIgNmclpU9YP5dcRD4B8wR6k8aAiQoWQNqBLXaSSHyimoJRhv6ndhy1M4vyFuWoVrF9dUXnQnGGckCWILxl1VSSTPMRRztGQPMOB2Mz3HoBiv190wwgs5MTL8cWq7dUBCMiGPTAin1cUTTMTN0b5DjmQ03mXGe04n4Qrr38Y3RLEORRTRsPugBCAiriE8DIw6iiCXqkCUnH8fa1
+47: i8LqNnlmBjJl6AdoTPCHAIdnDrJgKlHM9xILzauJbUHvZi5xLBHN1cFiVtX5fP7j0CAZdvb0yVg2ku9rGT4aIutdT1UCePmCOz63tnEsNWaydDhpF1nDTLzUfUWlrkBaO51y07VtyG70TpQnuSqJXHvsWBoF6HkRsxvvq262KXFuAyeQDOXVsRcZhOZ4y4DVikaqAkhqRFbXSC7mxp2lv4f1UBytU6hlTeH
+48: DMX8EDUFvFxH2Je3Ds0M7hP5bCWqlM5XUmLnqpaXua1LZXs6cveJqgNScsQ6idHIAOL4G5a1SQNJ49UQrHJ5Ew591wCzAhTSOg4YJwBrjRYDp15HgBeuBRkScKMydKGkwwP8e9TrqIG40z7QgeQ2ozS
+49: VX3Run60rGEjJSZ5vFUKeFXrH1wVMHO5533vK6rwvoVH3glhWHNfOGbFMz38PiLPi9hOpOyTtXRKdrlD6yeUQmBDdwRWp6dXdwq9YipVIKsJ8Izpi4jmLHKYLlSKExugTLbK0400PNbCjfbfGY2FOoSvONNbC0apL7ua8OWLkrPk06mxfVGGzZatHsENkn65G2ba87upVk5fO3krlmZJnQwEkBEOQUN8DIDGeer5bTAdNmzYowanbkLFAGqTVaout6iQdqcZt
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 50
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 
+What do you take me for? That ID is bogus! Try again.
+SHOW> 
+What do you take me for? That ID is bogus! Try again.
+SHOW> 50: sBWgn11NfyGuUC0IicB6l8uhoCBGlBOnYV8U7BqyDP28AUMODLCzpkQd3xcfULocKUrrRis4x255dsVafq2nT9td2pNKlGDti5rDIO7
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 26: Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 4: Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 51
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 49: VX3Run60rGEjJSZ5vFUKeFXrH1wVMHO5533vK6rwvoVH3glhWHNfOGbFMz38PiLPi9hOpOyTtXRKdrlD6yeUQmBDdwRWp6dXdwq9YipVIKsJ8Izpi4jmLHKYLlSKExugTLbK0400PNbCjfbfGY2FOoSvONNbC0apL7ua8OWLkrPk06mxfVGGzZatHsENkn65G2ba87upVk5fO3krlmZJnQwEkBEOQUN8DIDGeer5bTAdNmzYowanbkLFAGqTVaout6iQdqcZt
+> Current CNMP joke count is 52. Enjoy!
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Current CNMP joke count is 52. Enjoy!
+> 0: When Alexander Bell invented the telephone he had 3 missed calls from Chuck Norris.
+1: Fear of spiders is aracnaphobia, fear of tight spaces is chlaustraphobia, fear of Chuck Norris is called Logic
+2: There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.
+3: Chuck Norris has a grizzly bear carpet in his room. The bear isn't dead it is just afriad to move.
+4: Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.
+5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+6: Chuck Norris doesn't call the wrong number. You answer the wrong phone.
+7: Some magicans can walk on water, Chuck Norris can swim through land.
+8: Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.
+9: Chuck Norris once urinated in a semi truck's gas tank as a joke....that truck is now known as Optimus Prime.
+10: Chuck Norris can cut through a hot knife with butter
+11: Chuck Norris counted to infinity - twice.
+12: Chuck Norris is the reason why Waldo is hiding.
+13: When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
+14: Death once had a near-Chuck Norris experience
+15: Chuck Norris can slam a revolving door.
+16: Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+17: Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+18: Chuck Norris can win a game of Connect Four in only three moves.
+19: Chuck Norris once got bit by a rattle snake........ After three days of pain and agony ..................the rattle snake died
+20: There is no theory of evolution. Just a list of animals Chuck Norris allows to live.
+21: Chuck Norris can light a fire by rubbing two ice-cubes together.
+22: When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+23: Chuck Norris is so fast, he can dodge raindrops.
+24: Chuck Norris doesn't wear a watch. HE decides what time it is.
+25: The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris.
+26: Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+27: If Chuck Norris were to ever run out of ammo, his weapon would continue to fire out of fear of disappointing Chuck Norris.
+28: Chuck Norris' hand is the only hand that can beat a Royal Flush.
+29: Chuck Norris made a Happy Meal cry.
+30: If you spell Chuck Norris in Scrabble, you win. Forever.
+31: Fear of Chuck Norris is also called common sense.
+32: Outer space exists because it's afraid to be on the same planet with Chuck Norris.
+33: Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+34: Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+35: Einstein said you can't move at the speed of light. Obviously he was never kicked by Chuck Norris...
+36: Chuck Norris does not sleep. He waits.
+37: Chuck Norris has no shadow....nothing's stupid enough to follow Chuck Norris.
+38: Chuck Norris is so intimidating even his reflection won't look back at him.
+39: When Chuck Norris throws you into a bottomless pit, you hit the bottom.
+40: Some kids pee their name in snow. Chuck Norris pees his name in concrete.
+41: Chuck Norris has the greatest Poker-Face of all time.
+42: Chuck Norris played Russian Roulette with a fully loaded gun and won.
+43: Chuck Norris doesn't fold paper airplanes, he folds airplanes into paper.
+44: Chuck Norris knows the last digit of pi.
+45: rPOSRNUoKRnyz8S1XCw92YJ1S
+46: HPoXnc8PAWXeW0ggEsiq0Gy3HSWvpb2kqKZhBwTri5ojNM3OB30YDHiDcnPNCwkK9wG734ovoIDQdtkyUxndpcdyxMczgJmcZBQbogtzVPnEIZydJ1seUzGicb4OAYbkOvdFJq4qJ6pIiUkRn4MYcuAXaJykMZfBja6IC76pJX2nN8AyP7iy5IJJWG4Wa62YtlND0vXdKRpHezWmIgNmclpU9YP5dcRD4B8wR6k8aAiQoWQNqBLXaSSHyimoJRhv6ndhy1M4vyFuWoVrF9dUXnQnGGckCWILxl1VSSTPMRRztGQPMOB2Mz3HoBiv190wwgs5MTL8cWq7dUBCMiGPTAin1cUTTMTN0b5DjmQ03mXGe04n4Qrr38Y3RLEORRTRsPugBCAiriE8DIw6iiCXqkCUnH8fa1
+47: i8LqNnlmBjJl6AdoTPCHAIdnDrJgKlHM9xILzauJbUHvZi5xLBHN1cFiVtX5fP7j0CAZdvb0yVg2ku9rGT4aIutdT1UCePmCOz63tnEsNWaydDhpF1nDTLzUfUWlrkBaO51y07VtyG70TpQnuSqJXHvsWBoF6HkRsxvvq262KXFuAyeQDOXVsRcZhOZ4y4DVikaqAkhqRFbXSC7mxp2lv4f1UBytU6hlTeH
+48: DMX8EDUFvFxH2Je3Ds0M7hP5bCWqlM5XUmLnqpaXua1LZXs6cveJqgNScsQ6idHIAOL4G5a1SQNJ49UQrHJ5Ew591wCzAhTSOg4YJwBrjRYDp15HgBeuBRkScKMydKGkwwP8e9TrqIG40z7QgeQ2ozS
+49: VX3Run60rGEjJSZ5vFUKeFXrH1wVMHO5533vK6rwvoVH3glhWHNfOGbFMz38PiLPi9hOpOyTtXRKdrlD6yeUQmBDdwRWp6dXdwq9YipVIKsJ8Izpi4jmLHKYLlSKExugTLbK0400PNbCjfbfGY2FOoSvONNbC0apL7ua8OWLkrPk06mxfVGGzZatHsENkn65G2ba87upVk5fO3krlmZJnQwEkBEOQUN8DIDGeer5bTAdNmzYowanbkLFAGqTVaout6iQdqcZt
+50: sBWgn11NfyGuUC0IicB6l8uhoCBGlBOnYV8U7BqyDP28AUMODLCzpkQd3xcfULocKUrrRis4x255dsVafq2nT9td2pNKlGDti5rDIO7
+51: 35VfYV6nwXXbYlriLFQGE2eW1WMCGesmQGWMD1VMGZCgt9qktWBRptA2OHWc44OvBw0PnVAroHuvavbGeavbZXldITO0lAzwMZlL8NSxL2Cd7bDQjb6w4FXWftEsp2G6Ox5xvHu3w0GP1O7ZdKR2jTUzEucrpzWlrOFMKb0gfLMqLCZjvTFxnvxF6jLVjnLVJW0E9OET2yWIDizIPfx2qSh8cLra7tyK6H2Kowfb4b7CWbXJLlO2tTblGH8addGfsB9vqsHXGlPRepJjnNYyLhATYbrECAPc4apS7On5eTItEoJBwCr4x92jgzjfCJrTCnISEceUQXC3nTiDbTVaQTdh8upcKF4BesphjUkjZGzA
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> 0: When Alexander Bell invented the telephone he had 3 missed calls from Chuck Norris.
+1: Fear of spiders is aracnaphobia, fear of tight spaces is chlaustraphobia, fear of Chuck Norris is called Logic
+2: There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.
+3: Chuck Norris has a grizzly bear carpet in his room. The bear isn't dead it is just afriad to move.
+4: Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.
+5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+6: Chuck Norris doesn't call the wrong number. You answer the wrong phone.
+7: Some magicans can walk on water, Chuck Norris can swim through land.
+8: Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.
+9: Chuck Norris once urinated in a semi truck's gas tank as a joke....that truck is now known as Optimus Prime.
+10: Chuck Norris can cut through a hot knife with butter
+11: Chuck Norris counted to infinity - twice.
+12: Chuck Norris is the reason why Waldo is hiding.
+13: When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
+14: Death once had a near-Chuck Norris experience
+15: Chuck Norris can slam a revolving door.
+16: Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+17: Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+18: Chuck Norris can win a game of Connect Four in only three moves.
+19: Chuck Norris once got bit by a rattle snake........ After three days of pain and agony ..................the rattle snake died
+20: There is no theory of evolution. Just a list of animals Chuck Norris allows to live.
+21: Chuck Norris can light a fire by rubbing two ice-cubes together.
+22: When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+23: Chuck Norris is so fast, he can dodge raindrops.
+24: Chuck Norris doesn't wear a watch. HE decides what time it is.
+25: The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris.
+26: Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+27: If Chuck Norris were to ever run out of ammo, his weapon would continue to fire out of fear of disappointing Chuck Norris.
+28: Chuck Norris' hand is the only hand that can beat a Royal Flush.
+29: Chuck Norris made a Happy Meal cry.
+30: If you spell Chuck Norris in Scrabble, you win. Forever.
+31: Fear of Chuck Norris is also called common sense.
+32: Outer space exists because it's afraid to be on the same planet with Chuck Norris.
+33: Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+34: Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+35: Einstein said you can't move at the speed of light. Obviously he was never kicked by Chuck Norris...
+36: Chuck Norris does not sleep. He waits.
+37: Chuck Norris has no shadow....nothing's stupid enough to follow Chuck Norris.
+38: Chuck Norris is so intimidating even his reflection won't look back at him.
+39: When Chuck Norris throws you into a bottomless pit, you hit the bottom.
+40: Some kids pee their name in snow. Chuck Norris pees his name in concrete.
+41: Chuck Norris has the greatest Poker-Face of all time.
+42: Chuck Norris played Russian Roulette with a fully loaded gun and won.
+43: Chuck Norris doesn't fold paper airplanes, he folds airplanes into paper.
+44: Chuck Norris knows the last digit of pi.
+45: rPOSRNUoKRnyz8S1XCw92YJ1S
+46: HPoXnc8PAWXeW0ggEsiq0Gy3HSWvpb2kqKZhBwTri5ojNM3OB30YDHiDcnPNCwkK9wG734ovoIDQdtkyUxndpcdyxMczgJmcZBQbogtzVPnEIZydJ1seUzGicb4OAYbkOvdFJq4qJ6pIiUkRn4MYcuAXaJykMZfBja6IC76pJX2nN8AyP7iy5IJJWG4Wa62YtlND0vXdKRpHezWmIgNmclpU9YP5dcRD4B8wR6k8aAiQoWQNqBLXaSSHyimoJRhv6ndhy1M4vyFuWoVrF9dUXnQnGGckCWILxl1VSSTPMRRztGQPMOB2Mz3HoBiv190wwgs5MTL8cWq7dUBCMiGPTAin1cUTTMTN0b5DjmQ03mXGe04n4Qrr38Y3RLEORRTRsPugBCAiriE8DIw6iiCXqkCUnH8fa1
+47: i8LqNnlmBjJl6AdoTPCHAIdnDrJgKlHM9xILzauJbUHvZi5xLBHN1cFiVtX5fP7j0CAZdvb0yVg2ku9rGT4aIutdT1UCePmCOz63tnEsNWaydDhpF1nDTLzUfUWlrkBaO51y07VtyG70TpQnuSqJXHvsWBoF6HkRsxvvq262KXFuAyeQDOXVsRcZhOZ4y4DVikaqAkhqRFbXSC7mxp2lv4f1UBytU6hlTeH
+48: DMX8EDUFvFxH2Je3Ds0M7hP5bCWqlM5XUmLnqpaXua1LZXs6cveJqgNScsQ6idHIAOL4G5a1SQNJ49UQrHJ5Ew591wCzAhTSOg4YJwBrjRYDp15HgBeuBRkScKMydKGkwwP8e9TrqIG40z7QgeQ2ozS
+49: VX3Run60rGEjJSZ5vFUKeFXrH1wVMHO5533vK6rwvoVH3glhWHNfOGbFMz38PiLPi9hOpOyTtXRKdrlD6yeUQmBDdwRWp6dXdwq9YipVIKsJ8Izpi4jmLHKYLlSKExugTLbK0400PNbCjfbfGY2FOoSvONNbC0apL7ua8OWLkrPk06mxfVGGzZatHsENkn65G2ba87upVk5fO3krlmZJnQwEkBEOQUN8DIDGeer5bTAdNmzYowanbkLFAGqTVaout6iQdqcZt
+50: sBWgn11NfyGuUC0IicB6l8uhoCBGlBOnYV8U7BqyDP28AUMODLCzpkQd3xcfULocKUrrRis4x255dsVafq2nT9td2pNKlGDti5rDIO7
+51: 35VfYV6nwXXbYlriLFQGE2eW1WMCGesmQGWMD1VMGZCgt9qktWBRptA2OHWc44OvBw0PnVAroHuvavbGeavbZXldITO0lAzwMZlL8NSxL2Cd7bDQjb6w4FXWftEsp2G6Ox5xvHu3w0GP1O7ZdKR2jTUzEucrpzWlrOFMKb0gfLMqLCZjvTFxnvxF6jLVjnLVJW0E9OET2yWIDizIPfx2qSh8cLra7tyK6H2Kowfb4b7CWbXJLlO2tTblGH8addGfsB9vqsHXGlPRepJjnNYyLhATYbrECAPc4apS7On5eTItEoJBwCr4x92jgzjfCJrTCnISEceUQXC3nTiDbTVaQTdh8upcKF4BesphjUkjZGzA
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> 0: When Alexander Bell invented the telephone he had 3 missed calls from Chuck Norris.
+1: Fear of spiders is aracnaphobia, fear of tight spaces is chlaustraphobia, fear of Chuck Norris is called Logic
+2: There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.
+3: Chuck Norris has a grizzly bear carpet in his room. The bear isn't dead it is just afriad to move.
+4: Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.
+5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+6: Chuck Norris doesn't call the wrong number. You answer the wrong phone.
+7: Some magicans can walk on water, Chuck Norris can swim through land.
+8: Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.
+9: Chuck Norris once urinated in a semi truck's gas tank as a joke....that truck is now known as Optimus Prime.
+10: Chuck Norris can cut through a hot knife with butter
+11: Chuck Norris counted to infinity - twice.
+12: Chuck Norris is the reason why Waldo is hiding.
+13: When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.
+14: Death once had a near-Chuck Norris experience
+15: Chuck Norris can slam a revolving door.
+16: Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+17: Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+18: Chuck Norris can win a game of Connect Four in only three moves.
+19: Chuck Norris once got bit by a rattle snake........ After three days of pain and agony ..................the rattle snake died
+20: There is no theory of evolution. Just a list of animals Chuck Norris allows to live.
+21: Chuck Norris can light a fire by rubbing two ice-cubes together.
+22: When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+23: Chuck Norris is so fast, he can dodge raindrops.
+24: Chuck Norris doesn't wear a watch. HE decides what time it is.
+25: The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris.
+26: Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+27: If Chuck Norris were to ever run out of ammo, his weapon would continue to fire out of fear of disappointing Chuck Norris.
+28: Chuck Norris' hand is the only hand that can beat a Royal Flush.
+29: Chuck Norris made a Happy Meal cry.
+30: If you spell Chuck Norris in Scrabble, you win. Forever.
+31: Fear of Chuck Norris is also called common sense.
+32: Outer space exists because it's afraid to be on the same planet with Chuck Norris.
+33: Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+34: Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+35: Einstein said you can't move at the speed of light. Obviously he was never kicked by Chuck Norris...
+36: Chuck Norris does not sleep. He waits.
+37: Chuck Norris has no shadow....nothing's stupid enough to follow Chuck Norris.
+38: Chuck Norris is so intimidating even his reflection won't look back at him.
+39: When Chuck Norris throws you into a bottomless pit, you hit the bottom.
+40: Some kids pee their name in snow. Chuck Norris pees his name in concrete.
+41: Chuck Norris has the greatest Poker-Face of all time.
+42: Chuck Norris played Russian Roulette with a fully loaded gun and won.
+43: Chuck Norris doesn't fold paper airplanes, he folds airplanes into paper.
+44: Chuck Norris knows the last digit of pi.
+45: rPOSRNUoKRnyz8S1XCw92YJ1S
+46: HPoXnc8PAWXeW0ggEsiq0Gy3HSWvpb2kqKZhBwTri5ojNM3OB30YDHiDcnPNCwkK9wG734ovoIDQdtkyUxndpcdyxMczgJmcZBQbogtzVPnEIZydJ1seUzGicb4OAYbkOvdFJq4qJ6pIiUkRn4MYcuAXaJykMZfBja6IC76pJX2nN8AyP7iy5IJJWG4Wa62YtlND0vXdKRpHezWmIgNmclpU9YP5dcRD4B8wR6k8aAiQoWQNqBLXaSSHyimoJRhv6ndhy1M4vyFuWoVrF9dUXnQnGGckCWILxl1VSSTPMRRztGQPMOB2Mz3HoBiv190wwgs5MTL8cWq7dUBCMiGPTAin1cUTTMTN0b5DjmQ03mXGe04n4Qrr38Y3RLEORRTRsPugBCAiriE8DIw6iiCXqkCUnH8fa1
+47: i8LqNnlmBjJl6AdoTPCHAIdnDrJgKlHM9xILzauJbUHvZi5xLBHN1cFiVtX5fP7j0CAZdvb0yVg2ku9rGT4aIutdT1UCePmCOz63tnEsNWaydDhpF1nDTLzUfUWlrkBaO51y07VtyG70TpQnuSqJXHvsWBoF6HkRsxvvq262KXFuAyeQDOXVsRcZhOZ4y4DVikaqAkhqRFbXSC7mxp2lv4f1UBytU6hlTeH
+48: DMX8EDUFvFxH2Je3Ds0M7hP5bCWqlM5XUmLnqpaXua1LZXs6cveJqgNScsQ6idHIAOL4G5a1SQNJ49UQrHJ5Ew591wCzAhTSOg4YJwBrjRYDp15HgBeuBRkScKMydKGkwwP8e9TrqIG40z7QgeQ2ozS
+49: VX3Run60rGEjJSZ5vFUKeFXrH1wVMHO5533vK6rwvoVH3glhWHNfOGbFMz38PiLPi9hOpOyTtXRKdrlD6yeUQmBDdwRWp6dXdwq9YipVIKsJ8Izpi4jmLHKYLlSKExugTLbK0400PNbCjfbfGY2FOoSvONNbC0apL7ua8OWLkrPk06mxfVGGzZatHsENkn65G2ba87upVk5fO3krlmZJnQwEkBEOQUN8DIDGeer5bTAdNmzYowanbkLFAGqTVaout6iQdqcZt
+50: sBWgn11NfyGuUC0IicB6l8uhoCBGlBOnYV8U7BqyDP28AUMODLCzpkQd3xcfULocKUrrRis4x255dsVafq2nT9td2pNKlGDti5rDIO7
+51: 35VfYV6nwXXbYlriLFQGE2eW1WMCGesmQGWMD1VMGZCgt9qktWBRptA2OHWc44OvBw0PnVAroHuvavbGeavbZXldITO0lAzwMZlL8NSxL2Cd7bDQjb6w4FXWftEsp2G6Ox5xvHu3w0GP1O7ZdKR2jTUzEucrpzWlrOFMKb0gfLMqLCZjvTFxnvxF6jLVjnLVJW0E9OET2yWIDizIPfx2qSh8cLra7tyK6H2Kowfb4b7CWbXJLlO2tTblGH8addGfsB9vqsHXGlPRepJjnNYyLhATYbrECAPc4apS7On5eTItEoJBwCr4x92jgzjfCJrTCnISEceUQXC3nTiDbTVaQTdh8upcKF4BesphjUkjZGzA
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 5: Chuck Norris has already been to Mars; that's why there are no signs of life.
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 45: rPOSRNUoKRnyz8S1XCw92YJ1S
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 52
+> Thanks for the laughs. Come back soon!
+> 
+Are you kidding me? What is that garbage? I thought my instructions were pretty straight forward. Try again.

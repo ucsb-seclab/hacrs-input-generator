@@ -1,0 +1,83 @@
+University Course Scheduler
+
+Enter name: Select a major
+List Departments?
+1 - Yes
+2 - No
+Choice: Enter your Major's Department Name: Congratulations. You're read to start adding classes
+Main Menu
+1 - Search Classes
+2 - Add Class
+3 - Remove Class
+4 - Print Schedule
+5 - Exit
+Choice: Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: List Professors?
+1 - Yes
+2 - No
+Choice: Enter professor's full name: --Lashaun Pasha's Classes--
+IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|655217|COM 150|Lashaun Pasha|CR:3|CE:15|MC:15|TR|14:00|15:20|Introduction to Communication
+#2|317140|COM 235|Lashaun Pasha|CR:1|CE:6|MC:15|W|16:30|18:20|Intergroup Dialogue
+#3|433535|COM 290|Lashaun Pasha|CR:3|CE:12|MC:15|TR|09:30|10:50|Public Presentations
+#4|433535|COM 290|Lashaun Pasha|CR:3|CE:14|MC:15|TR|14:00|15:20|Public Presentations
+#5|159350|COM 380|Lashaun Pasha|CR:3|CE:11|MC:15|H|00:00|00:00|Theories of Human Com.
+#6|709133|COM 430|Lashaun Pasha|CR:3|CE:12|MC:15|TR|14:00|15:20|Gender and Communication
+#7|605399|COM 440|Lashaun Pasha|CR:3|CE:16|MC:15|TR|11:00|12:20|Intercultural Communication
+#8|844399|COM 495|Lashaun Pasha|CR:1|CE:5|MC:18|T|17:00|19:50|Special Topics
+#9|599988|GOV 595|Lashaun Pasha|CR:3|CE:2|MC:18|T|17:00|19:50|Special Topics
+#10|599988|GOV 595|Lashaun Pasha|CR:3|CE:6|MC:18|T|17:00|19:50|Special Topics
+#11|309816|GSR 104|Lashaun Pasha|CR:3|CE:15|MC:15|MW|12:30|13:50|Quantitative Reasoning Apprch
+#12|794931|HSL 852|Lashaun Pasha|CR:3|CE:12|MC:20|W|17:00|19:50|Amplification II
+#13|432848|HSL 890|Lashaun Pasha|CR:1|CE:8|MC:12|H|00:00|00:00|Externship
+#14|381695|MAT 40|Lashaun Pasha|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#15|763634|PST 301|Lashaun Pasha|CR:3|CE:6|MC:15|MW|18:30|19:50|ASL I
+#16|197432|PST 303|Lashaun Pasha|CR:3|CE:9|MC:15|MW|18:30|19:50|ASL III
+Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: Enter Class ID: IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|372801|PST 710|Amiee Broadfoot|CR:2|CE:0|MC:10|H|00:00|00:00|Pract Instr of ASL: All Way Df
+Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: Enter Course ID: IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|398565|GSR 150|Odell Ostrowski|CR:4|CE:15|MC:10|TR|08:00|09:50|Intro to Integrated Learning
+#2|398565|GSR 150|Odell Ostrowski|CR:4|CE:14|MC:10|TR|16:00|17:50|Intro to Integrated Learning
+#3|398565|GSR 150|Odell Ostrowski|CR:4|CE:15|MC:15|TR|14:00|15:50|Intro to Integrated Learning
+#4|398565|GSR 150|Una Worster|CR:4|CE:15|MC:10|MW|14:00|15:50|Intro to Integrated Learning
+#5|398565|GSR 150|Todd Holsinger|CR:4|CE:13|MC:15|MW|11:00|12:50|Intro to Integrated Learning
+#6|398565|GSR 150|Todd Holsinger|CR:4|CE:14|MC:15|MW|13:00|14:50|Intro to Integrated Learning
+#7|398565|GSR 150|Rosetta Harker|CR:4|CE:9|MC:15|MW|13:00|14:50|Intro to Integrated Learning
+#8|398565|GSR 150|Leticia Hedin|CR:4|CE:11|MC:10|TR|14:00|15:50|Intro to Integrated Learning
+#9|398565|GSR 150|Leticia Hedin|CR:4|CE:10|MC:10|TR|10:00|11:50|Intro to Integrated Learning
+#10|398565|GSR 150|Mireille Jain|CR:4|CE:6|MC:15|MW|10:00|11:50|Intro to Integrated Learning
+#11|398565|GSR 150|Ranee Boeck|CR:4|CE:8|MC:10|MW|08:00|09:50|Intro to Integrated Learning
+#12|398565|GSR 150|Ranee Boeck|CR:4|CE:15|MC:10|MW|10:00|11:50|Intro to Integrated Learning
+#13|398565|GSR 150|Ranee Boeck|CR:4|CE:12|MC:10|MW|14:00|15:50|Intro to Integrated Learning
+#14|398565|GSR 150|Ranee Boeck|CR:4|CE:6|MC:15|TR|15:00|16:50|Intro to Integrated Learning
+Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: Enter Class ID: IDX|CID|Course|Prone I
+Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: Returning to

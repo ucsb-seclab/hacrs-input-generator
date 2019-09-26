@@ -1,0 +1,5 @@
+{
+  "command": "cat /home/lukas/lukas/projects/hacrs/cgc/bins/challenges_qualifiers/KPRCA_00040/pov/pov_0.input | /home/lukas/.virtualenvs/angr-dev-pypy/bin/shellphish-qemu-cgc-tracer -d exec /home/lukas/lukas/projects/hacrs/cgc/bins/challenges_qualifiers/KPRCA_00040/bin/KPRCA_00040 2>&1 1>/dev/null | tail -n 10", 
+  "exit_code": 0, 
+  "crash_trace": "Trace 0x55aa135f5e60 [080488dc] "
+}

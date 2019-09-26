@@ -1,0 +1,48 @@
+This is the Chuck Norris (joke) Management Protocol (CNMP).
+We know you need a break, so take some time and amuse yourself. If you have a good Chuck Norris joke, you can add it to our listing.
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 22: When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 35: Einstein said you can't move at the speed of light. Obviously he was never kicked by Chuck Norris...
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 45
+> Current CNMP joke count is 46. Enjoy!
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 2: There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.
+> Is our menu so extensive that you cannot remember all of the commands? Here, let me jog all 6 of your neurons:
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> Joke added. Thanks for sharing! Your joke is ID: 46
+> Thanks for the laughs. Come back soon!
+> 

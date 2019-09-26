@@ -1,0 +1,25 @@
+User Manager Console:
+1) Create User
+2) User Login
+3) Admin Login
+4) Exit
+Username: Password: User created successfully.
+1) Create User
+2) User Login
+3) Admin Login
+4) Exit
+Enter Username: Enter Password: Login success.
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+No messages.
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+No m

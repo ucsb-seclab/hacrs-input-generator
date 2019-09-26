@@ -1,0 +1,1057 @@
+UNIVERSAL SEQ 
+    UNIVERSAL GENTIME INVALID TIME
+    UNIVERSAL GENTIME INVALID TIME
+    UNIVERSAL SEQ 
+        UNIVERSAL INTEGER EE 14 
+        UNIVERSAL BOOLEAN True
+        UNIVERSAL TELESTR h\x8dZ\xd1\x16w\x3e
+        UNIVERSAL BOOLEAN False
+        UNIVERSAL VISSTR 
+        UNIVERSAL OCTETSTR 21 54 EF DF 7D 
+        UNIVERSAL SEQ 
+            UNIVERSAL SEQ 
+                UNIVERSAL NUMSTR R\xa5\x9b\xf2
+            UNIVERSAL NUMSTR R\xa5\x9b\xf2
+            UNIVERSAL BITSTR 8F 
+            UNIVERSAL SEQ 
+                UNIVERSAL IA5STR \x84
+                UNIVERSAL OID 
+                UNIVERSAL GENTIME INVALID TIME
+            UNIVERSAL IA5STR \x3\x23
+            UNIVERSAL NUMSTR \xefn\xd0\x90\xfdp\xefa
+            UNIVERSAL BOOLEAN False
+        UNIVERSAL INTEGER 0A 07 AC EF 
+        UNIVERSAL NUMSTR \xd\xc47U\xef\x92N
+    UNIVERSAL BITSTR D9 23 15 DE 12 02 24 
+    UNIVERSAL UTFSTR Bf\x24
+    UNIVERSAL UTCTIME INVALID TIME
+    UNIVERSAL SEQ 
+        UNIVERSAL IA5STR \x87
+        UNIVERSAL GENTIME INVALID TIME
+        UNIVERSAL OID 
+        UNIVERSAL UTFSTR \xa6\xe9\xfc
+        UNIVERSAL TELESTR J
+        UNIVERSAL UTCTIME INVALID TIME
+        UNIVERSAL VIDSTR \x20\x7d\xe0
+        UNIVERSAL SET 
+            UNIVERSAL UTFSTR \x3a\xed\x66\xb4
+            UNIVERSAL NUMSTR \xec
+            UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL NUMSTR Om\x4
+            UNIVERSAL OCTETSTR 86 
+            UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL UTCTIME INVALID TIME
+            UNIVERSAL TELESTR \xefI\xea\x81
+            UNIVERSAL VIDSTR 
+            UNIVERSAL SEQ 
+                UNIVERSAL BITSTR 
+                UNIVERSAL UTFSTR a\xf4\xd9\xf1m
+                UNIVERSAL VISSTR \xe566\x1a\xb9\xa1
+                UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL IA5STR B6\xf7\x11\xad\xa8\xa3
+                UNIVERSAL SET 
+                    UNIVERSAL OID 
+                    UNIVERSAL INTEGER CE C6 A3 13 AF 0F 
+                    UNIVERSAL GENTIME INVALID TIME
+                    UNIVERSAL INTEGER 83 95 36 64 F8 
+                    UNIVERSAL SET 
+                        UNIVERSAL BITSTR 08 
+                        UNIVERSAL GENTIME INVALID TIME
+                        UNIVERSAL OID 
+                        UNIVERSAL UTFSTR \xb0\xf6v\x1e
+                        UNIVERSAL IA5STR \xe9\xbe\x82po\x9f
+                UNIVERSAL SET 
+                    UNIVERSAL NULL UNPRINTABLE
+                    UNIVERSAL UTCTIME INVALID TIME
+                    UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL UTFSTR w
+                UNIVERSAL BITSTR F8 F2 7D B8 C9 2D 92 
+                UNIVERSAL PRINTSTR \xb7\x22\x9cm\x2e\xc8\xa8\xe
+                UNIVERSAL NUMSTR \x3fE\xec\x8a\x96g
+                UNIVERSAL OID 
+                UNIVERSAL VISSTR t\x3\x8c\x7fz\xa2u
+                UNIVERSAL TELESTR \xe9\xd4\x3c
+                UNIVERSAL OID 
+                UNIVERSAL IA5STR \x1bT\xd4\xbc\x83\x90A\x5f
+            UNIVERSAL OCTETSTR 0D 5A 7F A9 
+            UNIVERSAL IA5STR 
+            UNIVERSAL VIDSTR \xd7\xa9
+        UNIVERSAL VISSTR \xc3z\x23
+        UNIVERSAL VIDSTR \xf0\x3f\xcd
+        UNIVERSAL OCTETSTR 3E 8B 
+        UNIVERSAL OID 
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL PRINTSTR \xfdfO
+        UNIVERSAL OID 
+    UNIVERSAL VISSTR \x3b\x1b
+    UNIVERSAL VISSTR \x92\x3c\xa5\xcb\x5f\x5d\x7f\x1d
+    UNIVERSAL GENTIME INVALID TIME
+    UNIVERSAL GENTIME INVALID TIME
+    UNIVERSAL TELESTR \x17\x9
+    UNIVERSAL IA5STR \xb3\xfb\xf8\x2f\x2a\x3b\x9
+    UNIVERSAL TELESTR \xbf
+    UNIVERSAL PRINTSTR \x10\xf5\xa6\x8d\xdc
+    UNIVERSAL SEQ 
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL GENTIME INVALID TIME
+        UNIVERSAL PRINTSTR \x83\xb
+        UNIVERSAL OCTETSTR 6C 6A D2 C3 D8 F9 BE 32 
+        UNIVERSAL INTEGER 42 17 
+        UNIVERSAL IA5STR \x98k\xf8\xf4\xd7\xc1\x1bu
+        UNIVERSAL BOOLEAN True
+        UNIVERSAL NULL UNPRINTABLE
+    UNIVERSAL PRINTSTR \xb8
+    UNIVERSAL GENTIME INVALID TIME
+    UNIVERSAL NULL UNPRINTABLE
+    UNIVERSAL PRINTSTR n\x1c\x7b\x3e
+    UNIVERSAL INTEGER 3C EA DD 
+    UNIVERSAL OCTETSTR 7D F9 66 85 73 25 17 BC 
+    UNIVERSAL BITSTR BF 8E 29 CE 06 9E 
+    UNIVERSAL UTCTIME INVALID TIME
+    UNIVERSAL TELESTR \x5c9D\x40
+    UNIVERSAL SEQ 
+        UNIVERSAL UTCTIME INVALID TIME
+        UNIVERSAL UTCTIME INVALID TIME
+        UNIVERSAL PRINTSTR Z\x83\xcc9\x8fp
+        UNIVERSAL PRINTSTR 
+        UNIVERSAL VIDSTR 
+        UNIVERSAL BOOLEAN False
+        UNIVERSAL VIDSTR L
+        UNIVERSAL SET 
+            UNIVERSAL OID 
+            UNIVERSAL NUMSTR 
+            UNIVERSAL UTCTIME INVALID TIME
+            UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL GENTIME INVALID TIME
+            UNIVERSAL GENTIME INVALID TIME
+            UNIVERSAL IA5STR \x3e
+        UNIVERSAL GENTIME INVALID TIME
+        UNIVERSAL INTEGER AB AF 68 B9 
+        UNIVERSAL BOOLEAN True
+        UNIVERSAL INTEGER 33 C1 20 59 D7 80 
+        UNIVERSAL TELESTR l\x1cS\xd4\x26
+    UNIVERSAL SET 
+        UNIVERSAL OID 
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL PRINTSTR \x1e\x11\xb6\xa25\x5
+        UNIVERSAL INTEGER 97 67 9D C1 F5 2E 
+        UNIVERSAL UTFSTR \x9b\xe8
+        UNIVERSAL PRINTSTR \x29\xff3\xbe\x88
+        UNIVERSAL UTCTIME INVALID TIME
+        UNIVERSAL NUMSTR \x7b\x5f\xd4\xc1
+        UNIVERSAL VIDSTR \xe\x99\x26Ly\x2cC\x15
+        UNIVERSAL NUMSTR \xda\xc7\xe1ON\x9
+        UNIVERSAL VISSTR 0\x4\x97
+        UNIVERSAL VIDSTR 9\x3d\xe8\xab\xbd\xf8\xee\x24
+        UNIVERSAL OCTETSTR 55 F2 
+        UNIVERSAL UTFSTR \x8d\x3a\xc3\x16\xdbY
+        UNIVERSAL PRINTSTR \x1a\x81\xb4n\xb2\xc7\x94t
+    UNIVERSAL TELESTR \xc4\x3e\x20b\xea
+    UNIVERSAL SET 
+        UNIVERSAL IA5STR \xba\x25\xb4F\x81
+        UNIVERSAL SET 
+            UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL VISSTR \x26\x5dF\xa9\x5f
+            UNIVERSAL PRINTSTR \x3dDg\x21\xbd\x8c\x20
+            UNIVERSAL IA5STR \xd7\xe8\x9c\xc9\xc20
+            UNIVERSAL NUMSTR 
+            UNIVERSAL SET 
+                UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL PRINTSTR \x3c\x7\xd4
+                UNIVERSAL PRINTSTR 
+            UNIVERSAL SET 
+                UNIVERSAL IA5STR \x97\xf2\xe2\x23Y
+                UNIVERSAL UTCTIME INVALID TIME
+                UNIVERSAL VISSTR u\x9a\xac
+                UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL INTEGER 0E E2 
+            UNIVERSAL PRINTSTR x\x21\x1a\xb5
+            UNIVERSAL VIDSTR \x2c
+            UNIVERSAL SET 
+                UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL NUMSTR d\xc4\xe9\xde
+                UNIVERSAL TELESTR \x24\xc6z\x16\xb7\xcc
+                UNIVERSAL SEQ 
+                    UNIVERSAL NULL UNPRINTABLE
+                    UNIVERSAL PRINTSTR \x3aA\x8c\xb8
+                    UNIVERSAL UTFSTR \x5e\xe9
+                    UNIVERSAL VISSTR \xddE\x3aV\xfb\xde
+                    UNIVERSAL TELESTR \xd3\xd9\x8e\x21
+                    UNIVERSAL NUMSTR s\xa4R
+                    UNIVERSAL BOOLEAN False
+                    UNIVERSAL SEQ 
+                        UNIVERSAL UTFSTR A\xda\xac\xc1
+                        UNIVERSAL SEQ 
+                            UNIVERSAL INTEGER CB 43 FA 01 D4 A0 93 21 
+                            UNIVERSAL VISSTR \xc0\x1e06\xf7
+                            UNIVERSAL OCTETSTR 
+                            UNIVERSAL NULL UNPRINTABLE
+                            UNIVERSAL BOOLEAN False
+                            UNIVERSAL TELESTR \xdd\xd5\xf7U\xf8\x1a
+                            UNIVERSAL PRINTSTR l\xdb\xc2\xe2
+                            UNIVERSAL IA5STR \x5f\xbd\x88\xd7N\xc\x1d\x8f
+                        UNIVERSAL VIDSTR \xb8\x1ax\x9ae\xd5
+                        UNIVERSAL TELESTR \xb\x9e\xe7U\xf4sW\x99
+                        UNIVERSAL UTFSTR \x2f\x5d\x85Vt\xbf
+                        UNIVERSAL OID 
+                        UNIVERSAL TELESTR 3\xed
+                        UNIVERSAL BITSTR 26 1B 
+                        UNIVERSAL SEQ 
+                            UNIVERSAL GENTIME INVALID TIME
+                            UNIVERSAL UTCTIME INVALID TIME
+                            UNIVERSAL PRINTSTR 
+                            UNIVERSAL GENTIME INVALID TIME
+                            UNIVERSAL SET 
+                                UNIVERSAL OCTETSTR CA 
+                                UNIVERSAL GENTIME INVALID TIME
+                                UNIVERSAL VIDSTR 
+                                UNIVERSAL INTEGER CA C3 0F 91 
+                                UNIVERSAL BOOLEAN True
+                                UNIVERSAL VISSTR \x82\x22F\xa9\x3
+                            UNIVERSAL VISSTR \x2a\x1a\xa\x4\xbd
+                            UNIVERSAL VIDSTR \xe59B\x94\x91\xbc
+                            UNIVERSAL OCTETSTR 9B 
+                            UNIVERSAL BITSTR 6E 80 AB 34 6C 
+                            UNIVERSAL INTEGER A6 7C 27 5E 0D FC D4 CF 
+                            UNIVERSAL SET 
+                                UNIVERSAL UTCTIME INVALID TIME
+                                UNIVERSAL GENTIME INVALID TIME
+                                UNIVERSAL UTFSTR \x28
+                                UNIVERSAL SET 
+                                    UNIVERSAL UTFSTR \xdb\x9df\xae
+                                    UNIVERSAL VIDSTR \xd0\xfd\xe4V\x8c
+                                    UNIVERSAL BITSTR 
+                                    UNIVERSAL SET 
+                                        UNIVERSAL UTFSTR \x10\x5f\xe0u\x8
+                                    UNIVERSAL UTFSTR \x10\x5f\xe0u\x8
+                                    UNIVERSAL VISSTR \x9c\x22\xb4\x18\xe5\xd7\x402
+                                    UNIVERSAL GENTIME INVALID TIME
+                            UNIVERSAL OID 
+                        UNIVERSAL UTCTIME INVALID TIME
+                        UNIVERSAL NULL UNPRINTABLE
+                        UNIVERSAL UTCTIME INVALID TIME
+                        UNIVERSAL OID 
+                        UNIVERSAL UTCTIME INVALID TIME
+                        UNIVERSAL PRINTSTR \x96
+                        UNIVERSAL UTCTIME INVALID TIME
+                    UNIVERSAL UTFSTR \x80\x9b
+                    UNIVERSAL TELESTR \xd0\x12k\x8f\x81r\x5
+                    UNIVERSAL BITSTR 6F 10 E9 73 72 57 3A 
+                    UNIVERSAL VIDSTR \xaa\xcc\x3f\xe1\xcfo\xbdw
+                    UNIVERSAL GENTIME INVALID TIME
+                    UNIVERSAL TELESTR \xa7\xda\xfc\x3aW\xf6
+                    UNIVERSAL UTFSTR \x20p\x3b\x10\x9cP\xe5y
+                    UNIVERSAL SET 
+                        UNIVERSAL UTCTIME INVALID TIME
+                UNIVERSAL VISSTR \x20P
+                UNIVERSAL UTFSTR \xc9\xbb\xff
+                UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL BOOLEAN True
+                UNIVERSAL INTEGER 05 76 C2 0B 6A B7 36 
+                UNIVERSAL BOOLEAN False
+                UNIVERSAL VISSTR \xb7\xea\x18\xe\x9f
+                UNIVERSAL OID 
+            UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL SET 
+            UNIVERSAL INTEGER 2C DE 05 5A 10 
+            UNIVERSAL UTFSTR \x8b\xcd\xc3\xe4
+            UNIVERSAL VIDSTR \x9d\xd8
+            UNIVERSAL OCTETSTR 7E 28 
+            UNIVERSAL VIDSTR \xa29\xa5\xf3
+            UNIVERSAL BITSTR 8E E2 FC 92 29 
+            UNIVERSAL IA5STR \xe2\x21\x60\x87c\x7b
+            UNIVERSAL SEQ 
+                UNIVERSAL OCTETSTR 
+                UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL SET 
+                    UNIVERSAL TELESTR \x9f
+                    UNIVERSAL SEQ 
+                        UNIVERSAL UTCTIME INVALID TIME
+                        UNIVERSAL NULL UNPRINTABLE
+                        UNIVERSAL INTEGER 44 E5 A3 9E C1 1E B1 
+                        UNIVERSAL VISSTR \x8b
+                        UNIVERSAL BITSTR C4 
+                        UNIVERSAL UTCTIME INVALID TIME
+                        UNIVERSAL PRINTSTR \xf7\x1d\x97\x28\xc9\x20\xdc
+                        UNIVERSAL NULL UNPRINTABLE
+                    UNIVERSAL UTCTIME INVALID TIME
+                    UNIVERSAL GENTIME INVALID TIME
+                    UNIVERSAL UTFSTR g\x5d\xc2\xa1H
+                    UNIVERSAL OID 
+                    UNIVERSAL OCTETSTR FF 3C 6F B2 46 EA 
+                UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL OCTETSTR F7 23 30 
+                UNIVERSAL BITSTR 8B 92 DD 75 21 38 78 
+                UNIVERSAL TELESTR \xdcNU\xaa\xc7\x2f
+                UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL PRINTSTR 
+            UNIVERSAL SEQ 
+                UNIVERSAL BITSTR 
+            UNIVERSAL BITSTR 
+        UNIVERSAL OCTETSTR 3F 75 76 B1 
+        UNIVERSAL SET 
+            UNIVERSAL UTCTIME INVALID TIME
+            UNIVERSAL UTFSTR 7\x89
+            UNIVERSAL INTEGER 45 98 32 AC 07 A9 39 21 
+            UNIVERSAL VIDSTR E
+            UNIVERSAL SET 
+                UNIVERSAL UTFSTR \xf9\x3f\xb9Tk
+                UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL SET 
+                    UNIVERSAL BITSTR BC 07 3D C8 B8 D3 32 26 
+                UNIVERSAL UTFSTR H\x3f4\xafqX
+                UNIVERSAL VISSTR \x80\xd4\x21\x9b\x86\x8e\x3a
+                UNIVERSAL TELESTR \x9\xfd\x25\xd8
+                UNIVERSAL IA5STR \xd4\xb4\xadICx\xdc\xd0
+                UNIVERSAL NUMSTR \xd4\x2a\x1
+                UNIVERSAL BOOLEAN False
+                UNIVERSAL UTCTIME INVALID TIME
+                UNIVERSAL UTCTIME INVALID TIME
+                UNIVERSAL SEQ 
+                    UNIVERSAL VISSTR \x98\x9e
+                    UNIVERSAL BOOLEAN False
+                    UNIVERSAL VIDSTR Bqb
+                    UNIVERSAL OID 
+                    UNIVERSAL BITSTR 63 E8 5C 14 1F 55 4C A8 
+                    UNIVERSAL UTCTIME INVALID TIME
+                    UNIVERSAL VISSTR \xc0J
+                UNIVERSAL SEQ 
+                    UNIVERSAL NULL UNPRINTABLE
+                    UNIVERSAL NUMSTR V1t
+                    UNIVERSAL TELESTR \x2d7\x8b
+                    UNIVERSAL SET 
+                        UNIVERSAL BOOLEAN True
+                        UNIVERSAL GENTIME INVALID TIME
+                        UNIVERSAL IA5STR \xd1\xb9\xf4\x8e\x8e\xb3z
+                        UNIVERSAL UTFSTR g\x8bz\x98L\xbaK
+                        UNIVERSAL VIDSTR \x95f\x7m
+                        UNIVERSAL VIDSTR \xf9\xa8\x81\x16\xdcY
+                        UNIVERSAL VIDSTR \x11\xc2\x7\x5e
+                        UNIVERSAL UTCTIME INVALID TIME
+                    UNIVERSAL OCTETSTR 96 BA AE E5 4C 81 7A 55 
+                    UNIVERSAL VIDSTR 
+                    UNIVERSAL INTEGER 
+                    UNIVERSAL NUMSTR 5\xba
+                    UNIVERSAL VISSTR \xb6\x3c\xa\xe6
+                    UNIVERSAL TELESTR \xde\xe4\xdd\xe8
+                    UNIVERSAL PRINTSTR \x88\xfb\xea\xcf\xd3W\xd1
+                UNIVERSAL INTEGER 8D 9B 8D 81 56 
+            UNIVERSAL SEQ 
+                UNIVERSAL UTCTIME INVALID TIME
+                UNIVERSAL UTFSTR \xd\xf6\xc0\x2d\x8ae6
+                UNIVERSAL BOOLEAN True
+                UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL NUMSTR \xfe0\x2b
+                UNIVERSAL OCTETSTR 7C 52 89 D1 EB C2 8B 
+                UNIVERSAL BOOLEAN True
+                UNIVERSAL PRINTSTR \x91\xa5
+                UNIVERSAL SEQ 
+                    UNIVERSAL OID 
+                    UNIVERSAL GENTIME INVALID TIME
+                    UNIVERSAL VISSTR \x8a
+                UNIVERSAL OID 
+                UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL INTEGER 87 
+            UNIVERSAL GENTIME INVALID TIME
+            UNIVERSAL TELESTR \x3\xc7\xf9\xd
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL PRINTSTR \x9\xa1m\x3c
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL NUMSTR \xb3\xe0
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL INTEGER 06 62 2E 
+        UNIVERSAL VIDSTR \x3e\x2
+    UNIVERSAL BOOLEAN False
+    UNIVERSAL UTCTIME INVALID TIME
+    UNIVERSAL SEQ 
+        UNIVERSAL PRINTSTR \x40\x2c\x7e\xd2
+        UNIVERSAL BOOLEAN False
+        UNIVERSAL OCTETSTR 94 62 96 15 3D 
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL BITSTR 2D 
+        UNIVERSAL OCTETSTR 0C C5 3A B7 F1 BB 
+        UNIVERSAL UTFSTR \x15ewM\x24\x9f
+        UNIVERSAL SEQ 
+            UNIVERSAL VIDSTR \xc8\xf5\x2f\xa2\x3e\x5f
+            UNIVERSAL VIDSTR \x26O\xbe
+            UNIVERSAL OID 
+        UNIVERSAL NUMSTR 
+        UNIVERSAL SEQ 
+            UNIVERSAL BITSTR 3E B1 2F B3 51 2F 
+        UNIVERSAL BOOLEAN True
+        UNIVERSAL UTCTIME INVALID TIME
+        UNIVERSAL UTCTIME INVALID TIME
+    UNIVERSAL UTFSTR \xe\x9d\xe2\x5e\xa5
+    UNIVERSAL SET 
+        UNIVERSAL VISSTR \xa8G\x1a\xdaQo\x29
+        UNIVERSAL NUMSTR 
+        UNIVERSAL PRINTSTR \xb\x3bZ\x18\xe1
+        UNIVERSAL PRINTSTR Y\x97\x24\x11G\x9ar\xde
+        UNIVERSAL PRINTSTR \xe5\xd7\xc5\xbd
+        UNIVERSAL SEQ 
+            UNIVERSAL NUMSTR \x11\xc2g\xf4I\xca\xd
+            UNIVERSAL OCTETSTR 69 
+            UNIVERSAL VIDSTR \xdcr\x21\xdf\xa5
+            UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL IA5STR 
+            UNIVERSAL VISSTR \xcd\xb6\xfa
+            UNIVERSAL IA5STR \xcb\x80V\xb\x1a
+            UNIVERSAL UTFSTR 
+            UNIVERSAL VIDSTR \xba\x9\xb28\x1f\x26\xa\xda
+            UNIVERSAL UTFSTR \x7\x84
+            UNIVERSAL BOOLEAN True
+            UNIVERSAL OCTETSTR E1 D6 47 96 59 7F 03 
+            UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL VIDSTR 
+    UNIVERSAL PRINTSTR \x84m\xc9\xfb\xb\xfbb
+    UNIVERSAL PRINTSTR \xc3\x83n\xc4
+    UNIVERSAL VIDSTR \xfR\xb4\xe9\xf1
+    UNIVERSAL OID 
+    UNIVERSAL VIDSTR \x99
+    UNIVERSAL SET 
+        UNIVERSAL PRINTSTR \xb1\xdd\xda\xc3\x93
+        UNIVERSAL TELESTR a\x5g
+        UNIVERSAL VIDSTR \xa6\x2aDv\xb9\xbec\x99
+        UNIVERSAL IA5STR \x5f\xcak\x7e\xd1\x5d\x2az
+        UNIVERSAL SET 
+            UNIVERSAL NUMSTR \x3f
+            UNIVERSAL PRINTSTR y
+            UNIVERSAL VIDSTR 
+            UNIVERSAL BITSTR 48 B9 D3 E5 D0 
+            UNIVERSAL SET 
+                UNIVERSAL BITSTR 3B 9A 87 61 10 AB 
+                UNIVERSAL BITSTR 41 31 0A 29 64 3E 
+                UNIVERSAL OID 
+                UNIVERSAL BOOLEAN True
+                UNIVERSAL OID 
+                UNIVERSAL IA5STR \x17S
+                UNIVERSAL UTFSTR \x83\x15\x89Q
+                UNIVERSAL NUMSTR u\xf0\xc8\xfd
+                UNIVERSAL SEQ 
+                    UNIVERSAL OCTETSTR 11 4F 
+                    UNIVERSAL OID 
+                    UNIVERSAL TELESTR 7\xcf\x27\xf4\xb0
+                    UNIVERSAL NULL UNPRINTABLE
+                    UNIVERSAL PRINTSTR 2\xe4\xb5\xdf\xaa
+                    UNIVERSAL INTEGER F7 84 FA EF 08 59 55 
+                    UNIVERSAL NULL UNPRINTABLE
+                    UNIVERSAL SET 
+                        UNIVERSAL PRINTSTR \xfd\x3\x60\x5eyU\x7d4
+                        UNIVERSAL VIDSTR \x17\x22\x83\xc2k\x87\xb6\x87
+                        UNIVERSAL NULL UNPRINTABLE
+                        UNIVERSAL OCTETSTR 
+                        UNIVERSAL VISSTR \x88\xf2S\xfa\xfe\x9e\x28\x1b
+                        UNIVERSAL OID 
+                        UNIVERSAL SET 
+                            UNIVERSAL GENTIME INVALID TIME
+                        UNIVERSAL VISSTR \xed
+                        UNIVERSAL OCTETSTR 30 
+                        UNIVERSAL SET 
+                            UNIVERSAL SEQ 
+                                UNIVERSAL TELESTR \xc8
+                                UNIVERSAL PRINTSTR \xca3
+                                UNIVERSAL UTFSTR 
+                                UNIVERSAL OCTETSTR F6 
+                                UNIVERSAL BITSTR C4 42 10 50 
+                                UNIVERSAL BOOLEAN True
+                                UNIVERSAL BITSTR 8D 6F D9 DC 7C 
+                                UNIVERSAL IA5STR \xfcQ\xad\xc9G\xf3\xbb\xf8
+                            UNIVERSAL UTCTIME INVALID TIME
+                            UNIVERSAL SEQ 
+                                UNIVERSAL OCTETSTR 08 47 
+                                UNIVERSAL PRINTSTR \x11\x5d\xbfQ
+                                UNIVERSAL UTFSTR \xd9\xb0\xaa\x5fd\xba\xfbf
+                                UNIVERSAL VIDSTR \x9c\x9f\x3f\x27\xc4\xc6
+                                UNIVERSAL TELESTR \xf6
+                                UNIVERSAL SEQ 
+                                    UNIVERSAL BITSTR 52 
+                                    UNIVERSAL GENTIME INVALID TIME
+                                UNIVERSAL VIDSTR \x5dQ\xd2\xc9B\x94\x3\xff
+                                UNIVERSAL OID 
+                                UNIVERSAL VIDSTR \x81R\x19\xcb\xfa\x89\x1a
+                            UNIVERSAL INTEGER DE C8 52 ED 
+                            UNIVERSAL VISSTR 
+                            UNIVERSAL BOOLEAN False
+                            UNIVERSAL BITSTR CF FC 29 3C D8 
+                            UNIVERSAL BITSTR DD A6 49 9C 
+                            UNIVERSAL NUMSTR \xd0\xaf\xaB\xe5
+                            UNIVERSAL SET 
+                                UNIVERSAL IA5STR 
+                                UNIVERSAL BITSTR 0E 1D 93 D4 D4 27 A1 
+                                UNIVERSAL UTCTIME INVALID TIME
+                            UNIVERSAL VIDSTR \xe7\xf8\xf7
+                            UNIVERSAL PRINTSTR \xe3\xbd\xde\xe1\x8\xe0\xce\x40
+                            UNIVERSAL VISSTR \xca\x5b\xd9P\xf8\xe0\xe7\xa5
+                            UNIVERSAL INTEGER 8A CE 50 B6 83 B5 
+                        UNIVERSAL NUMSTR 
+            UNIVERSAL VISSTR \xeb
+            UNIVERSAL BOOLEAN False
+            UNIVERSAL UTFSTR \xa9Qz
+            UNIVERSAL GENTIME INVALID TIME
+            UNIVERSAL TELESTR \xc5\x5d\x7d\x8\xaf
+            UNIVERSAL SEQ 
+                UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL SEQ 
+                    UNIVERSAL TELESTR \xa0\x7f
+                    UNIVERSAL TELESTR \xbb\x3a\x10S\x409\xc8
+                    UNIVERSAL BOOLEAN False
+                    UNIVERSAL NULL UNPRINTABLE
+                    UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL SET 
+                    UNIVERSAL INTEGER 10 8B 10 
+                UNIVERSAL INTEGER 10 8B 10 
+                UNIVERSAL TELESTR k\x95\x2f\x9d\x23
+                UNIVERSAL UTCTIME INVALID TIME
+                UNIVERSAL BOOLEAN False
+            UNIVERSAL PRINTSTR \xc8p\x8d\xc9
+            UNIVERSAL BOOLEAN True
+            UNIVERSAL PRINTSTR b
+        UNIVERSAL GENTIME INVALID TIME
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL SET 
+            UNIVERSAL UTFSTR \xfb\x11\x5b\x16\xf3\x28
+            UNIVERSAL BOOLEAN True
+        UNIVERSAL GENTIME INVALID TIME
+        UNIVERSAL BOOLEAN False
+        UNIVERSAL NULL UNPRINTABLE
+    UNIVERSAL NULL UNPRINTABLE
+    UNIVERSAL SEQ 
+        UNIVERSAL SET 
+            UNIVERSAL PRINTSTR \xb9\xc7h\x2b
+            UNIVERSAL VISSTR \xcbn
+            UNIVERSAL TELESTR P\xb7\xe4
+            UNIVERSAL NUMSTR \x22\xb9EMz5\xfa
+            UNIVERSAL IA5STR \xf7u\x9\xca\x81
+            UNIVERSAL VIDSTR \xe3
+            UNIVERSAL IA5STR \x90\x5
+            UNIVERSAL IA5STR \x84o\xf2
+    UNIVERSAL SET 
+        UNIVERSAL PRINTSTR \xb9\xc7h\x2b
+        UNIVERSAL VISSTR \xcbn
+        UNIVERSAL TELESTR P\xb7\xe4
+        UNIVERSAL NUMSTR \x22\xb9EMz5\xfa
+        UNIVERSAL IA5STR \xf7u\x9\xca\x81
+        UNIVERSAL VIDSTR \xe3
+        UNIVERSAL IA5STR \x90\x5
+        UNIVERSAL IA5STR \x84o\xf2
+    UNIVERSAL SEQ 
+        UNIVERSAL SEQ 
+            UNIVERSAL INTEGER 98 86 58 
+            UNIVERSAL SET 
+                UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL UTFSTR 
+            UNIVERSAL BITSTR EB 7C D8 B4 
+            UNIVERSAL VISSTR p\x60\x3\x60\x96\x29\x1e
+            UNIVERSAL BITSTR FE 
+            UNIVERSAL PRINTSTR \xc9\x82S
+            UNIVERSAL OID 
+            UNIVERSAL SEQ 
+                UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL OID 
+                UNIVERSAL VISSTR \xc\x60\xcc
+                UNIVERSAL NUMSTR \x88\x82\xcd\xdf\xf7
+                UNIVERSAL UTCTIME INVALID TIME
+                UNIVERSAL OID 
+                UNIVERSAL SEQ 
+                    UNIVERSAL UTCTIME INVALID TIME
+                    UNIVERSAL NUMSTR \xe5\xb7q
+                UNIVERSAL OID 
+                UNIVERSAL SET 
+                    UNIVERSAL PRINTSTR \xc2
+                UNIVERSAL VIDSTR \x5b
+        UNIVERSAL OID 
+        UNIVERSAL UTCTIME INVALID TIME
+        UNIVERSAL UTFSTR \xbe
+        UNIVERSAL VISSTR \xfd
+        UNIVERSAL IA5STR \xbc1yX\x1560
+        UNIVERSAL SEQ 
+            UNIVERSAL UTFSTR M\x1b\xa0\x4\xd2H
+            UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL NUMSTR \x87\x3a
+        UNIVERSAL BITSTR 1B 74 34 D8 A3 2C EF 
+        UNIVERSAL VIDSTR \xe4M\xf2\xe5
+        UNIVERSAL UTFSTR \xc0N\xc2\x7bk\xd0
+        UNIVERSAL VISSTR \xb3\xcf\x95\x87
+        UNIVERSAL UTFSTR A\xc8\xc7\xf1\x8d\x1e\x28\xce
+        UNIVERSAL TELESTR \xc5\xf78\x3a\xf9
+        UNIVERSAL IA5STR \xbd1\xf6B\xe2L
+        UNIVERSAL BITSTR 08 D7 1A D3 CA F7 C2 D0 
+    UNIVERSAL OID 
+    UNIVERSAL NUMSTR G\xacx
+    UNIVERSAL IA5STR u\xca\xb3u
+    UNIVERSAL NUMSTR vz
+    UNIVERSAL TELESTR \x8eN\xcb\x27\xd2\x4B
+    UNIVERSAL VISSTR \xd6\xc8
+    UNIVERSAL GENTIME INVALID TIME
+    UNIVERSAL UTCTIME INVALID TIME
+    UNIVERSAL INTEGER 18 11 ED 
+    UNIVERSAL NUMSTR R\xd1gA\x17
+    UNIVERSAL VIDSTR \xa4
+    UNIVERSAL IA5STR \x8ce\xbe\xc0\xa2\xc5
+    UNIVERSAL UTFSTR \x27\xd0f\xff\xd7\x24
+    UNIVERSAL VISSTR \x23\xfa\xdf\x26
+    UNIVERSAL VIDSTR o\x91\x28\xcc\x8f\x96
+    UNIVERSAL SEQ 
+        UNIVERSAL IA5STR \xe5\x90LE\xc8
+        UNIVERSAL VISSTR \xfc
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL IA5STR \x5d\xc\xe8\x96\x21\xa7\x1e\xd8
+        UNIVERSAL TELESTR \x82\x90\x9fO\x5\x8d\xc6
+        UNIVERSAL IA5STR \xb6\xcf\x11\xccW\x2\x8d\x23
+        UNIVERSAL UTFSTR Q\x89\xc9\xd8\xfcS\xf2
+        UNIVERSAL NULL UNPRINTABLE
+        UNIVERSAL SEQ 
+            UNIVERSAL SET 
+                UNIVERSAL TELESTR \x3f\xc3\x2b
+                UNIVERSAL BITSTR D7 93 E1 6B 5D C8 
+                UNIVERSAL TELESTR \x5f\xe3o\x17\x86S\xd6\x9e
+                UNIVERSAL SET 
+                    UNIVERSAL NUMSTR \xdb\x89
+                    UNIVERSAL BOOLEAN True
+                    UNIVERSAL VIDSTR \xb0\xd8\x94
+                    UNIVERSAL NULL UNPRINTABLE
+                    UNIVERSAL IA5STR \xf4\xdbM\xee\x29\x88
+                    UNIVERSAL UTFSTR e
+                    UNIVERSAL INTEGER 12 10 71 F1 17 13 
+                    UNIVERSAL OCTETSTR 12 8E E3 16 7A EC 
+                    UNIVERSAL VIDSTR 9\xc3\xd5\x2\xc2\x98\x10
+                    UNIVERSAL VIDSTR \xd1
+                    UNIVERSAL BOOLEAN True
+                    UNIVERSAL VIDSTR u\xc1
+                    UNIVERSAL TELESTR \x81f\x24\x3
+                    UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL BOOLEAN True
+                UNIVERSAL OCTETSTR BC 7F 97 DF 53 32 
+                UNIVERSAL UTCTIME INVALID TIME
+                UNIVERSAL SET 
+                    UNIVERSAL NULL UNPRINTABLE
+                    UNIVERSAL SEQ 
+                        UNIVERSAL SET 
+                            UNIVERSAL VIDSTR \x16w\x5e
+                            UNIVERSAL VIDSTR I4\x17\x3f\x2bRd\xc5
+                            UNIVERSAL VISSTR \xfc\xb\xc3\x83\xff\xdcP
+                            UNIVERSAL NUMSTR \x86\x16
+                            UNIVERSAL IA5STR \x14\xe0\x91Ac\x6
+                            UNIVERSAL VIDSTR 0J\xb\x2c\xd9G
+                            UNIVERSAL INTEGER 4A 4B C9 BA AA 49 04 14 
+                            UNIVERSAL NULL UNPRINTABLE
+                            UNIVERSAL UTFSTR \x23\x29N\xf7\xb5\xb\xb7
+                            UNIVERSAL UTCTIME INVALID TIME
+                            UNIVERSAL NULL UNPRINTABLE
+                            UNIVERSAL VISSTR hd\x1f
+                        UNIVERSAL OCTETSTR F6 53 46 38 04 28 
+                        UNIVERSAL OCTETSTR 56 
+                        UNIVERSAL NULL UNPRINTABLE
+                        UNIVERSAL SET 
+                            UNIVERSAL VIDSTR \x5f\x24\xce6\xda\xa7\x13\x96
+                        UNIVERSAL VIDSTR \x27\xdf\xdd
+                        UNIVERSAL PRINTSTR 
+                        UNIVERSAL BITSTR 81 
+                        UNIVERSAL IA5STR \xdd\x2fn\x2dh\x27
+                        UNIVERSAL SET 
+                            UNIVERSAL OCTETSTR 47 94 10 17 9F 
+                            UNIVERSAL SEQ 
+                                UNIVERSAL VISSTR r\xc0
+                                UNIVERSAL BITSTR D4 
+                                UNIVERSAL VIDSTR \x853\x8c
+                                UNIVERSAL BOOLEAN False
+                                UNIVERSAL UTFSTR \x19
+                                UNIVERSAL SEQ 
+                                    UNIVERSAL BOOLEAN True
+                                    UNIVERSAL BOOLEAN True
+                                    UNIVERSAL UTCTIME INVALID TIME
+                                    UNIVERSAL SET 
+                                        UNIVERSAL VISSTR \x84
+                                        UNIVERSAL SEQ 
+                                            UNIVERSAL BITSTR 
+                                            UNIVERSAL PRINTSTR \x5c
+                                            UNIVERSAL VIDSTR 2\xfb\x2f\xc3
+                                            UNIVERSAL INTEGER A3 AD 
+                                            UNIVERSAL NUMSTR \xc8
+                                            UNIVERSAL IA5STR \xa2
+                                            UNIVERSAL OCTETSTR 8D 24 09 08 48 E9 9A 
+                                            UNIVERSAL OID 
+                                            UNIVERSAL SEQ 
+                                                UNIVERSAL PRINTSTR \xa8G\xe9\xd8tb
+                                                UNIVERSAL BITSTR 
+                                                UNIVERSAL UTFSTR \x92\xd\xb1\xc7\x27
+                                                UNIVERSAL GENTIME INVALID TIME
+                                                UNIVERSAL PRINTSTR Up\xf7\xf0\x7
+                                                UNIVERSAL BITSTR 8A 6B F7 75 E7 1C 20 44 
+                                                UNIVERSAL NULL UNPRINTABLE
+                                                UNIVERSAL NUMSTR 
+                                                UNIVERSAL PRINTSTR \x3c\xd34V\xea\xa9
+                                                UNIVERSAL NULL UNPRINTABLE
+                                                UNIVERSAL OCTETSTR DD C2 
+                                                UNIVERSAL NUMSTR DU
+                                                UNIVERSAL GENTIME INVALID TIME
+                                                UNIVERSAL BITSTR 
+                                            UNIVERSAL VISSTR 4\xb7\xc5\x99\xf9
+                                            UNIVERSAL IA5STR F\xf5\xbe\x18
+                                            UNIVERSAL SET 
+                                                UNIVERSAL GENTIME INVALID TIME
+                                                UNIVERSAL PRINTSTR \x12E\xe4\x86
+                                                UNIVERSAL SEQ 
+                                                    UNIVERSAL PRINTSTR \xf2\xa9
+                                                    UNIVERSAL SET 
+                                                        UNIVERSAL VIDSTR \xbdI\xa8
+                                                        UNIVERSAL UTFSTR h\xe2\xdb\xf8\xbf\xf6\xdc
+                                                        UNIVERSAL SET 
+                                                            UNIVERSAL OID 
+                                                            UNIVERSAL VIDSTR \xe7\xf09\xf6V
+                                                            UNIVERSAL INTEGER 5A 51 F1 AD 10 41 37 EE 
+                                                            UNIVERSAL TELESTR \xab\xd0\xd4
+                                                            UNIVERSAL UTFSTR \x9e\x3e\xcf
+                                                            UNIVERSAL IA5STR \x28\x94\x7b\x8c\xa0\xf9\xb0
+                                                            UNIVERSAL IA5STR \xfa\x17\x2e\x7c\x87\x10
+                                                            UNIVERSAL TELESTR \xf4\xc0\xf5
+                                                        UNIVERSAL IA5STR \xde\x81
+                                                        UNIVERSAL OID 
+                                                    UNIVERSAL VIDSTR \xc8\x95\x8fF\x2f\xe2\xeb
+                                                    UNIVERSAL SET 
+                                                        UNIVERSAL SET 
+                                                            UNIVERSAL SEQ 
+                                                                UNIVERSAL VIDSTR Q
+                                                                UNIVERSAL UTCTIME INVALID TIME
+                                                                UNIVERSAL UTFSTR \x8f
+                                                                UNIVERSAL SET 
+                                                                    UNIVERSAL SET 
+                                                                        UNIVERSAL VIDSTR \x8c\xb\xcc\xa1\xc\x7f\xc4\xff
+                                                                        UNIVERSAL GENTIME INVALID TIME
+                                                                        UNIVERSAL UTCTIME INVALID TIME
+                                                                        UNIVERSAL OCTETSTR 1C DD 8C 86 20 2B F8 
+                                                                        UNIVERSAL SET 
+                                                                            UNIVERSAL OCTETSTR DC 45 7E 40 F4 
+                                                                            UNIVERSAL NUMSTR tF\xc4\x7\xeb\x4\xcfI
+                                                                            UNIVERSAL TELESTR x\xf3
+                                                                            UNIVERSAL UTFSTR \xa4\xc5\xb3\xdfB\x7
+                                                                            UNIVERSAL VIDSTR \x18\xf4\xa8\x18\xb9\xefK
+                                                                            UNIVERSAL NULL UNPRINTABLE
+                                                                            UNIVERSAL NULL UNPRINTABLE
+                                                                            UNIVERSAL NULL UNPRINTABLE
+                                                                            UNIVERSAL BITSTR A3 85 69 C1 0A 18 02 
+                                                                            UNIVERSAL SET 
+                                                                                UNIVERSAL BITSTR 27 86 B6 95 
+                                                                                UNIVERSAL VISSTR H\x83\xa5\xdd\xc4v
+                                                                                UNIVERSAL INTEGER AE D8 BB 
+                                                                                UNIVERSAL SEQ 
+                                                                                    UNIVERSAL NUMSTR \x7b\xa9\xf3
+                                                                                    UNIVERSAL SET 
+                                                                                        UNIVERSAL VIDSTR \xea
+                                                                                        UNIVERSAL OCTETSTR F6 94 D3 EB 0A 
+                                                                                        UNIVERSAL TELESTR \xe5\xd2\x4\xd
+                                                                                        UNIVERSAL SEQ 
+                                                                                            UNIVERSAL UTCTIME INVALID TIME
+                                                                                            UNIVERSAL GENTIME INVALID TIME
+                                                                                            UNIVERSAL BITSTR 1B 
+                                                                                            UNIVERSAL IA5STR lj\x2c\x11
+                                                                                            UNIVERSAL NUMSTR \xf9Q\xbb\x5e\xf0\x84\xe3\xa3
+                                                                                            UNIVERSAL SEQ 
+                                                                                                UNIVERSAL OID 
+                                                                                                UNIVERSAL PRINTSTR \x8b
+                                                                                                UNIVERSAL VIDSTR Gwd
+                                                                                                UNIVERSAL SET 
+                                                                                                    UNIVERSAL NULL UNPRINTABLE
+                                                                                                    UNIVERSAL SEQ 
+                                                                                                        UNIVERSAL IA5STR 
+                                                                                                        UNIVERSAL UTFSTR \x17
+                                                                                                        UNIVERSAL IA5STR \xea\xfb\xa
+                                                                                                        UNIVERSAL SEQ 
+                                                                                                            UNIVERSAL UTCTIME INVALID TIME
+                                                                                                            UNIVERSAL IA5STR B\xa7\xeb
+                                                                                                UNIVERSAL OID 
+                                                                                                UNIVERSAL SET 
+                                                                                                    UNIVERSAL UTCTIME INVALID TIME
+                                                                                                    UNIVERSAL PRINTSTR \x89\x28
+                                                                                                    UNIVERSAL NUMSTR d\x5e4\xfb\x5f
+                                                                                                    UNIVERSAL TELESTR 
+                                                                                                    UNIVERSAL UTFSTR \x83B\xf\xcfYF\x2a
+                                                                                                    UNIVERSAL IA5STR \xe1\x5fs\xff\xe9
+                                                                                                    UNIVERSAL VISSTR 
+                                                                                                    UNIVERSAL SET 
+                                                                                                        UNIVERSAL VIDSTR 
+                                                                                                        UNIVERSAL IA5STR 7
+                                                                                                        UNIVERSAL NUMSTR \xff\xdft\x81
+                                                                                                        UNIVERSAL BITSTR AC 14 89 D3 91 42 70 76 
+                                                                                                        UNIVERSAL INTEGER C1 A6 33 9E D2 
+                                                                                                        UNIVERSAL OID 
+                                                                                                        UNIVERSAL OID 
+                                                                                                        UNIVERSAL VIDSTR 
+                                                                                                    UNIVERSAL BITSTR 74 FD A1 EF 3D 31 
+                                                                                                    UNIVERSAL IA5STR M\x97\xa2D\x3b\x26
+                                                                                                    UNIVERSAL IA5STR \xbck\xfd\x40
+                                                                                                    UNIVERSAL BOOLEAN True
+                                                                                                    UNIVERSAL OCTETSTR 9F 
+                                                                                                    UNIVERSAL GENTIME INVALID TIME
+                                                                                                UNIVERSAL VISSTR 
+                                                                                                UNIVERSAL TELESTR 
+                                                                                                UNIVERSAL BOOLEAN True
+                                                                                                UNIVERSAL INTEGER 83 7E 50 0D CE 33 
+                                                                                                UNIVERSAL GENTIME INVALID TIME
+                                                                                                UNIVERSAL TELESTR \xa8\x7d\x2b\xd\xd2\xca\x17\x7d
+                                                                                                UNIVERSAL IA5STR p\xa9
+                                                                                                UNIVERSAL NULL UNPRINTABLE
+                                                                                        UNIVERSAL IA5STR \x3dl\xd1\x24
+                                                                                        UNIVERSAL UTFSTR \x89\xc\xdd\x7e\x1a\x3e
+                                                                                        UNIVERSAL OID 
+                                                                                        UNIVERSAL UTFSTR 
+                                                                                        UNIVERSAL VIDSTR \xb2\xfeG\xa4\x2e\x2cp\x9f
+                                                                                        UNIVERSAL VIDSTR wXy
+                                                                                        UNIVERSAL VISSTR \xd\xc9\x89R
+                                                                                    UNIVERSAL UTFSTR \x5d\x21
+                                                                                    UNIVERSAL IA5STR \x81R\xaa\xb4\xbd
+                                                                                    UNIVERSAL SEQ 
+                                                                                        UNIVERSAL PRINTSTR 
+                                                                                        UNIVERSAL OCTETSTR BA 21 A6 
+                                                                                    UNIVERSAL NULL UNPRINTABLE
+                                                                                    UNIVERSAL NUMSTR \x5f\x8d\x95\xa8\xc0\x16\xb9
+                                                                                    UNIVERSAL IA5STR \x8b0\xba\x8d\xce
+                                                                                    UNIVERSAL SEQ 
+                                                                                        UNIVERSAL UTFSTR \x9c\x4
+                                                                        UNIVERSAL VISSTR \xd7
+                                                                        UNIVERSAL PRINTSTR \xbb
+                                                                        UNIVERSAL OCTETSTR 45 
+                                                                    UNIVERSAL INTEGER 97 CA 0C 8E 7F 6A F8 
+                                                                    UNIVERSAL IA5STR Z\xe6\x3b\xc\xa3
+                                                                    UNIVERSAL BOOLEAN True
+                                                                    UNIVERSAL VISSTR \xe3\xffJ\xd1\xa2
+                                                                    UNIVERSAL GENTIME INVALID TIME
+                                                                    UNIVERSAL PRINTSTR \xf7\xc9\x82\xba
+                                                                    UNIVERSAL BITSTR 46 FC 10 25 
+                                                                    UNIVERSAL UTCTIME INVALID TIME
+                                                                    UNIVERSAL IA5STR 
+                                                                    UNIVERSAL OID 
+                                                                    UNIVERSAL BOOLEAN False
+                                                                    UNIVERSAL TELESTR 3\xa8\x7b\xb2\x83\xc7\x80
+                                                                    UNIVERSAL NUMSTR \x9f\x97\x2\x89
+                                                                    UNIVERSAL VIDSTR 0H
+                                                                    UNIVERSAL IA5STR \x5f\xc8\x20\xbc\x1aI
+                                                                UNIVERSAL VIDSTR \x9dF
+                                                                UNIVERSAL BITSTR 71 EE 14 81 F6 
+                                                            UNIVERSAL OID 
+                                                            UNIVERSAL OCTETSTR 1E 76 A6 E6 6F 
+                                                            UNIVERSAL PRINTSTR a\x21\x7d\xf0\x8a\x5f
+                                                        UNIVERSAL IA5STR 4\x19\xfc\xb3\xa9\x86
+                                                        UNIVERSAL VIDSTR Z\x83P6\xad
+                                                        UNIVERSAL UTFSTR \x7f\xa4\xce\xf3g\x85\xe0\xf5
+                                                        UNIVERSAL PRINTSTR \xc9I\x11\xf7\x8c
+                                                        UNIVERSAL NUMSTR DR\xd3\xee\xf26
+                                                        UNIVERSAL SET 
+                                                            UNIVERSAL BITSTR 6D CF 44 
+                                                            UNIVERSAL IA5STR A\x2c\xfc\xa6\xb
+                                                            UNIVERSAL BOOLEAN True
+                                                            UNIVERSAL UTCTIME INVALID TIME
+                                                            UNIVERSAL UTCTIME INVALID TIME
+                                                        UNIVERSAL TELESTR Mo
+                                                        UNIVERSAL UTFSTR p\x1b\xc6\x92\x5i\x5e\xbd
+                                                        UNIVERSAL OCTETSTR 04 B6 42 
+                                                    UNIVERSAL VIDSTR \x25\x90\xb3\x85\xc\xc1
+                                                    UNIVERSAL PRINTSTR 
+                                                    UNIVERSAL VIDSTR \x26p\x19\x5e\xc9\xba\xde
+                                                    UNIVERSAL NULL UNPRINTABLE
+                                                    UNIVERSAL UTFSTR \xcZ\xe8\x9eI\xad\x25
+                                                    UNIVERSAL INTEGER 2C 
+                                                    UNIVERSAL INTEGER C6 1D 67 5E 14 E1 C8 1C 
+                                                    UNIVERSAL SET 
+                                                        UNIVERSAL SEQ 
+                                                            UNIVERSAL SET 
+                                                                UNIVERSAL VISSTR \x2
+                                                                UNIVERSAL BOOLEAN False
+                                                                UNIVERSAL IA5STR \x90
+                                                                UNIVERSAL SET 
+                                                                    UNIVERSAL VISSTR \x60\x93\x4\xeeD\xfc
+                                                                    UNIVERSAL SET 
+                                                                        UNIVERSAL OID 
+                                                                    UNIVERSAL OID 
+                                                                    UNIVERSAL PRINTSTR \x8\x8c\xf7\xd4
+                                                                    UNIVERSAL TELESTR \x99gm\xb9\xae\xbbA
+                                                                    UNIVERSAL OCTETSTR 4B 07 B4 4C BD 95 06 
+                                                                    UNIVERSAL IA5STR \xc2\xba\xd4\xfb\x2a\xa4\x5e
+                                                                    UNIVERSAL IA5STR j\x24\xafkA\x81\x4
+                                                                    UNIVERSAL TELESTR \xc3\xb1i\xdf
+                                                                    UNIVERSAL SET 
+                                                                        UNIVERSAL GENTIME INVALID TIME
+                                                                        UNIVERSAL SET 
+                                                                            UNIVERSAL OID 
+                                                                            UNIVERSAL SEQ 
+                                                                                UNIVERSAL NULL UNPRINTABLE
+                                                                                UNIVERSAL BOOLEAN True
+                                                                                UNIVERSAL PRINTSTR \x90
+                                                                                UNIVERSAL TELESTR \x2b\xb5\xdd
+                                                                                UNIVERSAL OCTETSTR CC 
+                                                                                UNIVERSAL VISSTR \xb5\x7e
+                                                                                UNIVERSAL UTCTIME INVALID TIME
+                                                                                UNIVERSAL NUMSTR f\x5c\x40\xca\x9cB\x13\xb4
+                                                                                UNIVERSAL NUMSTR \x3c
+                                                                                UNIVERSAL IA5STR \x5f\xbb\xe8
+                                                                                UNIVERSAL UTFSTR \x1c\xc1p\xe8iS\x87\x8a
+                                                                                UNIVERSAL PRINTSTR G\x87\xe3\x98\x29\xbd
+                                                                            UNIVERSAL TELESTR \xbdJ4\x9d\x2d\xdfk
+                                                                            UNIVERSAL GENTIME INVALID TIME
+                                                                            UNIVERSAL UTCTIME INVALID TIME
+                                                                            UNIVERSAL PRINTSTR \x3d\xe1\xca\x12\xac
+                                                                            UNIVERSAL NULL UNPRINTABLE
+                                                                            UNIVERSAL NUMSTR 
+                                                                        UNIVERSAL NULL UNPRINTABLE
+                                                                        UNIVERSAL INTEGER FB E5 1F B4 9D 97 35 
+                                                                        UNIVERSAL VIDSTR \xac\x98\xce\x3d
+                                                                    UNIVERSAL GENTIME INVALID TIME
+                                                                    UNIVERSAL PRINTSTR 
+                                                                UNIVERSAL GENTIME INVALID TIME
+                                                            UNIVERSAL NULL UNPRINTABLE
+                                                            UNIVERSAL NUMSTR \xba\xc4Q\xa2\x14j\xd
+                                                            UNIVERSAL OC                                   UNIVERSAL OID 
+                                    UNIVERSAL VISSTR \xe3GN\xbc\xb3
+                                    UNIVERSAL SEQ 
+                                        UNIVERSAL UTCTIME INVALID TIME
+                                        UNIVERSAL NULL UNPRINTABLE
+                                        UNIVERSAL VIDSTR \xda\xf1\xcb\x3a\x1\x9b\xf7\x98
+                                        UNIVERSAL NULL UNPRINTABLE
+                                        UNIVERSAL OCTETSTR A4 B6 3A AA 
+                                        UNIVERSAL GENTIME INVALID TIME
+                                        UNIVERSAL BOOLEAN False
+                                        UNIVERSAL GENTIME INVALID TIME
+                                        UNIVERSAL VISSTR \xcf\x91\x86W\xeb\xb6
+                                        UNIVERSAL PRINTSTR 
+                                        UNIVERSAL UTFSTR \xe2
+                                        UNIVERSAL INTEGER 18 5D 37 78 B4 EB 87 A2 
+                                        UNIVERSAL BOOLEAN False
+                                        UNIVERSAL OCTETSTR BA 86 4B 83 
+                                        UNIVERSAL IA5STR \x16\x3a\xaf
+                                        UNIVERSAL UTFSTR \xac\xf8\xccC\xd4\xc1
+                                    UNIVERSAL VIDSTR \xc2
+                                    UNIVERSAL TELESTR 
+                                    UNIVERSAL NULL UNPRINTABLE
+                                    UNIVERSAL OCTETSTR EB AD 70 14 1F 21 25 
+                                    UNIVERSAL OCTETSTR A4 18 B5 F7 1E 19 30 
+                                    UNIVERSAL VISSTR l\x91
+                                    UNIVERSAL SET 
+                                        UNIVERSAL BITSTR 56 BC 
+                                        UNIVERSAL GENTIME INVALID TIME
+                                        UNIVERSAL UTCTIME INVALID TIME
+                                        UNIVERSAL TELESTR \xceZ\x9c\xf6\xaf\xa9\x7d
+                                        UNIVERSAL INTEGER 1F 84 C7 AF D0 
+                                        UNIVERSAL NULL UNPRINTABLE
+                                        UNIVERSAL VISSTR \x5c\x3\x2e\x9d\xc6\xdb\x9d\xb6
+                                UNIVERSAL GENTIME INVALID TIME
+                                UNIVERSAL OID 
+                                UNIVERSAL TELESTR 
+                                UNIVERSAL BOOLEAN True
+                                UNIVERSAL VIDSTR \xef\xf0\x95\xcd\x20
+                                UNIVERSAL OCTETSTR F8 
+                                UNIVERSAL NUMSTR \xe0W\x8cU\xdb
+                            UNIVERSAL UTCTIME INVALID TIME
+                            UNIVERSAL OCTETSTR EA B1 67 C2 
+                            UNIVERSAL OCTETSTR 04 1A FC F1 19 95 
+                        UNIVERSAL BOOLEAN True
+                        UNIVERSAL VIDSTR 
+                        UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL BITSTR D0 EE DB 
+                UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL VIDSTR \x15\xb8\xc0\xd1
+                UNIVERSAL PRINTSTR \xbe\x1e\xcdKy\xfa
+                UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL UTFSTR \x1f
+                UNIVERSAL BOOLEAN False
+            UNIVERSAL SEQ 
+                UNIVERSAL VISSTR \xa0\x5d\x98
+                UNIVERSAL NUMSTR \xf7\x81
+                UNIVERSAL TELESTR \xcf\x8ak1\xb1\x83
+            UNIVERSAL OID 
+            UNIVERSAL SET 
+                UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL NULL UNPRINTABLE
+                UNIVERSAL NUMSTR M\x8e\x2f
+            UNIVERSAL TELESTR \xf9\x91\x40\x1a46\xb9\xdd
+            UNIVERSAL GENTIME INVALID TIME
+            UNIVERSAL PRINTSTR \x96
+            UNIVERSAL UTCTIME INVALID TIME
+            UNIVERSAL IA5STR \x84\xdd\x3\x2c
+            UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL SET 
+                UNIVERSAL SEQ 
+                    UNIVERSAL SET 
+                        UNIVERSAL VISSTR \xa0\x5d\xb3\xdf
+                        UNIVERSAL NULL UNPRINTABLE
+                        UNIVERSAL OCTETSTR 1C 64 AC 7C 
+                        UNIVERSAL BOOLEAN False
+                        UNIVERSAL VISSTR \xc4
+                        UNIVERSAL SET 
+                            UNIVERSAL UTFSTR \x9b\xac\xe7\x18\xaf\xff\x9e
+                            UNIVERSAL VIDSTR \xd8I
+                            UNIVERSAL OCTETSTR 62 18 F7 3A 
+                            UNIVERSAL IA5STR \xccVj\xf4\xc2\xcaG
+                            UNIVERSAL INTEGER 28 58 FB E1 7D 
+                            UNIVERSAL SEQ 
+                                UNIVERSAL PRINTSTR 
+                            UNIVERSAL UTCTIME INVALID TIME
+                            UNIVERSAL BITSTR 76 77 
+                            UNIVERSAL NULL UNPRINTABLE
+                            UNIVERSAL NUMSTR \xbd
+                            UNIVERSAL VIDSTR d\x5c\x26
+                            UNIVERSAL BOOLEAN True
+                            UNIVERSAL OCTETSTR B2 C2 
+                            UNIVERSAL NUMSTR \x16\xdd\xb2\xc2\x1e
+                        UNIVERSAL VISSTR \xdd\xd89
+                    UNIVERSAL UTCTIME INVALID TIME
+                    UNIVERSAL VISSTR \x3e\xb6\xb2\x25\xd5
+                    UNIVERSAL NUMSTR c\x27H\x3dF\xa27
+                    UNIVERSAL BITSTR 4B 5F 36 
+                    UNIVERSAL INTEGER C7 2A 26 84 CD 1A AA CC 
+                    UNIVERSAL UTCTIME INVALID TIME
+                    UNIVERSAL VIDSTR m\xd8l
+                    UNIVERSAL TELESTR \xa7
+                    UNIVERSAL OCTETSTR 6B 
+                    UNIVERSAL NUMSTR Z\x7d\xc4
+                    UNIVERSAL GENTIME INVALID TIME
+                UNIVERSAL VISSTR pS\xf7\xce\x2d9v\xfe
+            UNIVERSAL VISSTR Z\x5\xc8\xf40\x21\xc06
+            UNIVERSAL OCTETSTR 94 31 D4 D5 1D 
+            UNIVERSAL OID 
+            UNIVERSAL SET 
+                UNIVERSAL UTCTIME INVALID TIME
+    UNIVERSAL BITSTR E0 11 BC 57 1B A9 
+    UNIVERSAL PRINTSTR \xa7\x9d0
+    UNIVERSAL BOOLEAN True
+    UNIVERSAL OID 
+    UNIVERSAL OID 
+    UNIVERSAL NUMSTR 
+    UNIVERSAL OID 
+    UNIVERSAL SEQ 
+        UNIVERSAL BOOLEAN False
+        UNIVERSAL UTCTIME INVALID TIME
+        UNIVERSAL OCTETSTR 07 
+        UNIVERSAL TELESTR \x9f\xc1\x26\x27L\xfbd1
+        UNIVERSAL SET 
+            UNIVERSAL PRINTSTR 0R\x7b\x1bE\xb0O
+        UNIVERSAL PRINTSTR 0R\x7b\x1bE\xb0O
+        UNIVERSAL NUMSTR 
+        UNIVERSAL BITSTR 6C 22 4C 1B 85 B4 B6 
+        UNIVERSAL IA5STR \x5f\x96\xe7\xe8\xc5\xcb
+        UNIVERSAL UTCTIME INVALID TIME
+        UNIVERSAL IA5STR N\x13\x15
+    UNIVERSAL SET 
+        UNIVERSAL UTCTIME INVALID TIME
+        UNIVERSAL INTEGER 0D 51 E4 65 0A 
+        UNIVERSAL VIDSTR \xb9Fw\x3e
+        UNIVERSAL VIDSTR \xe0\x5f\xc6\x9b\xc
+        UNIVERSAL SEQ 
+            UNIVERSAL NULL UNPRINTABLE
+            UNIVERSAL IA5STR \x20\x10h
+            UNIVERSAL UTFSTR \xa4\xcd5\x5b\xa7\xaa
+            UNIVERSAL PRINTSTR \xcd\x87\xa0\xe8Uh\xf6\xef
+        UNIVERSAL BITSTR 45 AD 01 9C 49 2A 
+    UNIVERSAL VISSTR \x9d\x9f\xb8\x15\x27\xafQ\x6
+    UNIVERSAL INTEGER 4F FC 
+    UNIVERSAL VISSTR 
+    UNIVERSAL UTCTIME INVALID TIME
+    UNIVERSAL OCTETSTR B9 
+    UNIVERSAL UTFSTR \x9d\xa3\xc8
+    UNIVERSAL UTFSTR \x25\x3c\x2aH\xd9\x3e
+    UNIVERSAL NUMSTR \x22HZ\xbb
+    UNIVERSAL GENTIME INVALID TIME
+    UNIVERSAL UTFSTR n\xa41
+    UNIVERSAL OID 
+    UNIVERSAL BOOLEAN False
+    UNIVERSAL BOOLEAN False

@@ -1,0 +1,61 @@
+: Matrix Calculator
+1. Add two matrices
+2. Subtract two matrices
+3. Scalar multiply a matrix
+4. Return to main menu
+Choice: First matrix
+Provide the matrix dimensions
+X: invalid
+Matrix Calculator
+1. Add two matrices
+2. Subtract two matrices
+3. Scalar multiply a matrix
+4. Return to main menu
+Choice: : Matrix Calculator
+1. Add two matrices
+2. Subtract two matrices
+3. Scalar multiply a matrix
+4. Return to main menu
+Choice: Provide the matrix dimensions
+X: Y: invalid
+Matrix Calculator
+1. Add two matrices
+2. Subtract two matrices
+3. Scalar multiply a matrix
+4. Return to main menu
+Choice: : Available commands:
+sort - This command sorts integers.
+matrix - This command performs matrix math.
+simon - This command plays a game like Simon Says.
+encode - This command encodes data.
+: Available commands:
+sort - This command sorts integers.
+matrix - This command performs matrix math.
+simon - This command plays a game like Simon Says.
+encode - This command : 0,11: 1,0: 1,1: 1,2: 1,3: 1,4: 15,9: 5,10: 5,11: Multiplier: Result
+867482 100 668493 857395 310863 627228 529109 806960 625394 448413 505267 
+301693 527275 747355 601552 540113 320950 615307 383306 289772 123795 756525 466753 
+13755 828968 179732 849142 595133 128380 360381 747355 569457 207242 552951 618975 
+137550 118293 596050 346626 7336 63273 608888 456666 362215 547449 246673 633647 
+720762 486927 568540 665742 456666 191653 271432 769363 61439 397061 764778 43099 
+658406 762027 185234 353962 522690 469504 537362 908747 432824 4585 42182 257677 
+Matrix Calculator
+1. Add two matrices
+2. Subtract two matrices
+3. Scalar multiply a matrix
+4. Return to main menu
+Choice: : Available commands:
+sort - This command sorts integers.
+matrix - This command performs matrix math.
+simon - This command plays a game like Simon Says.
+encode - This command encodes data.
+: Matrix Calculator
+1. Add two matrices
+2. Subtract two matrices
+3. Scalar multiply a matrix
+4. Return to main menu
+Choice: First matrix
+Provide the matrix dimensions
+X: 5,6: 5,7: 5,8: 5,9: 5,10: 5,11: 5,12:11,6: 11,7: 11,8: 11,9: 11,10: 11,11: 12,10: 12,11: 12,12: 13,0: 13,1: 13,2:
+Enter the matrix values
+0,0: 0,1: 0,2: 0,3: 0,4: 0,5: 0,6:6,1: 6,2: 6,3: 6,4: 6,5: 6,6: 6,7: 10,7: 10,8: 10,

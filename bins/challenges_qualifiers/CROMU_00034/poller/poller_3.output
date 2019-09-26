@@ -1,0 +1,82 @@
+Welcome to the diary logger!
+Length: 906
+Magic number: 0x4242
+Future: 0x438b
+Offset: 0x8
+Title: songs
+Entry Count: 0x2
+writer: cbccbccaababcbac
+free online: false
+Title: pets
+Entry Count: 0x3
+name: abcccabcbaab
+species: bbcaccab
+shots updated: false
+Title: books
+Entry Count: 0x5
+author: cbaaacbbbccabaca
+made into a movie: false
+publisher: cabbacccbababbccbccacac
+summary: accaccbbbabcbbacacbca
+character: baccaaccabbacacbcbaabb
+free online: true
+publisher: cbccaacbcbc
+year: 0x52
+wrEntry Count: 0x6
+Title: sports
+Entry Count: 0x3
+name: acccbbacabca
+position: babbababccc
+years experience: 0xeb
+Title: exercises
+Entry Count: 0x4
+name: cbcaaabccbacaab
+max weight: 0xcc4d
+sets: 0x8d
+reps: 0x86
+Title: knives
+Entry Count: 0x7
+model: cacc
+blade length: 0x53
+length units: abbaaccbccc
+injury: true
+comes with sheath: true
+value: 0x6e1d
+style: acccccbaabaaacb
+Title: stamps
+Entry Count: 0x5
+name: bbabbb
+value: 0x8108
+mint: false
+count: 0x45
+seller: abcbabcccacaacbccccc
+Title: kayaking
+Entry Count: 0x3
+make: a
+model: a
+tricking: false
+Title: knives
+Entry Count: 0x6
+model: abcaaaaaabbcccccaa
+blade length: 0xf6
+length units: c
+injury: true
+make: caabcaba
+value: 0x65
+Title: books
+Entry Count: 0x2
+author: abcababccabacccaaaab
+made into a movie: true
+Title: pets
+Entry Count: 0x3
+name: cababcccaaabcccbcaabbcab
+species: cbbbbccacacbcaccbcacb
+shots updated: false
+Title: identity
+Entry Count: 0x5
+first name: bbabbaccb
+last name: bb
+age: 0xde
+birth city: babaacababbcacacb
+middle name: cacaacaacbcabbaaacaab
+good book.

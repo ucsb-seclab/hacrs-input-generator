@@ -1,0 +1,26 @@
+$ No filename specified
+$ No dirname specified
+$ Invalid fileno
+$ chdir <dirname>
+ - Changes the working directory.
+$ Unknown command [PGyTqnfvuHzd]
+$ .:
+2 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+
+.:
+2 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+$ 2 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+$ chdir <dirname>
+ - Changes the working directory.
+$ Invalid fileno
+$ No such file
+$ close_all
+ - Closes all open files.
+$ Invalid fileno
+$ 

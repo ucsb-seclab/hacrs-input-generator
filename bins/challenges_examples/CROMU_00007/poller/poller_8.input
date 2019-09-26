@@ -1,0 +1,56 @@
+employee_id-3`employee_name-John Paxton`wage-53.73`exempt-yes`
+employee_id-23`employee_name-Phlox`wage-27.65`
+employee_id-26`employee_name-Travis Mayweather`wage-28.47`
+employee_id-28`employee_name-John Paxton`wage-5.49`
+employee_id-35`employee_name-Jonathan Archer`wage-14.45`exempt-yes`
+employee_id-39`employee_name-Chef`wage-59.07`exempt-yes`
+employee_id-43`employee_name-Travis Mayweather`wage-29.07`
+employee_id-3`week-32`monday-12h26m`tuesday-13h1m`wednesday-19h34m`thursday-18h7m`
+employee_id-3`week-49`monday-3h60m`tuesday-5h57m`wednesday-6h20m`thursday-25h41m`friday-13h13m`friday-18h16m`
+employee_id-23`week-32`monday-2h19m`tuesday-7h4m`wednesday-0h26m`thursday-4h46m`friday-18h37m`
+employee_id-23`week-49`monday-18h28m`tuesday-17h13m`wednesday-8h10m`thursday-23h38m`friday-5h47m`
+employee_id-26`week-32`monday-2h29m`wednesday-19h42m`thursday-2h29m`friday-25h4m`
+employee_id-26`week-49`monday-13h33m`tuesday-15h44m`wednesday-1h35m`thursday-6h56m`friday-10h45m`sunday-5h24m`
+employee_id-28`week-32`monday-10h25m`wednesday-9h20m`thursday-7h45m`
+employee_id-28`week-49`monday-14h42m`tuesday-14h29m`wednesday-10h30m`thursday-4h29m`friday-11h21m`
+employee_id-35`week-32`monday-7h52m`tuesday-23h11m`thursday-19h26m`friday-21h41m`
+employee_id-35`week-49`monday-20h33m`tuesday-5h8m`wednesday-11h57m`thursday-20h11m`friday-2h20m`saturday-15h14m`
+employee_id-39`week-32`monday-5h33m`tuesday-5h28m`wednesday-10h53m`thursday-3h52m`friday-4h33m`
+employee_id-39`week-49`monday-7h57m`tuesday-22h32m`wednesday-13h54m`
+employee_id-43`week-32`monday-13h28m`tuesday-6h51m`wednesday-18h3m`thursday-7h0m`friday-13h33m`
+employee_id-43`week-49`tuesday-11h53m`wednesday-6h2m`thursday-24h7m`friday-11h9m`
+query-week`employee_id-3`week-0`
+query-week`employee_id-3`week-1`
+query-week`employee_id-3`week-2`
+query-week`employee_id-3`week-3`
+query-week`employee_id-3`week-4`
+query-week`employee_id-3`week-5`
+query-week`employee_id-3`week-6`
+query-week`employee_id-3`week-7`
+query-week`employee_id-3`week-8`
+query-week`employee_id-3`week-9`
+query-week`employee_id-3`week-10`
+query-week`employee_id-3`week-11`
+query-week`employee_id-3`week-12`
+query-week`employee_id-3`week-13`
+query-week`employee_id-3`week-14`
+query-week`employee_id-3`week-15`
+query-week`employee_id-3`week-16`
+query-week_all`week-17`
+query-week`employee_id-3`week-18`
+query-week`employee_id-3`week-19`
+query-week`employee_id-3`week-20`
+query-week`employee_id-3`week-21`
+query-week`employee_id-3`week-22`
+query-week`employee_id-3`week-23`
+query-week`employee_id-3`week-37`
+query-week`employee_id-3`week-38`
+query-week`employee_id-3`week-40`
+query-week`employee_id-3`week-41`
+query-week`employee_id-23`week-16`
+query-week`employee_id-23`week-17`
+query-week`employee_id-23`week-18`
+query-week`employee_id-23`week-19`
+query-week`employee_id-23`week-47`
+query-week`employee_id-23`week-48`
+query-one`employee_id-39`

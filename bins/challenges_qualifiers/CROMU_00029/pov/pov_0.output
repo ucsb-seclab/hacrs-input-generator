@@ -1,0 +1,27 @@
+For what material would you like to run this simulation?
+  1. Air
+  2. Aluminum
+  3. Copper
+  4. Custom
+Selection: Enter the thermal conductivities in W/(m*K) for your material at the following temperatures (Celcius):
+-264.15: -193.15: -112.15:  -31.15:   49.85:  129.85:  210.85:  291.85: Enter the heat capacity in J/(m^3*K) for your material when it is at the following temperatures (Celcius):
+-264.15: -193.15: -112.15:  -31.15:   49.85:  129.85:  210.85:  291.85: How large is the material (X,Y,Z meters): Should the material be isothermic? (y,n):   Send the grid temperatures as a comma separated list of Celcius decimal values.
+  The program will populate the X, then Y, then Z dimensions of the room.
+Are there any constant energy sources in the room? (y,n): For how lold you like to run the simulation? (s): [2J[Hz: 0
+-173.00000  373.00000 
+ 373.00000  373.00000 
+
+z: 1
+ 373.00000  373.00000 
+ 373.00000  373.00000 
+
+At 0.00000 seconds
+[2J[Hz: 0
+-327773.00000  109573.00000 
+ 109573.00000  373.00000 
+
+z: 1
+ 109573.00000  373.00000 
+ 373.00000  373.00000 
+
+At 10.00000 seconds

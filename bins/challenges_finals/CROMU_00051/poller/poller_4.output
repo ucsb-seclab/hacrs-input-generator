@@ -1,0 +1,30 @@
+crs@CB>         
+uid=crs gid=crs
+crs@CB> [0G[Kcrs@CB> idmy[1D[0G[Kcrs@CB> idmy[2D  
+uid=crs gid=crs
+crs@CB>   
+Directory listing
+Filename                         Owner                            Group                             Size
+passwd                           root                             root                                78
+confidential                     secure                           secure                               4
+crs@CB>   
+uid=crs gid=crs
+crs@CB>   
+1ne4
+crs@CB>   
+New password:   
+crs@CB>   
+Password:   
+Authentication success for user 'crs'
+crs@CB>   
+crs@CB>   
+R8
+crs@CB>         
+uid=crs gid=crs
+crs@CB> [0G[Kcrs@CB> idyf[1D[0G[Kcrs@CB> idyf[2D  
+uid=crs gid=crs
+crs@CB>     
+uid=crs gid=crs
+crs@CB>   exit    
+logout
+

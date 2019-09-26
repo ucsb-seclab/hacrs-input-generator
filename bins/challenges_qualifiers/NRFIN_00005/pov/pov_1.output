@@ -1,0 +1,2541 @@
+Welcome to Tick-A-Tack.
+Make your selection:
+PLAY
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+1 wins. 0 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+2 wins. 0 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+3 wins. 0 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+4 wins. 0 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+5 wins. 0 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+6 wins. 0 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+Nice effort. Maybe next time.
+6 wins. 1 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+7 wins. 1 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+8 wins. 1 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+9 wins. 1 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+10 wins. 1 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+11 wins. 1 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+12 wins. 1 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+13 wins. 1 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+13 wins. 2 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+14 wins. 2 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+15 wins. 2 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+15 wins. 3 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+16 wins. 3 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+16 wins. 4 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+16 wins. 5 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+17 wins. 5 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+18 wins. 5 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+19 wins. 5 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+20 wins. 7 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+21 wins. 7 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+Nice effort. Maybe next time.
+21 wins. 8 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+Computer's move: 2 0.
+Nice effort. Maybe next time.
+21 wins. 9 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+22 wins. 9 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+23 wins. 11 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+Nice effort. Maybe next time.
+30 wins. 13 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+34 wins. 15 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+34 wins. 16 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+35 wins. 16 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+36 wins. 16 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+Nice effort. Maybe next time.
+36 wins. 17 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+37 wins. 22 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+37 wins. 23 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+42 wins. 25 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+44 wins. 25 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+48 wins. 27 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+48 wins. 28 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+Computer's move: 1 1.
+Nice effort. Maybe next time.
+50 wins. 33 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+50 wins. 34 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+Nice effort. Maybe next time.
+53 wins. 37 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+54 wins. 37 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+Nice effort. Maybe next time.
+54 wins. 38 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+55 wins. 38 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+Nice effort. Maybe next time.
+60 wins. 42 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+Nice effort. Maybe next time.
+60 wins. 43 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+63 wins. 47 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+63 wins. 48 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+67 wins. 50 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+71 wins. 54 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+72 wins. 56 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+Nice effort. Maybe next time.
+72 wins. 57 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+73 wins. 59 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+73 wins. 60 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+79 wins. 64 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+83 wins. 68 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+86 wins. 72 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+86 wins. 73 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+91 wins. 75 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+92 wins. 78 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+94 wins. 78 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+Nice effort. Maybe next time.
+94 wins. 79 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+94 wins. 80 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+98 wins. 85 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+104 wins. 89 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+Congratulations! You Win!
+107 wins. 93 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+Nice effort. Maybe next time.
+107 wins. 94 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Congratulations! You Win!
+110 wins. 97 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+Nice effort. Maybe next time.
+110 wins. 98 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+113 wins. 98 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+113 wins. 99 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+Computer's move: 1 0.
+Nice effort. Maybe next time.
+114 wins. 100 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+114 wins. 101 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+114 wins. 102 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+117 wins. 107 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+122 wins. 111 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+123 wins. 111 losses.
+Congratulations! You Win!
+125 wins. 112 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+Nice effort. Maybe next time.
+125 wins. 113 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+127 wins. 115 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+129 wins. 120 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+130 wins. 120 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+132 wins. 121 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+133 wins. 122 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+134 wins. 122 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+135 wins. 122 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+138 wins. 126 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+141 wins. 132 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+Nice effort. Maybe next time.
+141 wins. 133 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+147 wins. 136 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+Nice effort. Maybe next time.
+147 wins. 137 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+150 wins. 141 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+151 wins. 141 losses.
+Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+151 wins. 144 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+152 wins. 145 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+153 wins. 145 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+154 wins. 145 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+158 wins. 148 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+160 wins. 154 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+160 wins. 155 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+161 wins. 155 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+161 wins. 156 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+162 wins. 156 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+165 wins. 158 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+Nice effort. Maybe next time.
+170 wins. 163 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+172 wins. 164 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+172 wins. 165 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+173 wins. 165 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+Nice effort. Maybe next time.
+173 wins. 166 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+173 wins. 167 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+173 wins. 168 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ Computer's move: 0 2.
+Nice effort. Maybe next time.
+176 wins. 170 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+177 wins. 170 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+180 wins. 174 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+181 wins. 174 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+183 wins. 180 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+189 wins. 184 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+192 wins. 185 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+Nice effort. Maybe next time.
+192 wins. 186 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+Congratulations! You Win!
+193 wins. 187 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+193 wins. 188 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+194 wins. 188 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+196 wins. 192 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+201 wins. 195 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+204 wins. 200 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+208 wins. 205 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+Nice effort. Maybe next time.
+208 wins. 206 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+211 wins. 207 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+Nice effort. Maybe next time.
+213 wins. 209 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+214 wins. 209 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+Nice effort. Maybe next time.
+214 wins. 210 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+217 wins. 213 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+Nice effort. Maybe next time.
+217 wins. 214 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+217 wins. 215 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+217 wins. 216 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+218 wins. 216 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+218 wins. 217 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+219 wins. 217 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+220 wins. 217 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+Nice effort. Maybe next time.
+220 wins. 218 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+223 wins. 218 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+224 wins. 220 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+Nice effort. Maybe next time.
+224 wins. 221 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+226 wins. 226 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+226 wins. 227 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ Computer's move: 0 1.
+Nice effort. Maybe next time.
+229 wins. 229 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+230 wins. 229 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+Nice effort. Maybe next time.
+230 wins. 230 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+231 wins. 230 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+Nice effort. Maybe next time.
+231 wins. 231 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+Nice effort. Maybe next time.
+236 wins. 235 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+239 wins. 239 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+239 wins. 240 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+240 wins. 240 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+243 wins. 242 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+244 wins. 242 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+247 wins. 246 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+Nice effort. Maybe next time.
+248 wins. 251 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+249 wins. 251 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 1.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Computer's move: 1 1.
+It's your move. Enter 'row col'
+$ Nice effort. Maybe next time.
+249 wins. 252 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 2 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+250 wins. 252 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ P goes first. Do you want P or Q?
+$ Game on!
+It's your move. Enter 'row col'
+$ Computer's move: 1 2.
+It's your move. Enter 'row col'
+$ Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 1 0.
+It's your move. Enter 'row col'
+$ Congratulations! You Win!
+0 wins. 0 losses.

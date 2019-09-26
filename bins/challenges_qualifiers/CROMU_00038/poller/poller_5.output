@@ -1,0 +1,67 @@
+SOM marker found
+SAP0 marker found
+SAP1 marker found
+sizeof section is 188
+Intel formatted integers
+TagMark = 2A
+Offset = 8
+# of compatility arrays: 4
+Tag: 212 (YCbCrSubSampling)
+Type: A (SRATIONAL)
+Count: 0
+Value: 0
+Tag: 214 (ReferenceBlackWhite)
+Type: 3 (SHORT)
+Count: 1
+Value: 0
+Tag: 8769 (EXIF IFD Pointer)
+Type: 7 (UNDEFINED)
+Count: 2
+Value: 58
+# of arrays: 5
+Tag: A002 (PixelXDimension)
+Type: 7 (UNDEFINED)
+Count: 0
+Value: 0
+Tag: 9102 (CompressedBitsPerPixel)
+Type: 4 (LONG)
+Count: 1
+Value: 2
+Tag: 9003 (DateTimeOriginal)
+Type: 1 (BYTE)
+Count: 2
+Value: 4
+Tag: 9000 (ExifVersion)
+Type: 7 (UNDEFINED)
+Count: 3
+Value: 6
+Tag: 9102 (CompressedBitsPerPixel)
+Type: 3 (SHORT)
+Count: 4
+Value: 8
+Tag: 8825 (GPS Info)
+Type: 7 (UNDEFINED)
+Count: 3
+Value: 120
+# of arrays: 5
+Tag: 2 (GPSLatitude)
+Type: 7 (UNDEFINED)
+Count: 0
+Value: 0
+Tag: 10 (GPSImgDirectionRef)
+Type: 4 (LONG)
+Count: 1
+Value: 2
+Tag: C (GPSSpeedRef)
+Type: 9 (SLONG)
+Count: 2
+Value: 4
+Tag: 12 (GPSMapDatum)
+Type: A (SRATIONAL)
+Count: 3
+Value: 6
+Tag: D (GPSSpeed)
+Type: 4 (LONG)
+Count: 4
+Value: 8
+Finished processing

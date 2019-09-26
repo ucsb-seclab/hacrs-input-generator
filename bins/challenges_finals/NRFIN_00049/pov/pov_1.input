@@ -1,0 +1,54 @@
+reset
+onmatch magic
+state
+transition a 1
+state accept
+done
+a
+127
+191
+159
+143
+135
+131
+133
+132
+reset
+onmatch magic
+state
+transition b 1
+state accept
+done
+b
+127
+63
+95
+79
+87
+83
+81
+82
+reset
+onmatch magic
+state
+transition c 1
+state accept
+done
+c
+127
+reset
+onmatch magic
+state
+transition d 1
+state accept
+done
+d
+127
+63
+95
+111
+119
+115
+113
+114
+quit

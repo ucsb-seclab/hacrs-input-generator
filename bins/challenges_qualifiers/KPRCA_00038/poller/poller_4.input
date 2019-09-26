@@ -1,0 +1,71 @@
+
+END { i = i * 90; print i;
+OFS = "a"; $3 = "foo"; print;
+i = (i * 8) || (i - 2); print i;
+printf "#d#s", foobar, ORS;
+i -= 2; print i;
+i /= 8; print i;
+i = "10" i; print i;
+print $1 $2;
+for (loop = 0; loop < 8; loop += 1) print loop;
+i = !i; print i;
+print $1, $2;
+i /= 8; print i;
+print;
+for (i = 0; i < 10; --i) break; print i;
+OFS = "a"; $3 = "foo"; print;
+i = -i; print i;
+i = i && (i - 1); print i;
+i = !i; print i;
+i %= 2; print i;
+i = i * 90; print i;
+i = "10" i; print i;
+i = i * 90; print i;
+print $1 $2;
+for (loop = 0; loop < 8; loop += 1) print loop;
+printf "#d#s", foobar, ORS;
+print $1, $2;
+i /= 8; print i;
+print;
+print $1 $2;
+for (i = 0; i < 10; --i) break; print i;
+print $1, $2;
+i = i > 4 ? 1 : -1; print i;
+printf "#d#s", foobar, ORS;
+i = "10" i; print i;
+i = -i; print i;
+i = (i * 8) || (i - 2); print i;
+i = (i * 8) || (i - 2); print i;
+i = i > 4 ? 1 : -1; print i;
+i -= 2; print i;
+OFS = " ";
+i = (i * 8) || (i - 2); print i;
+i = "10" i; print i;
+i /= 8; print i;
+OFS = " ";
+print $1, $2;
+for (loop = 0; loop < 8; loop += 1) print loop;
+i %= 2; print i;
+i = -i; print i;
+print;
+i -= 2; print i;
+i = i * 90; print i;
+print $1 $2;
+i = "a" i "b"; print i;
+print $1, $2;
+print $1, $2;
+i %= 2; print i;
+for (i = 0; i < 10; --i) break; print i;
+print i;
+for (loop = 0; loop < 8; loop += 1) print loop;
+printf "#d#s", foobar, ORS;
+i = i && (i - 1); print i;
+for (i = 0; i < 10; --i) break; print i;
+i = i > 4 ? 1 : -1; print i; }Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation 
+ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+ irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+ mollit anim id est laborum.

@@ -1,0 +1,5 @@
+{
+  "command": "cat /home/lukas/lukas/projects/hacrs/cgc/bins/challenges_finals/NRFIN_00056/pov/pov_0.input | /home/lukas/.virtualenvs/angr-dev-pypy/bin/shellphish-qemu-cgc-tracer -d exec /home/lukas/lukas/projects/hacrs/cgc/bins/challenges_finals/NRFIN_00056/bin/NRFIN_00056 2>&1 1>/dev/null | tail -n 10", 
+  "exit_code": 0, 
+  "crash_trace": "Trace 0x56317d637950 [08c6bfb6] "
+}

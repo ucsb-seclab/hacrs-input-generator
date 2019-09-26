@@ -1,0 +1,77 @@
+2D Particle Simulator
+Enter the number of particles to simulate (1-10):
+Enter Position (x,y):
+Enter Velocity (x,y):
+Enter Mass:
+Enter Radius:
+Particle #1 added at (164.74012,182.37055) velocity(2.97138,2.55532) mass(9.00394) radius(7.09926).
+Enter Position (x,y):
+Enter Velocity (x,y):
+Enter Mass:
+Enter Radius:
+Particle #2 added at (163.31584,109.64958) velocity(8.53718,2.01459) mass(3.42704) radius(3.48497).
+Enter Position (x,y):
+Enter Velocity (x,y):
+Enter Mass:
+Enter Radius:
+Particle #3 added at (139.21829,112.91623) velocity(6.nter Velocity (x,y):
+Enter Mass:
+Enter Radius:Enter Mass:
+Enter Radius:
+Invalid simulation170.51804,163.44368) velocity(2.69629,1.17826) mass(7.06431) radius(8.02920).
+Running simulation with...
+8 total particles:
+0: Position (164.74000,182.37000) Velocity (2.97000,2.55000) mass (9.00000) radius (7.09000).
+1: Position (163.31000,109.64000) Velocity (8.53000,2.01000) mass (3.42000) radius (3.48000).
+2: Position (139.21000,112.91000) Velocity (6.24000,1.68000) mass (1.73000) radius (5.74000).
+3: Position (171.59000,129.99000) Velocity (5.25000,7.74000) mass (5.29000) radius (3.30000).
+4: Position (141.82000,143.01000) Velocity (9.70000,6.38000) mass (5.64000) radius (2.84000).
+5: Position (129.65000,113.80000) Velocity (0.74000,8.37000) mass (3.29000) radius (1.98000).
+6: Position (108.58000,135.93000) Velocity (0.67000,9.43000) mass (9.28000) radius (5.96000).
+7: Position (170.51000,163.44000) Velocity (2.69000,1.17000) mass (7.06000) radius (8.02000).
+--------------------
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000010000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000100000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000100000000000
+01000000000000000000
+00000000000000000000
+00000000000000100000
+00000000000000000000
+00000000000000000000
+00000101000000000000
+00000000000010000000
+00000000000000000000
+--------------------
+Simulation complete, 8 collisions simulated over 10 seconds in 80 frames.
+8 total particles:
+0: Position (163.04259,192.13776) Velocity (-3.42947,0.86781) mass (9.00000) radius (7.09000).
+1: Position (187.59605,121.53620) Velocity (1.08789,0.18210) mass (3.42000) radius (3.48000).
+2: Position (116.27597,145.92791) Velocity (-12.77339,5.29354) mass (1.73000) radius (5.74000).
+3: Position (186.22563,171.67824) Velocity (-0.72018,0.20610) mass (5.29000) radius (3.30000).
+4: Position (143.18235,111.08968) Velocity (-7.12657,-12.52444) mass (5.64000) radius (2.84000).
+5: Position (137.05000,197.50000) Velocity (0.74000,8.37000) mass (3.29000) radius (1.98000).
+6: Position (115.28000,157.85000) Velocity (0.67000,-9.43000) mass (9.28000) radius (5.96000).
+7: Position (165.72328,170.16833) Velocity (-4.25866,-0.98406) mass (7.06000) radius (8.02000).
+--------------------
+0000000000000010000000
+0000000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000100
+00000000000000000000
+00000000100000000000
+00000000000000000000
+00000000000000000000
+--------------------
+Goodbye

@@ -1,0 +1,12 @@
+$ $ .:
+2 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+
+..:
+2 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+$ $ $ Invalid fileno
+$ $ Invalid fileno
+$ $ 

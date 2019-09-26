@@ -1,0 +1,58 @@
+# Sad Face Template Engine - v0.1
+1. Define variables
+2. View variables
+3. Submit templated text
+4. Render text
+5. Quit
+
+> -- Render start.
+
+-- Render complete (0 bytes).
+
+1. Define variables
+2. View variables
+3. Submit templated text
+4. Render text
+5. Quit
+
+> -- Empty variable name will exit this menu
+-- Empty value will undefine the variable (if exists)
+var name: 
+1. Define variables
+2. Viill exit this menu
+-- Empty valuevar name: -- Available types
+    0 - String (default)
+    1 - Integer
+    2 - Float
+    3 - Bool [true/false]
+var type: var value: mit a null-terminated string
+
+1. Define var1. Define variables
+2. View varia
+3. Submit templated text
+4. Render
+1. Define variables
+2. View vari Render text
+5. Quit
+
+> -- Current variables:
+true
+ > UdVOmBgcNoTxHTb : 696992907
+ > lpCiRUTSdruusPClEaG : 5606.97
+ > cKmoxgpQBwEmATRRzn : 307.52
+ > maHoIFehxaEtJZ : 1596556872
+ > ELTVjFefibfNEgytgBVx : -1344.06
+ > u : -14954.61
+ > kcGOpIVrMzIQgPQkTlH : true
+ > OPvg : RZfUjVNWhPYELZJrIzU
+-- Total 9 variable(s)
+
+1. Define variables
+2. View variables
+3. Submit templated text
+4. Render text
+5. Quit
+
+> -- Suba null-terminated string
+
+1. Define v

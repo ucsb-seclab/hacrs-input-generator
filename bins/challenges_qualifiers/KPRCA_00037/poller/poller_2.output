@@ -1,0 +1,83 @@
+Valid CGC executable format found [5631 bytes]
+
+5 section header(s):
+  [No.] Name                Type           Addr     Off    Size
+  [  0]                     NULL           00000000 000000 000000
+  [  1] FPEnyJjZNVMwRllkeN  STRTAB         00000000 000700 000069
+  [  2] FVxNtuWvZRyIKIWbtW  GROUP          25c28499 000 000be1 000460
+  [  4]   00000000 001041 0005be
+
+70 symbol(s):
+  [No.] Value       Size Type    Bind    Name
+  [  0] 0x8825c722     0 NUM     NUM     APCaYtYoP
+  [  1] 0x339d7bd6     0 NUM     NUM     AgYgGdPs
+  [  2] 0xc69e245b     0 NUM     NUM     BMhsFhlScyeZhvA
+  [  3] 0x0bda8e60     0 SECTION WEAK    BlDsBcCEKfZSw
+  [  4] 0xbcfa4363     0 COMMON  WEAK    DTIRbnYrO
+  [  5] 0xc0ad7f30   508 OBJECT  GLOBAL  DTjWH
+  [  6] 0xce0b03b6     0 TLS     GLOBAL  DTqavGWCLnrpWOHnjXNj
+  [  7] 0xdbb0e66a   716 OBJECT  GLOBAL  DvUayXxadKYEph
+  [  8] 0x4b420761     0 FILE    NUM     EpLoYOluNq
+  [  9] 0xe4a6509a     0 FILE    NUM     FAyDDVlgGnU
+  [ 10] 0x7f5dbdb9     0 NOTYPE  NUM     FqClUMfUyizPkCQ
+  [ 11] 0xc1570890     0 FILE    WEAK    FvaSmwLACrXTRC
+  [ 12] 0x68bfb66c  1357 OBJECT  WEAK    GYXuMaPpIqniZuKfk
+  [ 13] 0x90951aac  1327 OBJECT  NUM     GgDkkVPP
+  [ 14] 0xd8fb2832     0 SECTION GLOBAL  HRRqAKOIbKIPbO
+  [ 15] 0xce642ec3     0 COMMON  WEAK    IApHGrVpsRmz
+  [ 16] 0xc89d1a7d     0 COMMON  LOCAL   IirbChNomSCoyMRjY
+  [ 17] 0x5a52c16e   445 OBJECT  WEAK    MO
+  [ 18] 0x79d3aeda     0 NOTYPE  WEAK    N
+  [ 19] 0x83dfa536   258 FUNC    NUM     PxWYzWbuqvKZyEwPTRok
+  [ 20] 0x074cccee     0 FILE    WEAK    QBKoJI
+  [ 21] 0x8dd216fa     0 NOTYPE  LOCAL   RiExItPV
+  [ 22] 0x6e73aae1     0 NOTYPE  NUM     SB
+  [ 23] 0x6addddeb     0 NUM     NUM     SoT
+  [ 24] 0x1547ecd6     0 SECTION WEAK    TgEkhdhyj
+  [ 25] 0x5201ef57     0 FILE    NUM     TrAGTerARolOqGmRxpjC
+  [ 26] 0xed83c472  1711 FUNC    WEAK    UCDtUwlJQq
+  [ 27] 0xf794bf79     0 NUM     GLOBAL  VASuIxSQkJ
+  [ 28] 0xaa831063     0 SECTION LOCAL   WBrfgdVlqZJn
+  [ 29] 0x6d04ea76   900 FUNC    WEAK    WUKtFnQ
+  [ 30] 0x05894f60     0 NUM     NUM     WcaqsZAL
+  [ 31] 0xc032ac01     0 NUM     WEAK    WeJIBHFQrFCBWzeXaUJk
+  [ 32] 0xc33ec2bb     0 COMMON  WEAK    WqmfXrSGi
+  [ 33] 0x2e59d648  1280 OBJECT  LOCAL   XHcYxellxufRopo
+  [ 34] 0x822829f1     0 NOTYPE  NUM     XYisKPYCzkL
+  [ 35] 0xc78b9e18  1999 OBJECT  GLOBAL  Xujh
+  [ 36] 0x61ab15dd     0 FILE    WEAK    Y
+  [ 37] 0xc4a012de     0 NOTYPE  GLOBAL  ZqRkpzbIxnMfKIRAZGOn
+  [ 38] 0x0116d0f8     0 SECTION WEAK    aDWHxtyoZPVVQ
+  [ 39] 0xd971caec     0 NUM     NUM     aakNqUKwGNFD
+  [ 40] 0xeeefcfc2     0 NOTYPE  LOCAL   cVDXIuNphZ
+  [ 41] 0x4dfb556d     0 SECTION WEAK    cnqV
+  [ 42] 0x508e7573     0 NOTYPE  GLOBAL  d
+  [ 43] 0xdf06f2b9    55 OBJECT  LOCAL   dbgBHmo
+  [ 44] 0xad991914     0 NOTYPE  WEAK    e
+  [ 45] 0xbc8af592     0 FILE    GLOBAL  ewUixXncPQtcODCQ
+  [ 46] 0x1cadefb0     0 TLS     WEAK    fYDmIScehQaa
+  [ 47] 0x850d54fc   373 FUNC    GLOBAL  fuKe
+  [ 48] 0x11c59449     0 COMMON  GLOBAL  hVflamxEADSWCLSkwAt
+  [ 49] 0x752af663     8 OBJECT  WEAK    ivc
+  [ 50] 0x3a2e8e61     0 SECTION GLOBAL  jhkyiUdPXFspHlS
+  [ 51] 0x6797da13     0 SECTION WEAK    jhlpjFDz
+  [ 52] 0xd1c8c196     0 TLS     LOCAL   kDeL
+  [ 53] 0xda198706  1048 OBJECT  WEAK    kTimm
+  [ 54] 0x8a44a091     0 NUM     GLOBAL  lTlz
+  [ 55] 0xac197d47     0 TLS     NUM     mAIdiztKZ
+  [ 56] 0x2e7054ad   586 FUNC    GLOBAL  o
+  [ 57] 0x111d2e7b   880 FUNC    NUM     psrTqWFM
+  [ 58] 0x82532bc7     0 SECTION GLOBAL  q
+  [ 59] 0xeb32ba52   624 OBJECT  NUM     qFUHDBTiBP
+  [ 60] 0xd9137855     0 TLS     NUM     rrHVgVtGsNsaQdvJt
+  [ 61] 0x63fd3635     0 FILE    LOCAL   u
+  [ 62] 0xcce22dfe     0 NUM     NUM     ub
+  [ 63] 0xd3188313     0 COMMON  NUM     v
+  [ 64] 0xe824ab74     0 COMMON  WEAK    wdofcfFTStedKyHmgeL
+  [ 65] 0x6b52926f     0 NUM     LOCAL   wheZFBdJplOycoybzuS
+  [ 66] 0x7950ee03     0 TLS     WEAK    xnTZFnFxjwXdv
+  [ 67] 0x6d67bdd5  1297 FUNC    LOCAL   ycasXQ
+  [ 68] 0x66bb331d     0 NUM     NUM     yvLkZX
+  [ 69] 0xfc71ddfd     0 FILE    GLOBAL  zZmcjblp
+
+DONE

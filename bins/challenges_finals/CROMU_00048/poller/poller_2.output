@@ -1,0 +1,301 @@
+Plant Schematic
+#####################################################################################################################################
+                                         --------                -----------               -----------------                         
+                                -------> | ASP1 | ------  -----> | Filter1 | -----  -----> | Disinfection1 | -----                   
+                                |        --------      |  |      -----------     |  |      -----------------     |                   
+                                |                      |  |                      |  |                            |                   
+                                |                      |  |                      |  |                            |                   
+                                0                      v  0                      v  0                            v                   
+            -------------     ------     --------     ------     -----------    ------     -----------------    ------               
+Influent -> | Headworks | --> | V1 | 1-> | ASP2 | --> | V2 | 1-> | Filter2 | -> | V3 | 1-> | Disinfection2 | -> | V4 | 0-> Effluent  
+            -------------     ------     --------     ------     -----------    ------     -----------------    ------               
+                                2                      ^  2                      ^  2                            ^                   
+                                |                      |  |                      |  |                            |                   
+                                |                      |  |                      |  |                            |                   
+                                |        --------      |  |      -----------     |  |      -----------------     |                   
+                                -------> | ASP3 | ------  -----> | Filter3 | -----  -----> | Disinfection3 | -----                   
+                                         --------                -----------               -----------------                         
+#####################################################################################################################################
+Plant Status
+#####################################################################################################################################
+Units
+Flow - MGD
+CBOD, TSS, TN, TP - lbs/day
+Aeration, Glycerin_Rate, Alum_rate, OutputPct - percent
+
+Influent       |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Influent       |      1.60    2680.00    3300.00     540.00      94.00
+
+Headworks      |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Headworks      |      1.60    2680.00    2310.00     540.00      94.00
+
+ASPs           |      Flow       CBOD        TSS         TN         TP     Aeration     Glycerin_Rate    Alum_Rate
+---------------|--------------------------------------------------------------------------------------------------
+Asp0           |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+Asp1           |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+Asp2           |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+
+Filters        |      Flow       CBOD        TSS         TN         TP     Num_Active_Filters
+---------------|-----------------------------------------------------------------------------
+Filter0        |      0.53     207.00      11.55     142.59       0.00                      1
+Filter1        |      0.53     207.00       3.85     142.59       0.00                      2
+Filter2        |      0.53     207.00       3.85     142.59       0.00                      2
+
+Disinfection   |      Flow       CBOD        TSS         TN         TP     Chlorine_Rate
+---------------|------------------------------------------------------------------------
+Disinfection0  |      0.53     207.00       6.42     139.96       0.00              1.00
+Disinfection1  |      0.53     207.00       6.42     139.96       0.00              1.00
+Disinfection2  |      0.53     207.00       6.42     139.96       0.00              1.00
+
+Effluent       |      Flow       CBOD        TSS         TN         TP          Quality_Failures
+---------------|--------------------------------------------------------------------------------
+Effluent       |      1.60     621.00      19.25     419.88       0.00                         0
+
+Valves         |    OutputPct[0]    OutputPct[1]    OutputPct[2]    OutputPct[3]    OutputPct[4]
+---------------|--------------------------------------------------------------------------------
+V1             |           33.33           33.33           33.33            0.00            0.00
+V2             |           33.33           33.33           33.33            0.00            0.00
+V3             |           33.33           33.33           33.33            0.00            0.00
+V4             |          100.00            0.00            0.00            0.00            0.00
+#####################################################################################################################################
+
+
+Welcome to the Wastewater Treatement Plant Simulator
+###################################################
+Your job is to take the plant described in the schematic above and make potable water.
+The simulation starts with a random plant status.
+
+Wastewater Treatment Plant Simulation
+Simulation Hour 0
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: New Influent name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: New Headworks name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Which ASP 0-2: New ASP0 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Which ASP 0-2: New ASP1 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Which ASP 0-2: New ASP2 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Which Filter 0-2: New Filter0 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Which Filter 0-2: New Filter1 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Which Filter 0-2: New Filter2 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Which Disinfection system 0-2: New Disinfection0 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Which Disinfection system 0-2: New Disinfection1 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Which Disinfection system 0-2: New Disinfection2 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: New Effluent name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: 1. V1
+2. V2
+3. V3
+4. V4
+Which valve: New V1 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: 1. V1
+2. V2
+3. V3
+4. V4
+Which valve: New V2 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: 1. V1
+2. V2
+3. V3
+4. V4
+Which valve: New V3 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: 1. V1
+2. V2
+3. V3
+4. V4
+Which valve: New V4 name: 1. Influent
+2. Headworks
+3. ASPs
+4. Filters
+5. Disinfections
+6. Effluent
+7. Valves
+8. Return to previous menu
+Selection: Wastewater Treatment Plant Simulation
+Simulation Hour 0
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: Plant Status
+#####################################################################################################################################
+Units
+Flow - MGD
+CBOD, TSS, TN, TP - lbs/day
+Aeration, Glycerin_Rate, Alum_rate, OutputPct - percent
+
+Influent       |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+ViBp5rnEfR8wJUpGp |      1.60    2680.00    3300.00     540.00      94.00
+
+Headworks      |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+QB3sdNuvYvDsShE5wj |      1.60    2680.00    2310.00     540.00      94.00
+
+ASPs           |      Flow       CBOD        TSS         TN         TP     Aeration     Glycerin_Rate    Alum_Rate
+---------------|--------------------------------------------------------------------------------------------------
+U5vhFtC1BhnPq  |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+S8dcJ0sRqkMWsKu5Gba |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+NbIXi5Wku      |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+
+Filters        |      Flow       CBOD        TSS         TN         TP     Num_Active_Filters
+---------------|-----------------------------------------------------------------------------
+BdtCSAW22O1vM1R7EeC |      0.53     207.00      11.55     142.59       0.00                      1
+OtX4adKRls6    |      0.53     207.00       3.85     142.59       0.00                      2
+sjrnmll        |      0.53     207.00       3.85     142.59       0.00                      2
+
+Disinfection   |      Flow       CBOD        TSS         TN         TP     Chlorine_Rate
+---------------|------------------------------------------------------------------------
+p3nyfURjYbY15Hmq |      0.53     207.00       6.42     139.96       0.00              1.00
+JkIoy1y5O2w2TMcoYUJ1 |      0.53     207.00       6.42     139.96       0.00              1.00
+asc6KOeSwVGkU4r |      0.53     207.00       6.42     139.96       0.00              1.00
+
+Effluent       |      Flow       CBOD        TSS         TN         TP          Quality_Failures
+---------------|--------------------------------------------------------------------------------
+rhUnXaW3VR     |      1.60     621.00      19.25     419.88       0.00                         0
+
+Valves         |    OutputPct[0]    OutputPct[1]    OutputPct[2]    OutputPct[3]    OutputPct[4]
+---------------|--------------------------------------------------------------------------------
+yyil6cLCHpVwKth |           33.33           33.33           33.33            0.00            0.00
+nW2vQr         |           33.33           33.33           33.33            0.00            0.00
+rjxtvF6qhHbDbII |           33.33           33.33           33.33            0.00            0.00
+rjxtvF6qhHbDbII |          100.00            0.00            0.00            0.00            0.00
+#####################################################################################################################################
+
+
+Wastewater Treatment Plant Simulation
+Simulation Hour 0
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: Ending simulation at less than 24 hours.

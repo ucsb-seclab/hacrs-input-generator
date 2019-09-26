@@ -1,0 +1,23 @@
+HELLO
+AUTH 60360440
+SET data EEIysGLdLkFDiRQuYcIvaTUCUvT2UsD8DVUW1uEbgf1dm4NhiVPjbAEVt4dSrsyHehLjnbuFdUSUnW
+SET mode decode
+SET key 7VIvuCwbeFDtwplRkeAydh6wiAjhuSEKLeieYmiN1fNw3lURavtuRsLcuxrGtR3yftWjJ1ywgSc9HuP4JmD4oGr8kx1vIkuzt7Kx5lhQlUxwiidCnBbyc
+SET mode decode
+CALL /root64
+CALL /parcour
+CALL /
+SET data IKD6ElIdT6MwKLmAU0L2LXyJQa5Jm0wQcrEmg5Zihs5TosOQs7toyfTHX8cFtVntRRQtlTCWZglOzHPD9p7KXgbSss75yvg
+CALL /
+CALL 1rLdzWWOLJdc0t
+SET Oa8ltZEG1V8Q8rV6qdod0Q2MMXx11 PW9P5p39a0fX1UUhT
+SET mode encode
+SET mode encode
+CALL /parcour
+SET mode decode
+SET key cx1KqS4lwJ2itPTI4apneVFW9ZWXct1wzUW5i76TZjuospJNs8Bj2vYgkvzoWDdtCDNk5X
+SET hP8Kcvq VufstFhfZxS
+CALL zuijXivq
+CALL /
+SET data lsclPGJy37QLBFN4w9l7Y3V8i
+BYE

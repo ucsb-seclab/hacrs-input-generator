@@ -1,0 +1,7 @@
+if [ -z "$WHY_IS_THIS_NECESSARY" ]; then
+	export WHY_IS_THIS_NECESSARY=1
+	if [ -z "$VIRTUAL_ENV" ]; then
+		source /etc/bash_completion.d/virtualenvwrapper
+		workon angr
+	fi
+fi

@@ -1,0 +1,56 @@
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+Dive Log is empty
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+Dive Site: Date: Time: Location (area/city): Max Depth in ft: Avg Depth : 
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+Dive Site: Date: Time: LoPressure Out (psi): 
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+logged: 3
+Average Max Depth: 68
+Average Dive Length: 52
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+Dive Site: Date (10/28/2014): Time (18:11:32): Location (area/city): Max Depth in ft (129): Avg Depth in ft (72): Dive Duration (mins) (30): O

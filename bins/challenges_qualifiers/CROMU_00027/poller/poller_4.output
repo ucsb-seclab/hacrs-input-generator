@@ -1,0 +1,20 @@
+AML supports string variables.
+Variables are created within a script (see AML.Scripts)
+and referenced with this syntax:
+    #variable#
+SUCCESS: Page deleted
+The QUERY command retrieves a listing of the pages on the server.
+To retrieve the entire list of all pages:
+    [QUERY:::]
+To retrieve a subset of the page tree:
+    [QUERY:somepage::]
+Fetch a page from the server using variable subsName
+    Server
+        Commands
+            REQUEST
+            QUERY
+            SEND
+            REMOVE
+            VISUALIZE
+            INTERACT
+        Commands_new

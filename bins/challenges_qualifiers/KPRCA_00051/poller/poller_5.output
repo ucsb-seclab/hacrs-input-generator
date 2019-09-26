@@ -1,0 +1,36 @@
+University Course Scheduler
+
+Enter name: Select a major
+List Departments?
+1 - Yes
+2 - No
+Choice: Enter your Major's Department Name: Congratulations. You're read to start adding classes
+Main Menu
+1 - Search Classes
+2 - Add Class
+3 - Remove Class
+4 - Print Schedule
+5 - Exit
+Choice: Add Class to Schedule
+0 - Go Back
+1 - Add by Class Num (ex: MAT 150)
+2 - Add by Course ID (ex: 2600)
+Choice: Enter Course ID: 0 - Go Back
+IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|433535|COM 290|Lashaun Pasha|CR:3|CE:12|MC:15|TR|09:30|10:50|Public Presentations
+#2|433535|COM 290|Lashaun Pasha|CR:3|CE:14|MC:15|TR|14:00|15:20|Public Presentations
+#3|433535|COM 290|Nellie Borja|CR:3|CE:14|MC:15|TR|17:00|18:20|Public Presentations
+#4|433535|COM 290|Nellie Borja|CR:3|CE:14|MC:15|TR|17:00|18:20|Public Presentations
+Choice: Add Class to Schedule
+0 - Go Back
+1 - Add by Class Num (ex: MAT 150)
+2 - Add by Course ID (ex: 2600)
+Choice: Returning to main menu
+Mto main menu
+Main Menu
+1 - Search Classes
+2 - Add Class
+3 - Remove Class
+4 - Print Schedule
+5 - Exit
+Choice: IDX|CID|Course|Profes

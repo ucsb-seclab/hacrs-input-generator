@@ -1,0 +1,23 @@
+Upload a page to the server
+    [SEND:newpage:length:pagedata]
+.
+    Hello
+        Name
+    Server
+        Commands
+            REQUEST
+            QUERY
+            SEND
+            REMOVE
+            VISUALIZE
+            INTERACT
+    AML
+        Commands
+        Literals
+        Variables
+        Scripts
+        Examples
+            Line
+            Variableset
+            ManyVariables
+            Box

@@ -1,0 +1,347 @@
+
+Planet Markup Language Main
+1) Print Planets
+2) Add PML
+3) Add Planet
+4) Select Planet
+5) Exit
+Selection: 
+-> 
+Planet Markup Language Main
+1) Print Planets
+2) Add PML
+3) Add Planet
+4) Select Planet
+5) Exit
+Selection: Name: RxhG140QL6YU
+
+Planet Markup Language Main
+1) Print Planets
+2) Add PML
+3) Add Planet
+4) Select Planet
+5) Exit
+Selection: PML: 
+Planet Markup Language Main
+1) Print Planets
+2) Add PML
+3) Add Planet
+4) Select Planet
+5) Exit
+Selection: Name: RxhG140QL6YU
+Name: xMd0tO
+	Population: 2330
+	Period: 0.40426
+	Orbit Speed: 36.40000
+	Aphelion: 3.96154
+	Perihelion: 0.08333
+	Radius: 1.82927
+	ERadius: 1.21127
+	Mass: 0.36434
+	Gravity: 1.23622
+	Country: uBgPj7t6
+		Capitol: xDvRKtr
+		Population: 22914
+		Language: vQrsbLUhdq
+		Border: 0.69333 0.34783 2.70455 0.14414
+		Border: 0.29891 0.262141 1.55340 0.63964 13.33333
+			Border: 0.12500 2.78788 1.51667 0.58621
+			County: eVtjq
+				Seat: SyrIJsm
+				Population: 29733
+				Area: 1.56098
+				Density: 4.58824
+				Border: 2.29310 0.31429 0.19209 0.08721
+				City: 9LU21Nhj
+					Population: 2232
+					Mayor: XXRlTOYgbj j4kna
+					Url: http://gTTGnZEH5a0z8h.com
+					Border: 1.21429 6.09091 0.43316 21.25000
+					Border: 1.53846 43.00000 0.40506 10.41667
+	Country: AVj5xjVHrN
+		Capitol: aakWjrpFfv
+		Population: 15350
+		Language: rvuyRHmtE
+		Language: EArZnDLaTN
+		Border: 0.44554 2.09459 1.55882 1.12963
+		Border: 1.03030 0.22051 5.84211 0.79167
+		Border: 0.91489 0.16837 5.33333 0.85714
+		Territory: s0m0MN
+			Population: 5524
+			Established: 787
+			Founder: acN3kymrorXK
+			Border: 1.08750 0.76374 0.34737 0.23239
+			County: PhK635pytZ
+				Seat: SytMvWs
+				Population: 28763
+				Area: 0.44706
+				Density: 3.74359
+				Border: 3.31707 0.03175 0.26738 2.40323
+				City: Ha2zXifzZu
+					Population: 31383
+					Mayor: 9vK UcSQQM
+					Url: http://f2WNf0LCp.com
+					Border: 2.61290 0.56989 1.04938 1.40741
+
+Planet Markup Language Main
+1) Print Planets
+2) Add PML
+3) Add Planet
+4) Select Planet
+5) Exit
+Selection: 1) RxhG140QLtion
+2) Set Period
+3) Set Orbit S Set Aphelion
+5) Set Perihelion
+6) Set Mean Radius
+7) Set Equatorial Radius
+8) Set Mass
+9) Set Gravity
+10) Set population
+11) Add Country
+12) Select country
+13) Delete Planet and exit menu
+14) Exit menu
+Selection: Name: RxhG140QL6YU
+
+Planet: RxhG140QL6YU
+1) Display planet information
+2) Set Period
+3) Set Orbit Speed
+4) Set Aphelion
+5) Set Perihelion
+6) Set Mean Radius
+7) Set Equatorial Radius
+8) Set Mass
+9) Set Gravity
+10) Set population
+11) Add Country
+12) Select country
+13) Delete Planet and exit menu
+14) Exit menu
+Selection: 
+->
+1) Display planet information
+2) Set Period
+3) Set Orbit Speed
+4) Set Aphelion
+5) Set Perihelion
+6) Set Mean Radius
+7) Set Equatorial Radius
+8) Set Mass
+9) Set Gravity
+10) Set population
+11) Add Country
+12) Select country
+13) Planet: RxhG140QL6YU
+1) Display plannet: RxhG140QL6YU
+1) Display planet information
+2) Set Period
+3) Set Orbit Speed
+4) Set Aphelion
+5) Set Perihelion
+6) Set Mean Radius
+7) Set Equatorial Radius
+8) Set Mass
+9) Set Gravity
+10) Set population
+11) Add Country
+12) Select country
+13) Delete Planet and exit menu
+14) Exit menu
+Selection: 
+Countries:
+1) CElfFINhu3b
+
+-> 
+C Start: Long Start: Lat End: Long End: Country: CElfFINhu3b
+1) Display Cou
+Country: CElfFINhu3b
+1) Display CountryInfo
+2) Set Capitol
+3) Set Population
+4) Add Language
+5) Add border
+6) Add Territory
+7) Select Territory
+8) Delete Country and Exit Menu
+9) Exit menu
+Selection: 
+-> 
+Countrrritory: D0AVuG20Mwv
+1) Display t: Lat End: Long End: 
+Territory: VuG20Mwv
+1) Display Territory Info
+2) Set Founder
+3) Set Population
+4) Set Established
+5) Add Border
+6) Add County
+7) Select County
+8) Delete County and Exit Menu
+9) Exit Menu
+Selection: Lat Start: LElfFINhu3b
+2) I2TrNHY
+
+-> 
+Coritory: D0AVuG20Mwv
+1) Display Territory Info
+2) Set Founder
+3) Set Population
+4) Set Established
+5) Add Border
+6) Add County
+7) Select County
+8) Delete County and Exit Menu
+9) Exit Menu
+Selection: 		Territory: D0AVuG20Mwv
+			 Territory Info
+2) Set Founder
+3) Set Population
+4) Set Established
+5) Add Border
+6) Add County
+7) Select County
+8) Delete County and Exit Menu
+9) Exit Menu
+Selection: 
+-> 
+Territory: D0AVuG20Mwv 
+Country: CElfFINhu3b
+1) Display CountryElfFINhu3b
+1) Display CountryInfo
+2) Set Capitol
+3) Set Population
+4) Add Language
+5) Add border
+6) Add Territory
+7) Select Territory
+8) Delete Country and Exit Menu
+9) Exit menu
+Selection: Latart: Lat End: Long End: 
+Country: CEl> 
+Country: CElfFINhu3b
+1) Display Count Speed
+4) Set Aphelion
+5) Set Perihelion
+6) Set Mean Radius
+7) Set Equatorial Radius
+8) Set Mass
+9) Set Gravity
+10) Set population
+11) Add Country
+12) Select t Speed: 0.89706
+	Perihelion: 0.64384
+	Radius: 2.22222
+	ERadius: 1.21818
+	Mass: 0.01124
+	Gravity: 0.27976
+	Country: CElfFINhu3b
+		Capitol: ulwVmtQxbpz
+		Population: 17325
+		Language: YACraDGvLcZ
+		Language: GbSgDUHZJQz
+		Language: tneAvoiAaI
+		Language: XRcxYtyOGark
+		Language: vmprMbAKFqG
+		Language: CUXMwExQmsxzzN
+		Language: SDEuDAjWHPyLZ
+		Border: 1.07602 0.11538 2.26761 1.65476
+		Border: 1.48148 0.32184 0.45455 0.58247
+		Border: 1.24590 1.03333 1.15698 1.63158
+		Border: 3.40000 3.67647 3.32653 0.40805
+		Border: 1.05660 1.30000 2.81481 0.14286
+		Border: 0.55944 0.32796 1.15663 0.62703
+		Territory: D0AVuG20Mwv
+			Population: 6401286 0.49650
+			Border: 3.03509 1.10759 2.50000 6.50000
+			Border: 5.40000 9.72222 3.57143 1.11765
+			County: zS4KOsTS8NeM
+				Seat: Unknown
+		Territory: BPfIKFS
+			Established: 0
+			Founder: Unknown
+	Country: I2TrNHY
+		Capitol: Unknown
+Name: xMd0tO
+	Population: 2330
+	Period: 0.40426
+	Orbit Speed: 36.40000
+	Aphelion: 3.96154
+	Perihelion: 0.08333
+	Radius: 1.82927
+	ERadius: 1.21127
+	Mass: 0.36434
+	Gravity: 1.23622
+	Country: uBgPj7t6
+		Capitol: xDvRKtr
+		Population: 22914
+		Language: vQrsbLUhdq
+		Border: 0.69333 0.34783 2.70455 0.14414
+		Border: 0.29891 0.26214 1.12371 1.02618
+		Territory: MmyBOFSFK
+			Population: 5312
+			Established: 451
+			Founder: 38DhG3Gr5M18Tn
+			Border: 5.48387 0.76500 1.32258 1.16250
+			Border: 2.12941 1.55340 0.63964 13.33333
+			Border: 0.12500 2.78788 1.51667 0.58621
+			County: eVtjq
+				Seat: SyrIJsm
+				Population: 29733
+				Area: 1.56098
+				Density: 4.58824
+				Border: 2.29310 0.31429 0.19209 0.08721
+				City: 9LU21Nhj
+					Population: 2232
+					Mayor: XXRlTOYgbj j4kna
+					Url: http://gTTGnZEH5a0z8h.com
+					Border: 1.21429 6.09091 0.43316 21.25000
+					Border: 1.53846 43.00000 0.40506 10.41667
+	Country: AVj5xjVHrN
+		Capitol: aakWjrpFfv
+		Population: 15350
+		Language: rvuyRHmtE
+		Language: EArZnDLaTN
+		Border: 0.44554 2.09459 1.55882 1.12963
+		Border: 1.03030 0.22051 5.84211 0.79167
+		Border: 0.91489 0.16837 5.33333 0.85714
+		Territory: s0m0MN
+			Population: 5524
+			Established: 787
+			Founder: acN3kymrorXK
+			Border: 1.08750 0.76374 0.34737 0.23239
+			County: PhK635pytZ
+				Seat: SytMvWs
+				Population: 28763
+				Area: 0.44706
+				Density: 3.74359
+				Border: 3.31707 0.03175 0.26738 2.40323
+				City: Ha2zXifzZu
+					Population: 31383
+					Mayor: 9vK UcSQQM
+					Url: http://f2WNf0LCp.com
+					Border: 2.61290 0.56989 1.04938 1.40741
+
+Planet Markup Language Main
+1) Print Planets
+2) Add PML
+3) Add Planet
+4) Select Planet
+5) Exit
+Selection: PML: 
+Planet Markup Language Main
+1) Print Planets
+2) Add PML
+3) Add Planet
+4) Select Planet
+5) Exit
+Selection: 
+-> 
+Planet L6YU
+	Population: 16933
+	Period: 
+	Country: CElfFINhu3b
+		Capitol
+		Language: CUXMwExQmsxzzN
+		La

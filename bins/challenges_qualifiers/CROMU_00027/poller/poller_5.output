@@ -1,0 +1,31 @@
+ASCII Markup Language uses the ~ character as a command code
+    ~n converts to newline
+    ~t converts to tab
+ASCII Markup Language uses the ~ character as a command code
+    ~n converts to newline
+    ~t converts to tab
+SUCCESS: Page uploaded to server
+Remove a page from the server
+    [REMOVE:pagename::]
+Upload a page to the server
+    [SEND:newpage:length:pagedata]
+Process and display page Name
+    Server
+        Commands
+            REQUEST
+            QUERY
+            SEND
+            REMOVE
+            VISUALIZE
+            INTERACT
+    AML
+        Commands
+        Literals
+        Variables
+        Scripts
+        Examples
+            Line
+            Variableset
+            ManyVariables
+            Box
+            Box_new

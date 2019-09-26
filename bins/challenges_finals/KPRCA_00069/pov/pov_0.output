@@ -1,0 +1,36 @@
+Welcome to the EZ Barcode Encoder/Decoder Service
+--Select an option--
+1. Input a new barcode
+2. View barcode ascii
+3. Generate barcode image
+4. View cached barcodes
+5. Clear cached barcodes
+6. Quit
+:-$  Input barcode as:
+    1. String to encode
+    2. Barcode encoded in ascii ("|" and " ")
+    3. Barcode bitmap
+    0. Return to main menu
+:-$  Input barcode as:
+    1. String to encode
+    2. Barcode encoded in ascii ("|" and " ")
+    3. Barcode bitmap
+    0. Return to main menu
+:-$  Successfully added bitmap barcode to cache
+Barcode text: ---AÀGCBÀGCCÀGCDÀGC804ec8eb7c00af88050b7c0000ea00b7d430083600360000000000000000000300a000800a051b162ex18126363755366737365796c6c756464612062206465616d746961622070646f63726f74206563616320420a65686f637261742065643a7478652d2d2d20!!!µý#º›µ’Eép?Œ”¬—ÁI¦G* U{æýcŸ­Vü–œ2iúÛ£'oF</!d·ƒ|¾ž^Böª¯vÍØ}«¼å!!!!µý#º›µ’Eép?Œ”¬—ÁI¦G* U{æýcŸ­Vü–œ2iúÛ£'oF</!d·ƒ|¾ž^Böª¯vÍØ}«¼å!!!!!ý#º›µ’Eép?Œ”¬—ÁI¦G* U{æýcŸ­Vü–œ2iúÛ£'oF</!d·ƒ|¾ž^Böª¯vÍØ}«¼å!!!!!!#º›µ’Eép?Œ”¬—ÁI¦G* U{æýcŸ­Vü–œ2iúÛ£'oF</!d·ƒ|¾ž^Böª¯vÍØ}«¼å
+--Select an option--
+1. Input a new barcode
+2. View barcode ascii
+3. Generate barcode image
+4. View cached barcodes
+5. Clear cached barcodes
+6. Quit
+:-$  Invalid Selection
+--Select an option--
+1. Input a new barcode
+2. View barcode ascii
+3. Generate barcode image
+4. View cached barcodes
+5. Clear cached barcodes
+6. Quit
+:-$  

@@ -1,0 +1,11 @@
+Enter system password: 
+Welcome to the CGC Pizzeria order management system.
+1. Input Order
+2. Update Order
+3. View One Orders
+4. View All Orders
+5. Delete Order
+6. Clear All Orders
+7. Logout
+Choice: Logging out
+Enter system password: Received termination string

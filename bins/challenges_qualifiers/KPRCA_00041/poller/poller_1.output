@@ -1,0 +1,414 @@
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: No File Loaded <> File 2: No File Loaded
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=DisableSuccessfully Loaded File
+
+File Comparer ver 1.0
+-------------------
+1. Load File 1
+2. Load File 2
+3.e Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: No File Loaded
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> 
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: No File Loaded
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> Successfully Loaded File
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE TWO
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> 
+File Comparer ver 1.0
+----Files don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE T 2
+3. Enable Igce
+4Ignore Whitespace=Disabled
+Ignorenable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE TWO
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> Successfully3,4r3,3
+< yoSPX wF HhQ
+6,7r5,5
+< tADEJvkQUz vDOJLsg QvTXI FhVYrEJcMe SjVK VBsR mSLfGNe WQcAN zIVnWjkj
+8,9r6,6
+< RV jorxxC Jux IkLqe iyuNGsqVJU dcXoDACtkE zhMUKAcJ
+11,13a8,14
+> ZQmP YLdvLNUko Wqc MEmheqFu YxMyoQObAG
+> HCVv oJRhHBiqMx UtFFyA qQh mf Act
+> LlF eXy qcpLQY NMnt lkyrRFRV TvZ XHw
+< xI CvcdZ FyrnRlt FlWOmic SBOfvgAfln oNZv EdWd
+25,30r23,24
+< EjFdBSyH lLd
+< TNscFJ sXMGpUMsIs judduVIY JaZQe zzFdZOyPz NdJ MSmDnaGS WduxU UmwwxIeD
+< sPm puxfNjKQg
+< IhJzAusiK puQZqLvF ankKC hwkZpxSEK ZfyKGx BH
+< xd WNmLE EErcLD QbjTag ZyJdfQA QcSf fs
+31,35c25,35
+< ucpaZ bVaEmJ etQq TyFv uusTRwSKlv tBEc AVv hBcRiZ
+< HEvgYMVA zOlfnMw GhUoMjyKFO sbRH ql xoIU gQ
+< DMBogqaReJ szaZNbWwQ rpVAShGl AgQcEb BywN aVyeXogF lulTSd
+< yh MCeiMQHUs PzqxkC aSD
+---
+> ZHEvgYMVA zOlfnMw GhUoMjyKFO sbRH ql xoIU gQ
+> ZBpQqJ OAKJvqFQ VdYw cuMM Mj CUnuaacEbP
+> AsQGfR RS TNQRJCVCS gcxkLJYM qCra VNztN Bdj ytrLrBruO
+> lVqgSsEfi pCRtA
+> tTpGcyr KQsPwdi qGIsICEs
+> PzFRxUl rFyvPZAsL mUrLEPR
+> HepkWffW Yog oYwUjvHFi VJUVohgfXj xnSJmimjWz DVb naXRO GxSFyot nNkWAKn
+> FPOet TK gDV ws
+> aOgQcYCBR lk MEiYBdpu YaMnNhpCMU YqwmltmjoA GgxMsBX evcMqqf
+> sIcty cqBws yHUaEpK Lbsx qeaTz
+42,48a42,68
+> ZZzfNzVQmy VqVtkGfepV KQsFte RJY WfYorlOlBg
+> EVBQwwaa BIgHwxH psoBZqSwog QHsNdtZxrA Gk GNzffkQ xn
+> WLhyy ZLIUg kZCKvE lioEFwb tITMHrsPP Pp
+> Ojbbys DrdVokzwQ KRjFGu CSh mvLrkV ORJeJ
+> BbHL MukavfBPuQ ISWX kLHKh
+> kJCjaapN CDWWU FGWhj FBTp mBAHYYxQY Pfpq ZBwz xvKRufkAN CnFuw
+> PRaEC gKPPRbTXm ZUceudW JiONxg yrJuQ
+> kNBtsKsM iC yqsTW kzpxGFU bSVUffF lPXsNnI utgo vQHDHpH RIg
+> ro EapubvNg YwtIu gtLcbW BKXbKTWBe FFjaM
+> wAbz bimE SBJM gpVy lFrWaw ferRlyaY eeMhpq
+> QhUE usJB
+> sKOnSCbpb Gse yDRZ WC LhwBv
+> FFbolOblyi IE sxHEKbuZyH
+> XPxKkplCEU JYn
+> VSIWjBlEe cPYdKmdMa dktjE xgBlTVt vuRMLaJlw pvGCDMcL EBAPXZmHjF ZNQdZys XIWoT
+> ljpNgqlDl IrK PDMedU QmRcXKJs pBWMfT CMpRPFN
+> FOGVgLq yxqnuSkkT BNLKpC DrTSJwQy
+> KMKAMip nXViB kpL HAwBA
+> IC ZXolaj
+> bVoEbOv wJYKZr yLRXmZn FklW tCINQ OsntxnG CfDsqpdcZ Km jvdTlcBxb
+> qkASUYIfzj ZoyYCyn LSg UzKIWK
+> xbmQL SCIueO gHI TMhdPgsEfV TriS yDcp Uv ZQVoU
+> NBrrwnqw Wg KQUrqJUaAX HogyAv UfjZVRPVfO ui hSWlKVRyfF
+> YMkR RxFd ZmvhHlvdw AdROi lqIJmR
+> IgkqfKD LUx ubKyTCvd
+> ZEhTqzWpix vuLQq fNDcH wsFOY UHrFZlweZB
+49,52a69,70
+> ZOLcf hIxnOxRSj tXEqHDTWWC kLaHjxQ Lhcg YUDhBs NidpI MHhkxGUzjs
+53,60a71,97
+> ZZwpAEqqwFxC MChLZql nbPk VfkJtsc XVG
+> ZrjZmMw jFFN
+> UJXFvqXhb ANQMUf pdFonlxX KMeZi Pz nWsbwpoQL
+> uBgEMxOS wFfc Vot
+> VzvdGKucDi qdvMq eSuDdHG
+> iZDbliQfTz VSoNuvHKe nonJ SEEqCGrlA YNEmREi hqpDsfttOx QERzXro kxLuZRTHhU
+> dOLbnR TFqOZIE rJrtmRnfLH
+> Hn jc uPm sBtXUfZ zWaHmwnQpC
+> qFM tqPAWV HxIYkz
+> fzi jVPoZP dDATuCI AFVQvSMl NJgZ cBYwwT
+> IyV olDo ivbNsnNdg ogsx hUWUloPz NrMndIq WG bz lnsLvO
+> nxvW pBUTGCAbbn Qqhm sR cToW CdprxUBj aJ qkSRfwHHwz
+> LY PxLYaGsdj BP qUWz nhGoPYp wDFzt
+> BjOysp DuJfzuvu fObmqIU
+> npmit vUnxel vcw TXhdnhJJP LeLlbtpa pHKyQZcCr TroohewX
+> TMHXyOU usx AszWW xuB HvrtzElg xwpt
+> YJk gOBqjmuWAf
+> IHcmbJNR HzuXbUlsK tfHpsV
+> NVgbyvz gL aWx kv Xf FxX
+> PKo VpNwr hVOdEhGj qF GrEM HYKYDx
+> gyxEedRlpi WQw BH rIIQhD RpAM
+> WOVZOiW dCFPrqFJ FkAlPzdC fweuNSJq aCT IEoXTUwK tORWJ RpnwOzSw QnVNRlZ
+> aavoZgjHcl LuLof KlCVB XgqwhY rjeocINDmb GEkSVJ cyPZplhbu uFDTIYVrGU
+> HNXlBD zKSUv hM CwgMwaT PYMamLlRKT tV
+> wRAq YhnOal
+> tck wOMoqqpLG OSgGYQS
+61,68a98,100
+> ZrUJL gaEsYKz DOjCeE WeDxq
+> ZFrINO ZzQJy pAbFezZk
+71,76a103,105
+> ZvcCM eudOTuJ RlPWjQly LrtxC
+> ZZLNb VGTjTwQpAM
+77,78a106,131
+> MkJJYSU ETiuq VYRipQYR SdGIlUv
+> JqfaLRyua FaTmZkF Mt lL qiOqf RbuN TlVDKDotJ bOtIrZ
+> UJjf sG GU cb CaFeTEp kbWuh vHMRwdHd
+> fgmOaxXHHD AkTFk ZCqBZLidbl ydF KZhphTRF rtNplsQ VqESBl sSJTfQE
+> UByRYh mOo zOFSgAwzmQ YOKhuNRuK ePaASyR VwKPL
+> JQkOAZO pwfCr EDCW iLtKSfRFjg n
+File Comparer ver 1.0
+---------------------
+Select an option:
+1.  Type
+5. Compare files
+6. Quit
+
+FDEJvkQUz vDOJLsg QvTXI FhVYrEJcMea8,14
+> ZQmP YLdvLNUko Wqc MEmheqFu YxMyoQObAG
+> HCVv oJRhHBiqMx UtFFyA qQh mf Act
+> LlF eXy qcpbit ASZ CwmSNDHTt lIJtcQ tsYL vSvWvYN hKymJqs
+> zSQVq jfFMua UXOrUQYBg
+> tzTFmXNdC tvZRhcZ vSYAyTqkm Vqmu opUNmiS
+> FhAXAoivR hC MHOOuV kFlHco oeJh rjf
+15,20r16,18
+< uKhxqxAET duF rTx aBqb
+< wOkfsIUFW ksIUnjA SLQY NMnt lkyrRFRV TvZ XHw
+< xI CvcG KeEt kHVc LxJsvkug vy TFvZntm NiE rf
+< CiKv IY KmJETD BqXLIbGMEa jdX HjqUqwREF edHaYKat LlJGrn CRqbxmc
+< gyC PnqdZ FyrnRlt FlWOmic SBOfvgAfln oNZv EdWd
+25,30r23,24
+< EjFdBSyH lLd
+< TNscFJ sXMGpUMsIs judduVIY JaZQe zzFdZOyPz NdJ MSmDnaGS WduxU UmwwxIeD
+< sPm puxfNjKQg
+< IhJzAusiK puQZqLvF ankKC hwkZpxSEK ZfyKGx BH
+< xd WNmLE EErcLD QbjTag ZyJdfQA QcSf fs
+31,35c25,35
+< ucpaZ bVaEmJ etQq TyFv uusTRwSKlv tBEc AVv hBcRiZ
+< HEvgYMVA zOlfnMw GhUoMjyKFO sbRH ql xoIU gQ
+< DMBogqaReJ szaZNbWwQ rpVAShGl AgQcEb BywN aVyeXogF lulTSd
+< yh MCeiMQHUs PzqxkC aSD
+---
+> ZHEvgYMVA zOlfnMw GhUoMjyKFO sbRH ql xoIU gQ
+> ZBpQqJ OAKJvqFQ VdYw cuMM Mj CUnuaacEbP
+> AsQGfR RS TNQRJCVCS gcxkLJYM qCra VNztN Bdj ytrLrBruO
+> lVqgSsEfi pCRtA
+> tTpGcyr KQsPwdi qGIsICEs
+> PzFRxUl rFyvPZAsL mUrLEPR
+> HepkWffW Yog oYwUjvHFi VJUVohgfXj xnSJmimjWz DVb naXRO GxSFyot nNkWAKn
+> FPOet TK gDV ws
+> aOgQcYCBR lk MEiYBdpu YaMnNhpCMU YqwmltmjoA GgxMsBX evcMqqf
+> sIcty cqBws yHUaEpK Lbsx qeaTz
+42,48a42,68
+> ZZzfNzVQmy VqVtkGfepV KQsFte RJY WfYorlOlBg
+> EVBQwwaa BIgHwxH psoBZqSwog QHsNdtZxrA Gk GNzffkQ xn
+> WLhyy ZLIUg kZCKvE lioEFwb tITMHrsPP Pp
+> Ojbbys DrdVokzwQ KRjFGu CSh mvLrkV ORJeJ
+> BbHL MukavfBPuQ ISWX kLHKh
+> kJCjaapN CDWWU FGWhj FBTp mBAHYYxQY Pfpq ZBwz xvKRufkAN CnFuw
+> PRaEC gKPPRbTXm ZUceudW JiONxg yrJuQ
+> kNBtsKsM iC yqsTW kzpxGFU bSVUffF lPXsNnI utgo vQHDHpH RIg
+> ro EapubvNg YwtIu gtLcbW BKXbKTWBe FFjaM
+> wAbz bimE SBJM gpVy lFrWaw ferRlyaY eeMhpq
+> QhUE usJB
+> sKOnSCbpb Gse yDRZ WC LhwBv
+> FFbolOblyi IE sxHEKbuZyH
+> XPxKkplCEU JYn
+> VSIWjBlEe cPYdKmdMa dktjE xgBlTVt vuRMLaJlw pvGCDMcL EBAPXZmHjF ZNQdZys XIWoT
+> ljpNgqlDl IrK PDMedU QmRcXKJs pBWMfT CMpRPFN
+> FOGVgLq yxqnuSkkT BNLKpC DrTSJwQy
+> KMKAMip nXViB kpL HAwBA
+> IC ZXolaj
+> bVoEbOv wJYKZr yLRXmZn FklW tCINQ OsntxnG CfDsqpdcZ Km jvdTlcBxb
+> qkASUYIfzj ZoyYCyn LSg UzKIWK
+> xbmQL SCIueO gHI TMhdPgsEfV TriS yDcp Uv ZQVoU
+> NBrrwnqw Wg KQUrqJUaAX HogyAv UfjZVRPVfO ui hSWlKVRyfF
+> YMkR RxFd ZmvhHlvdw AdROi lqIJmR
+> IgkqfKD LUx ubKyTCvd
+> ZEhTqzWpix vuLQq fNDcH wsFOY UHrFZlweZB
+49,52a69,70
+> ZOLcf hIxnOxRSj tXEqHDTWWC kLaHjxQ Lhcg YUDhBs NidpI MHhkxGUzjs
+53,60a71,97
+> ZZwpAEqqwFxC MChLZql nbPk VfkJtsc XVG
+> ZrjZmMw jFFN
+> UJXFvqXhb ANQMUf pdFonlxX KMeZi Pz nWsbwpoQL
+> uBgEMxOS wFfc Vot
+> VzvdGKucDi qdvMq eSuDdHG
+> iZDbliQfTz VSoNuvHKe nonJ SEEqCGrlA YNEmREi hqpDsfttOx QERzXro kxLuZRTHhU
+> dOLbnR TFqOZIE rJrtmRnfLH
+> Hn jc uPm sBtXUfZ zWaHmwnQpC
+> qFM tqPAWV HxIYkz
+> fzi jVPoZP dDATuCI AFVQvSMl NJgZ cBYwwT
+> IyV olDo ivbNsnNdg ogsx hUWUloPz NrMndIq WG bz lnsLvO
+> nxvW pBUTGCAbbn Qqhm sR cToW CdprxUBj aJ qkSRfwHHwz
+> LY PxLYaGsdj BP qUWz nhGoPYp wDFzt
+> BjOysp DuJfzuvu fObmqIU
+> npmit vUnxel vcw TXhdnhJJP LeLlbtpa pHKyQZcCr TroohewX
+> TMHXyOU usx AszWW xuB HvrtzElg xwpt
+> YJk gOBqjmuWAf
+> IHcmbJNR HzuXbUlsK tfHpsV
+> NVgbyvz gL aWx kv Xf FxX
+> PKo VpNwr hVOdEhGj qF GrEM HYKYDx
+> gyxEedRlpi WQw BH rIIQhD RpAM
+> WOVZOiW dCFPrqFJ FkAlPzdC fweuNSJq aCT IEoXTUwK tORWJ RpnwOzSw QnVNRlZ
+> aavoZgjHcl LuLof KlCVB XgqwhY rjeocINDmb GEkSVJ cyPZplhbu uFDTIYVrGU
+> HNXlBD zKSUv hM CwgMwaT PYMamLlRKT tV
+> wRAq YhnOal
+> tck wOMoqqpLG OSgGYQS
+61,68a98,100
+> ZrUJL gaEsYKz DOjCeE WeDxq
+> ZFrINO ZzQJy pAbFezZk
+71,76a103,105
+> ZvcCM eudOTuJ RlPWjQly LrtxC
+> ZZLNb VGTjTwQpAM
+77,78a106,131
+> MkJJYSU ETiuq VYRipQYR SdGIlUv
+> JqfaLRyua FaTmZkF Mt lL qiOqf RbuN TlVDKDotJ bOtIrZ
+> UJjf sG GU cb CaFeTEp kbWuh vHMRwdHd
+> fgmOaxXHHD AkTFk ZCqBZLidbl ydF KZhphTRF rtNplsQ VqESBl sSJTfQE
+> UByRYh mOo zOFSgAwzmQ YOKhuNRuK ePaASyR VwKPL
+> JQkOAZOV DZHADHqarG oAxRY
+> An aiECbnZ WNVpidjFpo IydpuJF
+> cLqI oaKlQof FQIBWPnWBL
+> fVFRdIO OfowIXGjx rXnHYGq VgwtGdHlY oRfNhqAkr lIfxMqFQE ScaaGJ UxaSaQAYA
+> JMYKLewyLT vGKetAbXRB SVU KIoWDSYUBA MKrXFk
+> WT PexrLsSQwO ohDDSns tjjevzmafb DnF
+> NJMYjON trgttuEzK ye Rv cObXIr gOpR qgn Vg
+> pwfCr EDCW iLtKSfRFjg niuHZuLy MamBhQwHU
+> EoBXNpgKKj GHiRB dgBKIHH bKBnzJ xjDUTpnm tgMshRzP mQLpkeojw rpu
+> xeAnjlwr dT
+> NzurSm MrzDgK xgBHyefvwT zO IdsfGMGdMD
+> ZmZnsBDadi lugMjBbxa uYcgpjBj oi ENWWKg CtuJP ZxV
+> ICghPFc kya Qycspvoj
+> rDqZ klDrNfxO
+> As FOspB ruQsbZgrnG uB BHhzrJA
+> JwNdCwHuH kXptZPfJmp ENKTyO jJoq nrGr SGaPr KTDgLN de Ov
+> DRDxoIBoG UMd oFyO dZgtBIY yhQOnd ifmfceT NDWInoB aJNR vIlqOKOL
+> bFnAavuz CgEVZiEhf TDn LjdEaSy BmnQVivvBA TFPoS ccbXymvL
+> vzWRQIyT cnidVXZqP nBEni KFat OevpwMTmNY MmiLteC WHdJi
+> NuZYdojV zqMfzD kdAHAUkPVe KuAxEoaA
+81,83a134,135
+> ZeFvNvMp vGixvg IDyxYE YQuffRfGz PmcEFTW pFUEuZjQ vhieBmBCDt
+87,89a139,140
+> ZbtcmV KvHGQT
+95,96a146,167
+> zYlAGclN kEXzWci NRazmmzP sWcgG hmna xl qIuSz
+> Ihp eLetdbdYe evMbgCST MVb HbbPpxxvu
+> ckOGNOTAkKg aLg njRNcMko
+> phsLTtf dYdqFnT asDY xEOmKLwsL LtLJHjd
+> RBVUDAIzAays zbJXDeX iSImYNu efe
+> qnsNAdRXSS NApnZryOU RNxdNwXlk
+> Xq VywH HKHkSp DLB volohowRYQ
+> FGOPaVmCL YKaBL yCHEDGPh Ky wZoOjaiCl QYulUMPD ZounU hlSrWeTz ZpjOHxbPC
+> cLxFG rjRRjdels oQUyJUfQUh
+> OoIC pmTZAV yEtQRRmb uAbclMAbs
+> GGvvl lBl LTFMVsg asajNHmP jnwFQclqza ayVjYWpa CeHjxeSMF lbEt RAGMMXwe
+> Jz klGkAao DYuADulTe uaou
+101,103a172,189
+> ZzQHvL mxjPakfzyw AGIuXHLx iQeKRQbTzDmEyWx pJdiRasBOD xMnwm
+> idNsx nmHgYQYTj mEtBEwpU
+> dtScdqwE ga dDAA VUw tRvJx NGrXfDSmP wQLt Iy
+> UOLHFWkyr vDVtoyJYtk ciyZU vkaEu luBr
+> kmQvKrOpJB sW
+> lfTpIBJea xqM XGIXvvYV
+> MCzdgkZQO vHPZXwWAN zeIB XUBY VgELhAV YwUPPCr
+> YhZMUIMWMo uepkqQCTsj AQgxRG BRH QzgcPzz omcvbaPo CCZQ jlxBWiPf cbpEVNSadm
+> HizUrdTbd GLreAj
+> xWgW VgTnhu Pg OgbMgk LXZPa eEvYVxK Zelty PECNFlxqNy HuX
+> aonOd qyyEv NUTbJAIKr xTty uQS
+> TLEz tWBn ywpJonnVT pDsqAX kQurfbnDLw Bh
+> VBdNxsc OSejYE pDJTAA BhHoNdRrK CmaNdwFV zmre HMN MsWyYyUQ
+> FasB SUCQhJ RjKAiYgQOT aLqEkCPZAq jXPCMdl oEXg
+> wikEErPh kgL QMEMWBGghP
+105,107a191,192
+> ZgNoWdrFPcW NHdZWqs JIWQrp AFa JQcteXeVw gBZPQLEzWQ
+109,113a194,204
+> ZrvpYlOtAV gBedaNC UgWjVbspAe
+> TZSZ bb SJpsBCL nWFl qrAQsOH daaEqfHy
+> OFnDQHri DVmLgBhL BKdScHIJ vH QtsMDMVMCk KRA aHpcpRfs jY
+> izLqaxdFm BGIDjGDEH LJ MEoAMQ UnpkrgTtw Hy HwG UHzq fu
+> wIUsXVxI aiY
+> KT FJkwZ vN bwDC Mm rZuFnGxXzj zzo kSRSyW
+> ggCmV lHJoVKfCa oEdDTtYG TaWBr qhv fJcPN
+> liI YS xryqI rNY bWcrproOpB tuILkj Aor yVP UYUQMdzSb
+> LGtkyJkZu nUGHoDX keuJ oUZDAAeZl
+> Ss pDWEtI weu Yapucoq ZYeJe
+115,117a206,207
+> ZIUCcSB JJp
+120,127a210,212
+> ZZMy ltvSGxNGD VfRg XHNi NgOBmJmm
+> ZYCZ AXQHh jSGGKZN Uqr MB
+129,131a214,214
+132,138a215,220
+> ZZcHCxzgNpm WIOljo efrY qPNEQHKtpj kNSCSX jWaC STn JkDxo
+> EtKqrLmbBU qky uR CxvBb fnrqm
+> uGXYDLF LnRfuFK cbhNQwywhU fHQPkUuYZo jcktAwxI RavXGro
+> PXCQMtoTde NFo oIjniLyYg
+> ZTuSNfmBwy Bjj tUHDAGcRJT WLLPYoXze GvgaY GwsHeI qse JYZDQULAyI
+143,Ea225,E
+< SbmtX xiWuQhdx maEqy GVCkcyb
+< qSCPgWcUP KiVTouyr vttHEWEi
+< XuiFm eKLYcEJ ZdHGTkq fh vnSVkIC KktFytiFL NzMJrlRZWp
+< ObyRnj QOwqAjW
+< Hc UVTLWoQ OEmWCdE ZHvD gvgD uyJvsQCzJg MiryUS
+< Nyf VujqmgMlWm SYGtLJnsb CMI jQMIpjs ZwMDoCXwQK lYhjfFlTi
+< jKyjR zRhoKFR fehbKsn lwzMd eyowamp pgd
+> ZuFTXpWuWW StcqCpb
+> uzeblJck hQmYJGZ qoDrX hyqs xKRrmFA
+> LAHGk joyjS xBT nZ ltFfy ltPFvig lU HhNUgT
+> mDHitj LaGS FndGKp nYIEQs tLNBfRpVk VbHdKEZwj NwZmSXenHA ZBxxIhcw VjSSWgpAE
+> BiAivj KxAkW qYpqje xoE
+> GAX jFCsniu BG TFg
+> qEMKdPimOe dNsNsoPez UfCPR
+> wOPuNmi cahcULmNE iMq
+> VyFInwv cqZrX ZEiEtvHnkd PXf
+> GoT wAElfXXKR RvwzdXxTg UhDng lQ qNX
+> YmODoI IGmdpSN xnHbV ye ZV woyYt gcGi
+> izwmab BXjGBPUi Kqy wnISNXay njrtWYpv
+> PP cRYAdIoJF VycbxFKE IUXnVr IHBlXAqd RyvOTauKK nvgD uyJvsQCzJg MiryUS
+> GnaNuchbFs kkgMzW
+> hWSCQNkZGy llacp mBp RYRpbtF Yp Zj
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> Succes

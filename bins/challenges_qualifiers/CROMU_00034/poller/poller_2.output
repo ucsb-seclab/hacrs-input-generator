@@ -1,0 +1,26 @@
+Welcome to the diary logger!
+Length: 309
+Magic number: 0x4242
+Future: 0x2629
+Offset: 0x8
+Title: movies
+Entry Count: 0x5
+title: caacaabcc
+plot summary: ca
+producer: cbbbbbbabcbb
+actor: abaacbacbcaccabcbaaa
+actor: baaccbbccaaacbbc
+Title: jobs
+Entry Count: 0x6
+title: ac
+company: acaccbbbcca
+salary: 0x744ba78c
+years: 0xb3
+title: baabbacbbaabacaacabc
+job category: abbabbacbcababab
+Title: movies
+Entry Count: 0x6
+title: abbacaa
+plot summary: cacbabacbcbbccbcbirector: bcacacbac
+director: acbcb
+good book.

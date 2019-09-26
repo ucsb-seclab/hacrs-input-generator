@@ -1,0 +1,735 @@
+1. Load File
+2. Quit
+
+--NO FILE LOADED--
+ERROR: Bad Input. Valid Options: 1, 2
+1. Load File
+2. Quit
+
+--NO FILE LOADED--
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=None | Visualization Slowdown Multiplier=0::
+
+
+
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter Track: Sampled @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=None | Visualization Slowdown Multiplier=0::
+
+1. Load New File
+2. Wave Visualizer
+3. EQ . Set visualization speed multipli (0-9)
+9. Quit
+
+--Current Track:    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     ||     ||     ||     ||     || ||     ||     |
+   |     ||       ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |-----||-----||-----||-----||-----||-----||-----||-----||-----||-----||-----||-----|
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=None | Visualization Slowdown Multiplier=0::
+
+1. Load New File
+2. nable Low Pass Filter
+6. Enable H Pass Filter
+7. Disable Filters
+8   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ||     ||     ||     ||     || |     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||        |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||   iplier (0-9)
+9. Quit
+
+--Current T3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=Low Pass | Visualization Slowdown Multiplier=0::
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+|     ||     ||     ||     ||      |     ||     ||     || lier (0-9)
+9. Quit
+
+--Current Trac
+
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6.ble High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Curr Multiplier=0::
+
+ERROR: Bad InputValid Options: 1, 2, 3, 4, 5, 6,   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+       ||     ||     ||     ||          ||     ||     ||     ||          ||     ||     ||     ||         ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |-----||-----||-----||-----||-----||-----||-----||-----||-----||-----||-----||-----|
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=Hih Pass | Visualization Slowdown M Visualization Slowdown Multiplier=0::
+
+
+
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High
+7. Disable Filters
+8. Set visuar (0-9)
+9. Quit
+
+--Current Track: d @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=High Pass | V
+
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bi. Load New File
+2. Wave Visualize   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ||     ||     ||     ||     ||      ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |-----||-----||-----||-----||-----||-----||-----||-----||-----||-----||-----||-----|
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=Low Pass | Visualization Slowdown Multiplier=0::
+
+1. Load New F00Hz 16 bit, Mono - Data Size=5044ons: Filter Type=High Pass | Visualization Slowdown Multiplier=0::
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     |
+   |     ||     ||     || isualizer
+5. Enable Low Pass Filtable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Curier=0::
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+     ||     ||     ||     |
+   |    ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     ||     |
+   |-----||-----||-----||-----||-----||-----||-----||-----||-----||-----||-----||-----|
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=None | Visualization Slowdown Multiplier=0::
+
+1. Load Nad New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=Low Pass | Visualization Slowdown Multiplier=0::
+
+1. Load New File
+2.sualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=5044
+::Options: Filter Type=High Pass | Visualization Slowdown Multiplier=0::
+
+ERROR: Bad Choic
+
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+00Hz 16 bit, Mono - Data Size=504ptions: Filter Type   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+     ||     ||     ||     ||    ||     ||     ||     ||     ||     |
+EQ Visualizer
+4. Power Visualizer Enable Low Pass Filter
+6. Enable

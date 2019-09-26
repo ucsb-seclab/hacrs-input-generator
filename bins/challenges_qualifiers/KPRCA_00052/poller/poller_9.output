@@ -1,0 +1,30 @@
+Enter system password: 
+Welcome to the CGC Pizzeria order management system.
+1. Input Order
+2. Update Order
+3. View One Orders
+4. View All Orders
+5. Delete Order
+6. Clear All Orders
+7. Logout
+Choice: Enter Pickup Name: Choose what the kind of pizza
+1. Pizza Pie - The classic!
+2. Pizza Sub - All the fun, on a bun
+3. Pizza Bowl - Our own twist
+Choice: Side of bread?
+1. Yes
+2. No
+Choice: Successfully added a new Pizza Bowl!
+Select an option:
+1. Add Toppings
+2. Remove Toppings
+3. Add Sauce
+4. Remove Sauce
+5. Finished With Pi1. Input Order
+2. Update Order
+3. View One Orders
+4. View All Orders
+5. Delete Order
+6. Clear All Orders
+7. Logout
+Choice: Viewing

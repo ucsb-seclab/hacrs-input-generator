@@ -1,0 +1,29 @@
+Enter some data
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Enter an equation that has 4 sets of parenthesis
+It must evaluate to 27403 and contain the * operator
+and must use the numbers: 154 81 153 and 212
+string is formatted correct
+((((154*81+153+212))))+14564 does resolve to 27403, good!
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+find area of rectangle with a base of 25333 and sides of 32094
+you got it
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit

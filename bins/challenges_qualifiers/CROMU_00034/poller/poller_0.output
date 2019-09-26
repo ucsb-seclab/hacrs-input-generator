@@ -1,0 +1,76 @@
+Welcome to the diary logger!
+Length: 908
+Magic number: 0x4242
+Future: 0x701
+Offset: 0x8
+Title: pets
+Entry Count: 0x5
+name: ccaababcaaccc
+species: ccbccbba
+shots updated: true
+legs: 0xd8
+name: cbaaccbaab
+Title: books
+Entry Count: 0x5
+author: aabcbacabaac
+made into a movie: true
+publisher: cacaccacbcacbb
+character: accababbacaaccacbacbcaa
+character: a
+Title: books
+Entry Count: 0x3
+author: ccbbacbccacaccbccc
+made into a movie: false
+character: bbbbacdentity
+Entry Count: 0x8
+first namate: bcbbaaaaabacbbabbcabbac
+weight: 0x375a
+birth city: baaaabbcacacbbaaccc
+middle name: cbaaaaaabcbcaccbaaabcb
+married: true
+Title: vehicles
+Entry Count: 0x4
+make: bbbabcaaccaacaacccbac
+model: cbabbabcc
+doors: 0x6f
+displacement units: 0x87
+Title: jobs
+Entry Count: 0x4
+title: ccbcacca
+company: bbcccabbbbb
+salary: 0x1a1d0899
+title: aacbcbabccbcbaaabcbbaa
+Title: books
+Entry Count: 0x3
+author: acabccacbabbbccbcbbcc
+made into a movie: false
+character: baabaabccccaacabbaab
+Title: hobbies
+Entry Count: 0x2
+Title: exercises
+Entry Count: 0x3
+name: bbacca
+max weight: 0xc081
+sets: 0x68
+Title: knives
+Entry Count: 0x7
+model: aacaabbaabc
+blade length: 0xf0
+length units: bcaacbbbabbcaaccc
+injury: false
+style: bbbbacacbcbabaabaabaacc
+make: caaaabcccabccaaabbbbbba
+value: 0xaf25
+Title: songs
+Entry Count: 0x5
+writer: bcaababbabbbbc
+free online: false
+genre: abaa
+publisher: cbbaabaaabbbbbcaabc
+year: 0x62
+Title: jobs
+Entry Count: 0x3
+title: ababaaacbbabb
+company: baabbacabbcaabaaba
+salary: 0x5fabdd41
+good book.

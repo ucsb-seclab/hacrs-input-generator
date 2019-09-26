@@ -1,0 +1,469 @@
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: No File Loaded <> File 2: No File Loaded
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> Both files must be loaded before comparing
+
+File Comparer ver 1.0
+---------------------
+Sit
+
+File 1: No File Loaded <> File 2: No File Loaded
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> 
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: No File Loaded <> File 2: No File Loaded
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> Successfully Loaded File
+
+File CompareFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Disabled
+::->es
+6. Quit
+
+File 1: FILE ONE <> Fhitespace=Disabled
+Ignore File Type, T--
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE TWO
+        Options:
+Ignore WhitespacFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files as Agnore Whitespace=Enabled
+Ignore Fnore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> 
+File Compare an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE TWO
+        Options:
+Ignore Whitespace=DFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files asbled
+Ignore File Type, Treat as Apace=Enabled
+Ignore File Type, Tr0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> 
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> 
+File CoFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> 
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> Files don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> Files don'h at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> 
+File Files don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> Successfully Loaded File
+
+File Comparer ver 1.0
+------------scii
+5. Compare files
+6. Quit
+
+FiFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Entespace
+4. Use Native File Type
+: FILE ONE-MOD
+        Options:
+Igan option:
+1. Load File 1
+2. Load File 2
+3. Disable IgnoSuccessfully Loaded File
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE TWO
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> Files don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whites Files as Ascii
+5. Compare files
+e
+4. Treat Files as Ascii
+5. CompTWO
+        Options:
+Ignore WhitesFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load Files Ascii=Disabled
+::-> 
+File CompFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files as re files
+6. Quit
+
+File 1: FILE ON Options:
+Ignore Whitespace=Enablabled
+Ignore File Type, Treat as AFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Treat Files as ALE ONE <> File 2: FILE TWO
+      abled
+Ignore File Type, Treat as ---------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. ----------------
+Select an option:
+1. Load uccessfully Loaded File
+
+File Comparer Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE TWO
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> Successfully Loaded File
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE ONE-MOD
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> Succearer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE TWO
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> Files don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Le File Type
+5. Compare files
+6. Qions:
+Ignore Whitespace=Enabled
+Id File 2
+3. Disable Ignore Whites
+4. Use Native File Type
+5. CompaO
+        Options:
+Ignore Whitespace=Enabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> 
+FilFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an1: FILE ONE <> File 2: FILE TWO
+ e, Treat as Ascii=Enabled
+::-> FiNative File Type
+5. Compare fileQuit
+
+File 1: FILE ONE <> File 2:Files don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ign----
+Select an option:
+1. Load Fie File Type
+5. Compare files
+6. QFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Disable Ignore Whitespace
+4. Use Native File iles don't match at all
+
+File Com Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE TWO
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Enabled
+::-> 
+FileFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+Ficessfully Loaded File
+
+File CompaFile Comparer ver 1.0
+-----------ect an option:
+1. Load File 1
+2. Load Filver 1.0
+---------------------
+Select an opt
+File Comparer ver 1.0
+------------------------------
+Select an option:
+1. LoFiles don't match at all
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Use Native File Type
+5. Compare files
+6. Quit
+
+File 1: FILE ONE <> File 2: FILE TWOabled
+::-> Files don't match at all
+
+File Comparer ver 1.0
+------ed File
+
+File Comparer ver 1.0
+--

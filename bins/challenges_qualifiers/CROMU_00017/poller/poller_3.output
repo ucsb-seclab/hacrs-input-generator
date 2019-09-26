@@ -1,0 +1,32 @@
+Enter some data
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Enter an equation that has 2 sets of parenthesis
+It must evaluate to 29272 and contain the + operator
+and must use the numbers: 65 44 119 and 230
+string is formatted correct
+((65+44+119+230))+28814 does resolve to 29272, good!
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Enter an equation that has 3 sets of parenthesis
+It must evaluate to 17323 and contain the / operator
+and must use the numbers: 208 103 157 and 124
+string is formatted correct
+(((208/103+157+124)))+17040 does resolve to 17323, good!
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit

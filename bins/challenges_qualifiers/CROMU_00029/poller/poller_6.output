@@ -1,0 +1,34 @@
+For what material would you like to run this simulation?
+  1. Air
+  2. Aluminum
+  3. Copper
+  4. Custom
+Selection: How large is the material (X,Y,Z meters): Should the material be isothermic? (y,n):   Send the grid temperatures as a comma separated list of Celcius decimal values.
+  The program will populate the X, then Y, then Z dimensions of the room.
+Are there any constant energy sources in the room? (y,n): For how long would you like to run the simulation? (s): [2J[Hz: 0
+  17.88185   96.35321   91.58700  256.33408   20.22566  197.15044 
+
+z: 1
+  -1.66613  -33.00512  -.57214   52.52461  204.01594 
+
+z:91.18437  254.50489   25.46317  196.19388 
+
+z: 1
+  -1.33330  -32.00938  -49.11524    2.57539   52.36205  202.72296 
+
+z: 2
+ -11.11117  123.79561    4.46998  186.92661  -45.68077  -34.65085 
+
+At 40.00000 seconds
+[2J0
+  19.08536   97.40058   90.80923  251.40840   34.12844  194.59661 
+
+z: 1
+  -0.74206  -30.23702  -46.76048   12.61167   52.21996  200.52095 
+
+z: 2
+  -8.88590  122.41725    4.07296  184.32883  -43.92097  -27.98954 
+
+At 110.00000 seconds
+[2J[Hz: 0
+  19.19204   97.48833   90.75609 

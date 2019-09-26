@@ -1,0 +1,14 @@
+2014
+3
+13
+6
+17
+0
+get grouplist
+get help
+set help
+add user 3i2jSZd4
+add group ArhIUbDhO
+set group ArhIUbDhO
+add usertogroup 3i2jSZd4
+exit

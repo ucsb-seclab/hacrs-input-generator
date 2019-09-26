@@ -1,0 +1,16 @@
+SOM marker found
+SAP0 marker found
+SAP1 marker found
+sizeof section is 62
+Intel formatted integers
+TagMark = 2A
+Offset = 8
+# of compatility arrays: 1
+Tag: 8769 (EXIF IFD Pointer)
+Type: 7 (UNDEFINED)
+Count: 1
+Value: 22
+# of arrays: 1
+Tag: 9292 (SubSecTimeDigitized)
+Type: 2 (ASCII)
+Count: 0

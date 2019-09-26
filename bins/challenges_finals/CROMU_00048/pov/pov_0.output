@@ -1,0 +1,618 @@
+Plant Schematic
+#####################################################################################################################################
+                                         --------                -----------               -----------------                         
+                                -------> | ASP1 | ------  -----> | Filter1 | -----  -----> | Disinfection1 | -----                   
+                                |        --------      |  |      -----------     |  |      -----------------     |                   
+                                |                      |  |                      |  |                            |                   
+                                |                      |  |                      |  |                            |                   
+                                0                      v  0                      v  0                            v                   
+            -------------     ------     --------     ------     -----------    ------     -----------------    ------               
+Influent -> | Headworks | --> | V1 | 1-> | ASP2 | --> | V2 | 1-> | Filter2 | -> | V3 | 1-> | Disinfection2 | -> | V4 | 0-> Effluent  
+            -------------     ------     --------     ------     -----------    ------     -----------------    ------               
+                                2                      ^  2                      ^  2                            ^                   
+                                |                      |  |                      |  |                            |                   
+                                |                      |  |                      |  |                            |                   
+                                |        --------      |  |      -----------     |  |      -----------------     |                   
+                                -------> | ASP3 | ------  -----> | Filter3 | -----  -----> | Disinfection3 | -----                   
+                                         --------                -----------               -----------------                         
+#####################################################################################################################################
+Plant Status
+#####################################################################################################################################
+Units
+Flow - MGD
+CBOD, TSS, TN, TP - lbs/day
+Aeration, Glycerin_Rate, Alum_rate, OutputPct - percent
+
+Influent       |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Influent       |      1.60    2680.00    3300.00     540.00      94.00
+
+Headworks      |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Headworks      |      1.60    2680.00    2310.00     540.00      94.00
+
+ASPs           |      Flow       CBOD        TSS         TN         TP     Aeration     Glycerin_Rate    Alum_Rate
+---------------|--------------------------------------------------------------------------------------------------
+Asp0           |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+Asp1           |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+Asp2           |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+
+Filters        |      Flow       CBOD        TSS         TN         TP     Num_Active_Filters
+---------------|-----------------------------------------------------------------------------
+Filter0        |      0.53     207.00      11.55     142.59       0.00                      1
+Filter1        |      0.53     207.00       3.85     142.59       0.00                      2
+Filter2        |      0.53     207.00       3.85     142.59       0.00                      2
+
+Disinfection   |      Flow       CBOD        TSS         TN         TP     Chlorine_Rate
+---------------|------------------------------------------------------------------------
+Disinfection0  |      0.53     207.00       6.42     139.96       0.00              1.00
+Disinfection1  |      0.53     207.00       6.42     139.96       0.00              1.00
+Disinfection2  |      0.53     207.00       6.42     139.96       0.00              1.00
+
+Effluent       |      Flow       CBOD        TSS         TN         TP          Quality_Failures
+---------------|--------------------------------------------------------------------------------
+Effluent       |      1.60     621.00      19.25     419.88       0.00                         0
+
+Valves         |    OutputPct[0]    OutputPct[1]    OutputPct[2]    OutputPct[3]    OutputPct[4]
+---------------|--------------------------------------------------------------------------------
+V1             |           33.33           33.33           33.33            0.00            0.00
+V2             |           33.33           33.33           33.33            0.00            0.00
+V3             |           33.33           33.33           33.33            0.00            0.00
+V4             |          100.00            0.00            0.00            0.00            0.00
+#####################################################################################################################################
+
+
+Welcome to the Wastewater Treatement Plant Simulator
+###################################################
+Your job is to take the plant described in the schematic above and make potable water.
+The simulation starts with a random plant status.
+
+Wastewater Treatment Plant Simulation
+Simulation Hour 0
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: 1. Change active filter count
+2. Return to previous menu
+Selection: Which Filter 0-2: How many filters (0-2): 1. Change active filter count
+2. Return to previous menu
+Selection: Which Filter 0-2: How many filters (0-4): 1. Change active filter count
+2. Return to previous menu
+Selection: Which Filter 0-2: How many filters (0-4): 1. Change active filter count
+2. Return to previous menu
+Selection: Wastewater Treatment Plant Simulation
+Simulation Hour 0
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: Plant Status
+#####################################################################################################################################
+Units
+Flow - MGD
+CBOD, TSS, TN, TP - lbs/day
+Aeration, Glycerin_Rate, Alum_rate, OutputPct - percent
+
+Influent       |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Influent       |      1.60    2680.00    3300.00     540.00      94.00
+
+Headworks      |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Headworks      |      1.60    2680.00    2310.00     540.00      94.00
+
+ASPs           |      Flow       CBOD        TSS         TN         TP     Aeration     Glycerin_Rate    Alum_Rate
+---------------|--------------------------------------------------------------------------------------------------
+Asp0           |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+Asp1           |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+Asp2           |      0.53     207.00      77.00     142.59       0.00        50.00              4.00        20.00
+
+Filters        |      Flow       CBOD        TSS         TN         TP     Num_Active_Filters
+---------------|-----------------------------------------------------------------------------
+Filter0        |      0.53     207.00      11.55     142.59       0.00                      2
+Filter1        |      0.53     207.00       3.85     142.59       0.00                      4
+Filter2        |      0.53     207.00       3.85     142.59       0.00                      4
+
+Disinfection   |      Flow       CBOD        TSS         TN         TP     Chlorine_Rate
+---------------|------------------------------------------------------------------------
+Disinfection0  |      0.53     207.00       6.42     139.96       0.00              1.00
+Disinfection1  |      0.53     207.00       6.42     139.96       0.00              1.00
+Disinfection2  |      0.53     207.00       6.42     139.96       0.00              1.00
+
+Effluent       |      Flow       CBOD        TSS         TN         TP          Quality_Failures
+---------------|--------------------------------------------------------------------------------
+Effluent       |      1.60     621.00      19.25     419.88       0.00                         0
+
+Valves         |    OutputPct[0]    OutputPct[1]    OutputPct[2]    OutputPct[3]    OutputPct[4]
+---------------|--------------------------------------------------------------------------------
+V1             |           33.33           33.33           33.33            0.00            0.00
+V2             |           33.33           33.33           33.33            0.00            0.00
+V3             |           33.33           33.33           33.33            0.00            0.00
+V4             |          100.00            0.00            0.00            0.00            0.00
+#####################################################################################################################################
+
+
+Wastewater Treatment Plant Simulation
+Simulation Hour 0
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Wastewater Treatment Plant Simulation
+Simulation Hour 0
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: 1. Change chlorine rate
+2. Return to previous menu
+Selection: Which Disinfection system 0-2: New chlorine rate (0-100): 1. Change chlorine rate
+2. Return to previous menu
+Selection: Which Disinfection system 0-2: New chlorine rate (0-100): 1. Change chlorine rate
+2. Return to previous menu
+Selection: Which Disinfection system 0-2: New chlorine rate (0-100): 1. Change chlorine rate
+2. Return to previous menu
+Selection: Wastewater Treatment Plant Simulation
+Simulation Hour 0
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: Wastewater Treatment Plant Simulation
+Simulation Hour 1
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: Plant Status
+#####################################################################################################################################
+Units
+Flow - MGD
+CBOD, TSS, TN, TP - lbs/day
+Aeration, Glycerin_Rate, Alum_rate, OutputPct - percent
+
+Influent       |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Influent       |      2.70    2279.00    4367.00     613.00     115.00
+
+Headworks      |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Headworks      |      1.60    2680.00    2310.00     540.00      94.00
+
+ASPs           |      Flow       CBOD        TSS         TN         TP     Aeration     Glycerin_Rate    Alum_Rate
+---------------|--------------------------------------------------------------------------------------------------
+Asp0           |      0.53       0.05      77.00       0.18       0.10        26.82              4.98         2.39
+Asp1           |      0.53       0.05      77.00       0.18       0.10        26.82              4.98         2.39
+Asp2           |      0.53       0.05      77.00       0.18       0.10        26.82              4.98         2.39
+
+Filters        |      Flow       CBOD        TSS         TN         TP     Num_Active_Filters
+---------------|-----------------------------------------------------------------------------
+Filter0        |      0.53       0.05       3.85       0.18       0.10                      2
+Filter1        |      0.53       0.05       0.77       0.18       0.10                      4
+Filter2        |      0.53       0.05       0.77       0.18       0.10                      4
+
+Disinfection   |      Flow       CBOD        TSS         TN         TP     Chlorine_Rate
+---------------|------------------------------------------------------------------------
+Disinfection0  |      0.53       0.05       1.80       0.00       0.10              4.39
+Disinfection1  |      0.53       0.05       1.80       0.00       0.10              4.39
+Disinfection2  |      0.53       0.05       1.80       0.00       0.10              4.39
+
+Effluent       |      Flow       CBOD        TSS         TN         TP          Quality_Failures
+---------------|--------------------------------------------------------------------------------
+Effluent       |      1.60       0.15       5.39       0.00       0.31                         0
+
+Valves         |    OutputPct[0]    OutputPct[1]    OutputPct[2]    OutputPct[3]    OutputPct[4]
+---------------|--------------------------------------------------------------------------------
+V1             |           33.33           33.33           33.33            0.00            0.00
+V2             |           33.33           33.33           33.33            0.00            0.00
+V3             |           33.33           33.33           33.33            0.00            0.00
+V4             |          100.00            0.00            0.00            0.00            0.00
+#####################################################################################################################################
+
+
+Wastewater Treatment Plant Simulation
+Simulation Hour 1
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): Which ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menuWhich ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu8. Run Simulation Step
+9. Exit
+Selection: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menuWastewater Treatment Plant Simulation
+Simulation Hour 5
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: 1. Change chlorine rate
+2. Return to previous menu
+Selection: Which Disinfection system 0-2: 9. Exit
+Selection: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu1. Change chlorine rate
+2. Return to previous menu
+Selection: Which Disinfection system 0-2: New chlorine rate (0-100): 1. Change chlorine rate
+2. Return to previous menu
+Selection: Which Disinfection system 0-2: New chlorine rate (0-100): Wastewater Treatment Plant Simulation
+Simulation Hour 8
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: Plant Status
+#####################################################################################################################################
+Units
+Flow - MGD
+CBOD, TSS, TN, TP - lbs/day
+Aeration, Glycerin_Rate, Alum_rate, OutputPct - percent
+
+Influent       |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Influent       |      1.30    3608.00    4741.00     646.00      75.00
+
+Headworks      |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Headworks      |      1.00    3209.00    3455.20     508.00     122.00
+
+ASPs           |      Flow       CBOD        TSS         TN         TP     Aeration     Glycerin_Rate    Alum_Rate
+---------------|--------------------------------------------------------------------------------------------------
+Asp0           |      0.33       0.00     115.17       0.14       0.03        29.94              4.68         3.11
+Asp1           |      0.33       0.00     115.17       0.14       0.03        29.94              4.68         3.11
+Asp2           |      0.33       0.00     115.17       0.14       0.03        29.94              4.68         3.11
+
+Filters        |      Flow       CBOD        TSS         TN         TP     Num_Active_Filters
+---------------|-----------------------------------------------------------------------------
+Filter0        |      0.33       0.00       1.15       0.14       0.03                      2
+Filter1        |      0.33       0.00       1.15       0.14       0.03                      4
+Filter2        |      0.33       0.00       1.15       0.14       0.03                      4
+
+Disinfection   |      Flow       CBOD        TSS         TN         TP     Chlorine_Rate
+---------------|------------------------------------------------------------------------
+Disinfection0  |      0.33       0.00       1.15       0.00       0.03              2.74
+Disinfection1  |      0.33       0.00       1.15       0.00       0.03              2.74
+Disinfection2  |      0.33       0.00       1.15       0.00       0.03              2.74
+
+Effluent       |      Flow       CBOD        TSS         TN         TP          Quality_Failures
+---------------|--------------------------------------------------------------------------------
+Effluent       |      1.00       0.00       3.46       0.00       0.09                         0
+
+Valves         |    OutputPct[0]    OutputPct[1]    OutputPct[2]    OutputPct[3]    OutputPct[4]
+---------------|--------------------------------------------------------------------------------
+V1             |           33.33           33.33           33.33            0.00            0.00
+V2             |           33.33           33.33           33.33            0.00            0.00
+V3             |           33.33           33.33           33.33            0.00            0.00
+V4             |          100.00            0.00            0.00            0.00            0.00
+#####################################################################################################################################
+
+
+Wastewater Treatment Plant Simulation
+Simulation Hour 8
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+Selection: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Wastewater Treatment Plant Simulation
+Simulation Hour 11
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: 1. Change chlorine rate
+2. Return to previous menu
+Selection: Which Disinfection system 0-2: New chlorine rate (0-100): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rateWhich ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: New glycerin rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New glycerin rate (0-100 gallons/hr): New alum rate (0-100 gallons/hr): 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change aeration rate
+2. Change glycerin rate
+3. Change alum rate
+4. Return to previous menu
+Selection: Which ASP 0-2: New aeration percent: 1. Change chlorine rate
+2. Return to previous menu
+Selection: Which Disinfection system 0-2: New chlorine rate (0-100): 1. Change chlorine rate
+2. Return to previous menu
+Selection: Which Disinfection system 0-2: New chlorine rate (0-100): 1. Change chlorine rate
+2. Return to previous menuWhich Disinfection system 0-2: New chlorine rate (0-100): 1. Change chlorine rate
+2. Return to previous menu
+Selection: Wastewater Treatment Plant Simulation
+Simulation Hour 18
+1. Print plant schematic
+2. Print plant status
+3. Control Activated Sludge Process (ASP)
+4. Control Filters
+5. Control Disinfection
+6. Control Valves
+7. Rename System
+8. Run Simulation Step
+9. Exit
+Selection: Plant Status
+#####################################################################################################################################
+Units
+Flow - MGD
+CBOD, TSS, TN, TP - lbs/day
+Aeration, Glycerin_Rate, Alum_rate, OutputPct - percent
+
+Influent       |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Influent       |      1.30    3117.00    3829.00     501.00     119.00
+
+Headworks      |      Flow       CBOD        TSS         TN         TP
+---------------|------------------------------------------------------
+Headworks      |      2.90    2180.00    1507.80     723.00     121.00
+
+ASPs           |      Flow       CBOD        TSS         TN         TP     Aeration     Glycerin_Rate    Alum_Rate
+---------------|--------------------------------------------------------------------------------------------------
+Asp0           |      0.97       0.08      50.26       0.15       0.09        26.28              6.67         3.08
+Asp1           |      0.97       0.08      50.26       0.15       0.09        26.28              6.67         3.08
+Asp2           |      0.97       0.08      50.26       0.15       0.09        26.28              6.67         3.08
+
+Filters        |      Flow       CBOD        TSS         TN         TP     Num_Active_Filters
+---------------|-----------------------------------------------------------------------------
+Filter0        |      0.97       0.08       5.03       0.15       0.09                      2
+Filter1        |      0.97       0.08       2.51       0.15       0.09                      4
+Filter2        |      0.97       0.08       2.51       0.15       0.09                      4
+
+Disinfection   |      Flow       CBOD        TSS         TN         TP     Chlorine_Rate
+---------------|------------------------------------------------------------------------
+Disinfection0  |      0.97       0.08       3.35       0.00       0.09              7.96
+Disinfection1  |      0.97       0.08       3.35       0.00       0.09              7.96
+Disinfection2  |      0.97       0.08       3.35       0.00       0.09              7.96
+
+Effluent       |      Flow       CBOD        TSS         TN         TP          Quality_Failures
+---------------|--------------------------------------------------------------------------------
+Effluent       |      2.90       0.24      10.05       0.00       0.26                         0
+
+Valves         |    OutputPct[0]    OutputPct[1]    OutputPct[2]    OutputPct[3]    OutputPct[4]
+---------------|--------------------------------------------------------------------------------
+V1             |           33.33           33.33           33.33            0.00            0.00
+V2             |           33.33           33.33           33.33            0.00            0.00
+V3             |           33.33           33.33           33.33            0.00            0.00
+V4             |          100.00            0.00            0.00            0.00            0.00
+#####################################################################################################################################
+
+
+Wastewater Treatment Plant Simulation
+Simulation Hour 20

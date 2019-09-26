@@ -1,0 +1,14 @@
+new EwqqnunMzzJRKPeBozf
+close_all
+chdir EwqqnunMzzJRKPeBozf
+new g
+write 11
+delete EwqqnunMzzJRKPeBozf
+mkdir kQoCwa
+open kQoCwa
+close 11
+read 
+close_all
+open kQoCwa
+open g
+exit

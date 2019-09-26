@@ -1,0 +1,17 @@
+This is the Chuck Norris (joke) Management Protocol (CNMP).
+We know you need a break, so take some time and amuse yourself. If you have a good Chuck Norris joke, you can add it to our listing.
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 8: Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.
+> Current CNMP joke count is 45. Enjoy!
+> Give me the ID of the joke you want to read. Or better yet, enter RANDOM and I'll choose one for you.
+SHOW> 19: Chuck Norris once got bit by a rattle snake........ After three days of pain and agony ..................the rattle snake died
+> Thanks for the laughs. Come back soon!
+> 

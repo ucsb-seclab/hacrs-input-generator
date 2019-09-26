@@ -1,0 +1,75 @@
+: Available commands:
+sort - This command sorts integers.
+matrix - This command performs matrix math.
+simon - This command plays a game like Simon Says.
+encode - This command encodes data.
+: Matrix Calculator
+1. Add two matrices
+2. Subtract two matrices
+3. Scalar multiply a matrix
+4. Return to main menu
+Choice: First matrix
+Provide the matrix dimensions
+X: invalid
+Matrix Calculator
+1. Add two matrices
+2. Subtract two matrices
+3. Scalar multiply a matrix
+4. Return to main menu
+Choice: : Enter 44 items to sort:
+44 items sorted.
+-98875
+-96541
+-91305
+-82701
+-79124
+-69432
+-65469
+-58212
+-51837
+-38927
+-35616
+-31956
+-30085
+-22471
+-21418
+-15966
+-4415
+4371
+5542
+5968
+7963
+12234
+16127
+27417
+27871
+36567
+46495
+47798
+49291
+56523
+59663
+68383
+68393
+68678
+73041
+74158
+76396
+76439
+79794
+89628
+90576
+92187
+92297
+97802
+: Enter 25 iailable commands:
+sort - This command sorts integers.
+matrix - This command performs matrix math.
+simon - This command plays a game like Simon Says.
+encode - This command encodes data.
+: Available commands:
+sort - This command sorts integers.
+matrix - This command performs matrix math.
+simon - This command plays a game like Simon Says.
+encode - This command encodes data.
+: Ava

@@ -1,0 +1,14 @@
+University Course Scheduler
+
+Enter name: Select a major
+List Departments?
+1 - Yes
+2 - No
+Choice: Enter your Major's Department Name: Congratulations. You're read to start adding classes
+Main Menu
+1 - Search Classes
+2 - Add Class
+3 - Remove Class
+4 - Print Schedule
+5 - Exit
+Choice: Exiting.

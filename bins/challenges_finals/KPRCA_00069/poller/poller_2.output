@@ -1,0 +1,9 @@
+Welcome to the EZ Barcode Encoder/Decoder Service
+--Select an option--
+1. Input a new barcode
+2. View barcode ascii
+3. Generate barcode image
+4. View cached barcodes
+5. Clear cached barcodes
+6. Quit
+:-$  Invalid Selection

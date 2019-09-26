@@ -1,0 +1,12 @@
+This is the Chuck Norris (joke) Management Protocol (CNMP).
+We know you need a break, so take some time and amuse yourself. If you have a good Chuck Norris joke, you can add it to our listing.
+Enter one of these commands:
+  LIST  - list all jokes
+  ADD   - upload your own joke
+  COUNT - find out how many jokes we have to offer you
+  SHOW  - show a joke
+  MENU  - display this menu
+  HELP  - you gotta be kididin' me!
+  QUIT  - take off eh?
+> So, you think you have a good Chuck Norris joke? Give me the joke string already....
+ADD> 

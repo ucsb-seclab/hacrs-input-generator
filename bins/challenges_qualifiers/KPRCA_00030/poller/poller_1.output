@@ -1,0 +1,137 @@
+Before we begin. Enter a number [1 - 4294967295]
+Or any number. We'll figure it out: New Game -- Ready, set, go!
+                              --Board: HIDDEN--
+1. Shoot!
+2. Reveal Board
+3. New Game
+4. Quit
+Current Score = 0 | Total Time Remaining: 10000 | High Score = 0 
+Shots Remaining: 125 | Bombs Remaining: 5
+
+Selection-: GAME BOARD
+--| (x,y) = (325,2000) | Alive=1 | Bomb=0 |
+--| (x,y) = (326,2001) | Alive=1 | Bomb=0 |
+--| (x,y) = (327,1999) | Alive=1 | Bomb=0 |
+--|436,121) | Alive=1 | Bomb=0 |
+--| (x,y) = (437,122) | Alive=1 | Bomb=0 |
+--| (x,y) = (438,120) | Alive=1 | Bomb=0 |
+--| (x,y) = (438,121) | Alive=1 | Bomb=0 |
+--| (x,y) = (438,122) | Alive=1 | Bomb=0 |
+--| (x,y) = (782,2134) | Alive=1 | Bomb=0 |
+--| (x,y) = (783,2135) | Alive=1 | Bomb=0 |
+--| (x,y) = (784,2133) | Alive=1 | Bomb=0 |
+--| (x,y) = (784,2134) | Alive=1 | Bomb=0 |
+--| (x,y) = (784,2135) | Alive=1 | Bomb=0 |
+--| (x,y) = (950,2010) | Alive=1 | Bomb=0 |
+--| (x,y) = (951 Alive=1 | Bomb=0 |
+--| (x,y) = (952,2009) | Alive=1 | Bomb=0 |
+--| (x,y) = (952,2010) | Alive=1 | Bomb=0 |
+--| (x,y) = (952,2011) | Alive=1 | Bomb=0 |
+--| (x,y) = (1313,1068) | Alive=1 | Bomb=0 |
+--| (x,y) = (1314,1069) | Alive=1 | Bomb=0 |
+--| (x,y) = (1315,1067) | Alive=1 | Bomb=0 |
+--| (x,y) = (1315,1068) | Alive=1 | Bomb=0 |
+--| (x,y) = (1315,1069) | Alive=1 | Bomb=0 |
+--| (x,y) = (1530,4933) | Alive=1 | Bomb=0 |
+--| (x,y) = (1531,4932) | Alive=1 | Bomb=0 |
+--| (x,y) = (1532,4932) | Alive=1 | Bomb=0 |
+--| (x,y) = (1532,4933) | Alive=1 | Bomb=0 |
+--| (x,y) = (1532,4934) | Alive=1 | Bomb=0 |
+--| (x,y) = (2604,3150) | Alive=1 | Bomb=0 |
+--| (x,y) = (2605,3151) | Alive=1 | Bomb=0 |
+--| (x,y) = (2606,3149) | Alive=1 | Bomb=0 |
+--| (x,y) = (2606,3150) | Alive=1 | Bomb=0 |
+--| (x,y) = (2606,3151) | Alive=1 | Bomb=0 |
+--| (x,y) = (2832,5922) | Alive=1 | Bomb=0 |
+--| (x,y) = (2833,5921) | Alive=1 | Bomb=0 |
+--| (x,y) = (2834,5921) | Alive=1 | Bomb=0 |
+--| (x,y) = (2834,5922) | Alive=1 | Bomb=0 |
+--| (x,y) = (2834,5923) | Alive=1 | Bomb=0 |
+--| (x,y) = (3136,7284) | Alive=1 | Bomb=0 |
+--| (x,y) = (3137,7283) | Alive=1 | Bomb=0 |
+--| (x,y) = (3138,7283) | Alive=1 | Bomb=0 |
+--| (x,y) = (3138,7284) | Alive=1 | Bomb=0 |
+--| (x,y) = (3138,7285) | Alive=1 | Bomb=0 |
+--| (x,y) = (3263,1766) | Alive=1 | Bomb=0 |
+--| (x,y) = (3264,1767) | Alive=1 | Bomb=0 |
+--| (x,y) = (3265,1765) | Alive=1 | Bomb=0 |
+--| (x,y) = (3265,1766) | Alive=1 | Bomb=0 |
+--| (x,y) = (3265,1767) | Alive=1 | Bomb=0 |
+--| (x,y) = (3394,1491) | Alive=1 | Bomb=0 |
+--| (x,y) = (3395,1492) | Alive=1 | Bomb=0 |
+--| (x,y) = (3396,1490) | Alive=1 | Bomb=0 |
+--| (x,y) = (3396,1491) | Alive=1 | Bomb=0 |
+--| (x,y) = (3396,1492) | Alive=1 | Bomb=0 |
+--| (x,y) = (3548,7192) | Alive=1 | Bomb=0 |
+--| (x,y) = (3549,7191) | Alive=1 | Bomb=0 |
+--| (x,y) = (3550,7191) | Alive=1 | Bomb=0 |
+--| (x,y) = (3550,7192) | Alive=1 | Bomb=0 |
+--| (x,y) = (3550,7193) | Alive=1 | Bomb=0 |
+--| (x,y) = (3558,5069) | Alive=1 | Bomb=0 |
+--| (x,y) = (3559,5068) | Alive=1 | Bomb=0 |
+--| (x,y) = (3560,5068) | Alive=1 | Bomb=0 |
+--| (x,y) = (3560,5069) | Alive=1 | Bomb=0 |
+--| (x,y) = (3560,5070) | Alive=1 | Bomb=0 |
+--| (x,y) = (3719,1813) | Alive=1 | Bomb=0 |
+--| (x,y) = (3720,1814) | Alive=1 | Bomb=0 |
+--| (x,y) = (3721,1812) | Alive=1 | Bomb=0 |
+--| (x,y) = (3721,1813) | Alive=1 | Bomb=0 |
+--| (x,y) = (3721,1814) | Alive=1 | Bomb=0 |
+--| (x,y) = (3829,3560) | Alive=1 | Bomb=0 |
+--| (x,y) = (3830,3561) | Alive=1 | Bomb=0 |
+--| (x,y) = (3831,3559) | Alive=1 | Bomb=0 |
+--| (x,y) = (3831,3560) | Alive=1 | Bomb=0 |
+--| (x,y) = (3831,3561) | Alive=1 | Bomb=0 |
+--| (x,y) = (3841,7428) | Alive=1 | Bomb=0 |
+--| (x,y) = (3842,7427) | Alive=1 | Bomb=0 |
+--| (x,y) = (3843,7427) | Alive=1 | Bomb=0 |
+--| (x,y) = (3843,7428) | Alive=1 | Bomb=0 |
+--| (x,y) = (3843,7429) | Alive=1 | Bomb=0 |
+--| (x,y) = (5649,1263) | Alive=1 | Bomb=0 |
+--| (x,y) = (5649,1264) | Alive=1 | Bomb=0 |
+--| (x,y) = (5649,1265) | Alive=1 | Bomb=0 |
+--| (x,y) = (5650,1265) | Alive=1 | Bomb=0 |
+--| (x,y) = (5651,1264) | Alive=1 | Bomb=0 |
+--| (x,y) = (5944,2949) | Alive=1 | Bomb=0 |
+--| (x,y) = (5944,2950) | Alive=1 | Bomb=0 |
+--| (x,y) = (5944,2951) | Alive=1 | Bomb=0 |
+--| (x,y) = (5945,2951) | Alive=1 | Bomb=0 |
+--| (x,y) = (5946,2950) | Alive=1 | Bomb=0 |
+--| (x,y) = (6279,5806) | Alive=1 | Bomb=0 |
+--| (x,y) = (6279,5807) | Alive=1 | Bomb=0 |
+--| (x,y) = (6279,5808) | Alive=1 | Bomb=0 |
+--| (x,y) = (6280,5806) | Alive=1 | Bomb=0 |
+--| (x,y) = (6281,5807) | Alive=1 | Bomb=0 |
+--| (x,y) = (6927,5166) | Alive=1 | Bomb=0 |
+--| (x,y) = (6927,5167) | Alive=1 | Bomb=0 |
+--| (x,y) = (6927,5168) | Alive=1 | Bomb=0 |
+--| (x,y) = (6928,5166) | Alive=1 | Bomb=0 |
+--| (x,y) = (6929,5167) | Alive=1 | Bomb=0 |
+--| (x,y) = (7264,4635) | Alive=1 | Bomb=0 |
+--| (x,y) = (7264,4636) | Alive=1 | Bomb=0 |
+--| (x,y) = (7264,4637) | Alive=1 | Bomb=0 |
+--| (x,y) = (7265,4635) | Alive=1 | Bomb=0 |
+--| (x,y) = (7266,4636) | Alive=1 | Bomb=0 |
+--| (x,y) = (7347,4337) | Alive=1 | Bomb=0 |
+--| (x,y) = (7347,4338) | Alive=1 | Bomb=0 |
+--| (x,y) = (7347,4339) | Alive=1 | Bomb=0 |
+--| (x,y) = (7348,4337) | Alive=1 | Bomb=0 |
+--| (x,y) = (7349,4338) | Alive=1 | Bomb=0 |
+--| (x,y) = (7486,5258) | Alive=1 | Bomb=0 |
+--| (x,y) = (7486,5259) | Alive=1 | Bomb=0 |
+--| (x,y) = (7486,5260) | Alive=1 | Bomb=0 |
+--| (x,y) = (7487,5258) | Alive=1 | Bomb=0 |
+--| (x,y) = (7488,5259) | Alive=1 | Bomb=0 |
+--| (x,y) = (8094,534) | Alive=1 | Bomb=0 |
+--| (x,y) = (8094,535) | Alive=1 | Bomb=0 |
+--| (x,y) = (8094,536) | Alive=1 | Bomb=0 |
+--| (x,y) = (8095,536) | Alive=1 | Bomb=0 |
+--| (x,y) = (8096,535) | Alive=1 | Bomb=0 |
+--| (x,y) = (8120,3164) | Alive=1 | Bomb=0 |
+--| (x,y) = (8120,3165) | Alive=1 | Bomb=0 |
+--| (x,y) = (8120,3166) | Alive=1 | Bomb=0 |
+--| (x,y) = (8121,3166) | Alive=1 | Bomb=0 |
+--| (x,y) = (8122,3165) | A              --Board: REVEALED-- 0 
+Shots Remaining: 125 | Bombs Remaining: 5
+
+Selection-: New Gam

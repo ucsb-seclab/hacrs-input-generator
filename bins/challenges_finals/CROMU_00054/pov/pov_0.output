@@ -1,0 +1,63 @@
+START::TS=1453309273
+Enter number of simulation commands: Enter Source ID: Enter Dest ID: Enter Command Type:
+0 - Read EGT
+1 - Read RPM
+2 - Read IAT
+3 - Read O2_1
+4 - Read O2_2
+5 - Read Engine Temp
+6 - Read Engine Torque
+7 - Start Engine
+8 - Stop Engine
+9 - Set Throttle Position
+10 - Set Engine Load
+11 - Send Binary Message
+Enter command time (in ms):
+Simulation will send this command at the specified time in the simulation (max 2 minutes of simulation time):
+Enter Source ID: Enter Dest ID: Enter Command Type:
+0 - Read EGT
+1 - Read RPM
+2 - Read IAT
+3 - Read O2_1
+4 - Read O2_2
+5 - Read Engine Temp
+6 - Read Engine Torque
+7 - Start Engine
+8 - Stop Engine
+9 - Set Throttle Position
+10 - Set Engine Load
+11 - Send Binary Message
+Enter command time (in ms):
+Simulation will send this command at the specified time in the simulation (max 2 minutes of simulation time):
+Enter Binary Message (in hex): Enter Source ID: Enter Dest ID: Enter Command Type:
+0 - Read EGT
+1 - Read RPM
+2 - Read IAT
+3 - Read O2_1
+4 - Read O2_2
+5 - Read Engine Temp
+6 - Read Engine Torque
+7 - Start Engine
+8 - Stop Engine
+9 - Set Throttle Position
+10 - Set Engine Load
+11 - Send Binary Message
+Enter command time (in ms):
+Simulation will send this command at the specified time in the simulation (max 2 minutes of simulation time):
+Enter Binary Message (in hex): Running simulation:
+[TICK][0]:
+[SENDCMD][TIME=25][LENGTH=4][SRC=0][DEST=19]
+[MESSAGE][SRC=19][DEST=0][LENGTH=4]
+03010001
+[MESSAGE][SRC=19][DEST=255][LENGTH=4]
+01010001
+[TICK][2]:
+[SENDCMD][TIME=125][LENGTH=4][SRC=0][DEST=20]
+[MESSAGE][SRC=20][DEST=0][LENGTH=5]
+0302000101
+[TICK][4]:
+[SENDCMD][TIME=225][LENGTH=9][SRC=0][DEST=20]
+[MESSAGE][SRC=20][DEST=0][LENGTH=13]
+010a0001046700eb629c52a746
+Simulation complete.
+Run another simulation (TS=1453290489) (y/n)? Run another simulation (TS=1453290489) (y/n)? 

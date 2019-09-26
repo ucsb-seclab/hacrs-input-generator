@@ -1,0 +1,55 @@
+1. Load File
+2. Quit
+
+--NO FILE LOADED--
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=6428
+::Options: Filter Type=None | Visualization Slowdown Multiplier=0::
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filtable High Pass Filter
+7. Disable ce. Select another option
+1. Load Neualizer
+3. EQ Visualizer
+4. Power Visu. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data Size=6428
+::Options: Filter Type=High Pass | Visualization Slowdown Multiplier=0::
+
+
+
+++++END VISUALIZATION++++
+
+1. Load New File
+2. Wave Visualizer
+3. EQ Visualizer
+4. Power Visualizer
+5. Enable Low Pass Filter
+6. Enable High Pass Filter
+7. Disable Filters
+8. Set visualization speed multiplier (0-9)
+9. Quit
+
+--Current Track: Sampled @4000Hz 16 bit, Mono - Data S-Current Track: Sampled @4000Hz 1ve Visualizer
+3. EQ Visualizer
+4. EXITING...

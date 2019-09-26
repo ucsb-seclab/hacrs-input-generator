@@ -1,0 +1,75 @@
+SOM marker found
+SAP0 marker found
+SAP1 marker found
+sizeof section is 232
+Intel formatted integers
+TagMark = 2A
+Offset = 8
+# of compatility arrays: 6
+Tag: 132 (DateTime)
+Type: 5 (RATIONAL)
+Count: 0
+Value: 0
+Tag: 101 (ImageLength)
+Type: 4 (LONG)
+Count: 1
+Value: 0
+Tag: 8298 (Copyright)
+Type: 7 (UNDEFINED)
+Count: 2
+Value: 0
+Tag: 214 (ReferenceBlackWhite)
+Type: 5 (RATIONAL)
+Count: 3
+Value: 0
+Tag: 8769 (EXIF IFD Pointer)
+Type: 7 (UNDEFINED)
+Count: 4
+Value: 82
+# of arrays: 4
+Tag: 9004 (DateTimeDigitized)
+Type: 4 (LONG)
+Count: 0
+Value: 0
+Tag: 9004 (DateTimeDigitized)
+Type: 2 (ASCII)
+Count: 1
+Value: P6f7hN8Bkz5lTlwKI
+Tag: 9102 (CompressedBitsPerPixel)
+Type: 7 (UNDEFINED)
+Count: 2
+Value: 4
+Tag: 9000 (ExifVersion)
+Type: 3 (SHORT)
+Count: 3
+Value: 6
+Tag: 8825 (GPS Info)
+Type: 7 (UNDEFINED)
+Count: 5
+Value: 152
+# of arrays: 6
+Tag: 17 (GPSDestBearingRef)
+Type: 3 (SHORT)
+Count: 0
+Value: 0
+Tag: B (GPSDOP)
+Type: 2 (ASCII)
+Count: 1
+Value: 2
+Tag: 1C (GPSAreaInformation)
+Type: A (SRATIONAL)
+Count: 2
+Value: 4
+Tag: A (GPSMeasureMode)
+Type: 4 (LONG)
+Count: 3
+Value: 6
+Tag: 6 (GPSAltitude)
+Type: 5 (RATIONAL)
+Count: 4
+Value: 8
+Tag: 13 (GPSDestLatitudeRef)
+Type: 2 (ASCII)
+Count: 5
+Value: 10
+Finished processing

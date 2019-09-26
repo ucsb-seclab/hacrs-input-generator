@@ -1,0 +1,1 @@
+ACS+0.1[QUERY:AML.Examples::]ACS+0.1[SEND:Hello.Name_new:178:Hello, #name#!~nThis page outputs the value of a variable called name.~nIf the variable is not passed to the page (via the INTERACT method), it has no value and prints nothing.~n]ACS+0.1[REMOVE:Hello.Name_new::]ACS+0.1[QUERY:Hello::]ACS-0.1[QUERY:::]

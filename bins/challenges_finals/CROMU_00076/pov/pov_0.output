@@ -1,0 +1,320 @@
+Enter your name|| Name: Player One
+Level: 1
+Monsters: 
+	Type: The Bursting Wrench
+	Health: 11
+	Power: 4
+
+	Type: Persistent Puppet
+	Health: 5
+	Power: 4
+
+	Type: Tilthan
+	Health: 5
+	Power: 5
+
+Width: 13 Height: 9
+StartX: 10 StartY: 6
+EndX: 3 EndY: 2
+
+......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#...@..
+............#
+.###.##......
+: [ERROR] Invalid direction: 65
+: [ERROR] Invalid direction: 61
+: [ERROR] Invalid direction: 73
+: [ERROR] Invalid direction: 74
+: [ERROR] Invalid direction: 61
+: [ERROR] Invalid direction: 20
+: [ERROR] Invalid direction: 65
+: [ERROR] Invalid direction: 67
+: YOU FOUND THE EGG!!!! Have a prize.
+[ERROR] Invalid direction: 67
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+..........@.#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+.........@..#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+........@...#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+.......@....#
+.###.##......
+You are being attacked!!!
+	Type: Gothar Mathar
+	Level: 1
+	Health: 13
+	Hit Points: 13
+	Power: 2
+
+Monsters: 
+	1} 
+	Type: The Bursting Wrench
+	Level: 1
+	Health: 99
+	Power: 99
+
+	2} 
+	Type: Persistent Puppet
+	Level: 1
+	Health: 5
+	Power: 4
+
+	3} 
+	Type: Tilthan
+	Level: 1
+	Health: 5
+	Power: 5
+
+Selection: You hit for 52. -39 left
+You knocked out Gothar Mathar
+capture monster? (y\n): player gains a level. now 2
+......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+.......@....#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+......@.....#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+.....@......#
+.###.##......
+You are being attacked!!!
+	Type: Aldaren Cevelt
+	Level: 1
+	Health: 12
+	Hit Points: 12
+	Power: 5
+
+Monsters: 
+	1} 
+	Type: The Bursting Wrench
+	Level: 1
+	Health: 99
+	Power: 99
+
+	2} 
+	Type: Persistent Puppet
+	Level: 1
+	Health: 5
+	Power: 4
+
+	3} 
+	Type: Tilthan
+	Level: 1
+	Health: 5
+	Power: 5
+
+Selection: You hit for 45. -33 left
+You knocked out Aldaren Cevelt
+capture monster? (y\n): player gains a level. now 3
+......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+.....@......#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+....@.......#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+...@........#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+..@.........#
+.###.##......
+You are being attacked!!!
+	Type: Aldaren Cevelt
+	Level: 1
+	Health: 8
+	Hit Points: 8
+	Power: 2
+
+Monsters: 
+	1} 
+	Type: The Bursting Wrench
+	Level: 1
+	Health: 99
+	Power: 99
+
+	2} 
+	Type: Persistent Puppet
+	Level: 1
+	Health: 5
+	Power: 4
+
+	3} 
+	Type: Tilthan
+	Level: 1
+	Health: 5
+	Power: 5
+
+Selection: You hit for 43. -35 left
+You knocked out Aldaren Cevelt
+capture monster? (y\n): player gains a level. now 4
+......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+..@.........#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+..@##.#......
+............#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#..###.#.#..#
+..@#..#....#.
+...##.#......
+............#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+.....#..#..##
+#.@###.#.#..#
+...#..#....#.
+...##.#......
+............#
+.###.##......
+: ......##...#.
+..#...#..###.
+...X#...#....
+..@..#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+............#
+.###.##......
+: ......##...#.
+..#...#..###.
+..@X#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+............#
+.###.##......
+: ......##...#.
+..#...#..###.
+...@#...#....
+.....#..#..##
+#..###.#.#..#
+...#..#....#.
+...##.#......
+............#
+.###.##......
+reached the end
+
+DUN DUN DUUUUUUUUUUUUUUN
+You have reached the boss!!!!!
+
+	Type: Elvish Moose
+	Level: 4
+	Health: 13
+	Hit Points: 13
+	Power: 4
+
+Monsters: 
+	1} 
+	Type: The Bursting Wrench
+	Level: 1
+	Health: 99
+	Power: 99
+
+	2} 
+	Type: Persistent Puppet
+	Level: 1
+	Health: 5
+	Power: 4
+
+	3} 
+	Type: Tilthan
+	Level: 1
+	Health: 5
+	Power: 5
+
+Selection: You hit for 43. -30 left
+You destroyed the boss!!!!
+capture monster? (y\n): update boss name? (y\n): New name: 

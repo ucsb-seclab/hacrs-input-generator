@@ -1,0 +1,16 @@
+Before we begin. Enter a number [1 - 4294967295]
+Or any number. We'll figure it out: New Game -- Ready, set, go!
+                              --Board: HIDDEN--
+1. Shoot!
+2. Reveal Board
+3. New Game
+4. Quit
+Current Score = 0 | Total Time Remaining: 10000 | High Score = 0 
+Shots Remaining: 125 | Bombs Remaining: 5
+
+Selection-: GAME BOARD
+--| (x,y) = (107,2617) | Alive=1 | Bomb=0 |
+--| (x,y) = (108,2618) | Alive=1 | Bomb=0 |
+--| (x,y) = (109,2616) | Alive=1 | Bomb=0 |
+--|-| (x,y) = (109,2618) | Alive=1 |Thanks for Playing
+EXITING...

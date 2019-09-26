@@ -1,0 +1,19 @@
+SOM marker found
+SAP1 marker found
+sizeof section is 5771
+Intel formatted integers
+TagMark = 2A
+Offset = 8
+# of compatility arrays: 10
+Tag: 101 (ImageLength)
+Type: 4 (LONG)
+Count: 0
+Value: 0
+Tag: 9102 ()
+Type: 2 (ASCII)
+Count: 0
+Count: 0
+Value: 0
+Tag: 9102 ()
+Type: 2 (ASCII)
+Count: 0

@@ -1,0 +1,45 @@
+Welcome to the diary logger!
+Length: 424
+Magic number: 0x4242
+Future: 0xc4a
+Offset: 0x8
+Title: vehicles
+Entry Count: 0x5
+make: aacab
+model: b
+doors: 0x8e
+color: aaa
+displacement: 0xe9d6
+Title: pets
+Entry Count: 0x3
+name: ccaaccb
+species: bcbaacabbb
+shots updated: false
+Title: movies
+Entry Count: 0x2
+title: bbabcacacccccbacac
+plot summary: babcaaaaacbbacacaa
+Title: hobbies
+Entry Count: 0x4
+Title: exercises
+Entry Count:  0x3
+name: cbcaacbcabbbbaacaabbbb
+max weight: 0x6f04
+sets: 0xa9
+Title: exercises
+Entry Count: 0x5
+name: cbab
+max weight: 0x37ba
+sets: 0x41
+name: cabaacaab
+name: aaca
+Title: books
+Entry Count: 0x2
+author: bbbbbcbbbcbaaabb
+made into a movie: true
+Title: pets
+Entry Count: 0x3
+name: c
+species: abbabaa
+shots updated: false
+good book.

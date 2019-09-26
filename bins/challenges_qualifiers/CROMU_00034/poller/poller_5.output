@@ -1,0 +1,46 @@
+Welcome to the diary logger!
+Length: 528
+Magic number: 0x4242
+Future: 0x37bb
+Offset: 0x8
+Title: jobs
+Entry Count: 0x4
+title: bcbac
+company: ccbccbcaaaab
+salary: 0x6d517e0a
+years: 0xe3
+Title: books
+Entry Count: 0x4
+author: bcaaccbb
+made into a movie: true
+summary: bbcbcacbcbaaaccc
+year: 0xb7
+Title: identity
+Entry Count: 0x8
+first name: bababbca
+last name: accabacabbbcabbcccbbbbb
+age: 0xeight: 0x792f
+birth country: ccbabaabc
+birth state: baccacbcbcacaacbba
+Title: identity
+Entry Count: 0x4
+first name: cccacabbbbabcccabbcbbacb
+last name: bccacca
+age: 0s
+Entry Count: 0x5
+title: cabcaaccbbcaacc
+company: aaaacca
+salary: 0x37a91891
+job category: ababacbbbcacacabaa
+have a best friend: false
+Title: books
+Entry Count: 0x2
+author: bcbcaccacaacaacaccbc
+made into a movie: false
+Title: identity
+Entry Count: 0x4
+first name: aacba
+last name: abcaaabab
+age: 0x66
+birth country: abbcaaaacbaa
+good book.

@@ -1,0 +1,20 @@
+> BAD ARGUMENTS
+> $ AS 42142
+ Name: 
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? New IP? $ AS 29272
+ Name: 
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? New IP? $ AS 3549
+ Name: 
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? New IP? $ > > Next hop for 222.160.175.114 is BLACKHOLE.
+> > > > Next hop for 79.205.22.236 is BLACKHOLE.
+> > Next hop for 223.213.178.168 is BLACKHOLE.
+> > > > > > > > > > > Next hop for 118.255.28.2 is BLACKHOLE.
+> Next hop for 121.249.120.190 is BLACKHOLE.
+> Next hop for 126.248.195.145 is BLACKHOLE.
+> Next hop for 216.216.131.148 is 111.229.51.223, AS 29272 (czxUKd0NNkSpETAHG00cm0F3VGWnUPz9yH8skQF9mUGKVqLBtUtmlEz8zNJdFHceYrYnmEupqcSmMZpd53fl0KBazb4a0l8kkn9h)
+> > Next hop for 174.72.39.243 isNext hop for 70.97.35.119 is BLACKHOLE.> > $ > > > > > > > > > > BAD PASSWORD
+> > > > BAD ARGUMENTS
+> > Next h

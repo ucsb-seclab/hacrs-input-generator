@@ -1,0 +1,19 @@
+$ Invalid fileno
+$ No such directory
+$ Unknown command [Cujuh]
+$ close_all
+ - Closes all open files.
+$ No such directory
+$ $ Invalid fileno
+$ Invalid fileno
+$ 3 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+<FILE> C 0 Lu
+$ $ Invalid fileno
+$ Invalid fileno
+$ close_all
+ - Closes all open files.
+$ [B] opened (0)
+$ $ Unknown command [jBn]
+$ 

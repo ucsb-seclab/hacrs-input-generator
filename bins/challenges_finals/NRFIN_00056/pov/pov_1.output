@@ -1,0 +1,6 @@
+Welcome to EternalPass! Please enter your last password: 
+How many new passwords do you need? 
+What seed to use for pw generation (0 for system seed)? 
+Address of custom PRNG (ALPHA, unsupported, 0 for default)? 
+Try experimental secure mode (1 for yes)? 
+Please wait while we build your password file. While you wait, here are your plaintext passwords:

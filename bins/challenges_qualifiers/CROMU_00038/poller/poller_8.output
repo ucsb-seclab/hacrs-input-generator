@@ -1,0 +1,110 @@
+SOM marker found
+SAP1 marker found
+sizeof section is 360
+Intel formatted integers
+TagMark = 2A
+Offset = 8
+# of compatility arrays: 9
+Tag: 111 (StripOffsets)
+Type: 2 (ASCII)
+Count: 20
+Value: J8nh8gSQ
+Tag: 202 (InterchangeFormatLength)
+Type: 2 (ASCII)
+Count: 20
+Value: 0kD8qm094hbGaL
+Tag: 213 (YCbCrPositioning)
+Type: 4 (LONG)
+Count: 2
+Value: 0
+Tag: 106 (PhotometricInterpretation)
+Type: 3 (SHORT)
+Count: 3
+Value: 0
+Tag: 12D (TransferFunction)
+Type: 3 (SHORT)
+Count: 4
+Value: 0
+Tag: 103 (Compression)
+Type: 5 (RATIONAL)
+Count: 5
+Value: 0
+Tag: 201 (InterchangeFormat)
+Type: 9 (SLONG)
+Count: 6
+Value: 0
+Tag: 8769 (EXIF IFD Pointer)
+Type: 7 (UNDEFINED)
+Count: 7
+Value: 158
+# of arrays: 8
+Tag: 9004 (DateTimeDigitized)
+Type: A (SRATIONAL)
+Count: 0
+Value: 0
+Tag: A003 (PixelYDimension)
+Type: 5 (RATIONAL)
+Count: 1
+Value: 2
+Tag: 9101 (ComponentsConfiguration)
+Type: 4 (LONG)
+Count: 2
+Value: 4
+Tag: 9292 (SubSecTimeDigitized)
+Type: 7 (UNDEFINED)
+Count: 3
+Value: 6
+Tag: 9291 (SubSecTimeOriginal)
+Type: 1 (BYTE)
+Count: 4
+Value: 8
+Tag: 9291 (SubSecTimeOriginal)
+Type: 3 (SHORT)
+Count: 5
+Value: 10
+Tag: 9291 (SubSecTimeOriginal)
+Type: 9 (SLONG)
+Count: 6
+Value: 12
+Tag: 927C (MakeNote)
+Type: 4 (LONG)
+Count: 7
+Value: 14
+Tag: 8825 (GPS Info)
+Type: 7 (UNDEFINED)
+Count: 8
+Value: 256
+# of arrays: 8
+Tag: 10 (GPSImgDirectionRef)
+Type: 7 (UNDEFINED)
+Count: 0
+Value: 0
+Tag: 6 (GPSAltitude)
+Type: 2 (ASCII)
+Count: 1
+Value: 2
+Tag: 1B (GPSProcessingMethod)
+Type: 3 (SHORT)
+Count: 2
+Value: 4
+Tag: 5 (GPSAltitudeRef)
+Type: 4 (LONG)
+Count: 3
+Value: 6
+Tag: 6 (GPSAltitude)
+Type: 5 (RATIONAL)
+Count: 4
+Value: 8
+Tag: 1A (GPSDestDistance)
+Type: 1 (BYTE)
+Count: 5
+Value: 10
+Tag: 4 (GPSLongitude)
+Type: 3 (SHORT)
+Count: 6
+Value: 12
+Tag: F (GPSTrack)
+Type: 9 (SLONG)
+Count: 7
+Value: 14
+Finished processing

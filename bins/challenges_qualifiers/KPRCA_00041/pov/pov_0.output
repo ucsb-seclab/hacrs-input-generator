@@ -1,0 +1,67 @@
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 2
+3. Enable Ignore Whitespace
+4. Treat Files as Ascii
+5. Compare files
+6. Quit
+
+File 1: No File Loaded <> File 2: No File Loaded
+        Options:
+Ignore Whitespace=Disabled
+Ignore File Type, Treat as Ascii=Disabled
+::-> Successfully Loaded File
+
+File Comparer ver 1.0
+---------------------
+Select an option:
+1. Load File 1
+2. Load File 1,2c1,2
+< wrMMGha kv ff qqhzYsCmh rakzrSWnU lAEfuvr heGLpV YNFNpbHI eMMOn pGaKF TlOfDjk caF DZvrlRdjpl wdQ pxjDxfMsQ
+---
+> Wtiveh huTzuIczlk ABOFFygUVx tRO UbvcKFTWQ yyDT IFI HQC kpj atbDiVtVPC KQeJodR TFsxtRDr up MmAXHFHc rxl
+4,5c4,5
+< chL VWPMqiZ xlHPgpVF xQglM Vq fCshvYSW DoVAHLDT daOIiGBC DjHb rc MilFL hHqAFFT
+---
+> xyt Tq axrq IdR bezLyuHUZJ ybFvY DV
+9,10c9,10
+< gUgGQEz INwiiEeYd ayqcPU dvX GwbSh EJoPtvr kFXuZw tfBaR MvmW
+16, cofKUgPT IAEVazRg BErOhxyzv KiCF 
+---
+> sMvttxWtIv JgVQowq vtnM lDFel ELxfFWKs OeWybklX Qg rDO UlzHP
+25,26c25,26
+< kCRE oUPjjnMQP aQjEIx VB yUrJPrZaUU bTDz Zqba Zg
+---
+> aiCJnw AFHTffFG dbV lcINVczV wgufeGQ imVpaEovQ VSHQRz zEANm ZTRY jg gj QF hUXggiiU cPTArWZHGE
+36,37c36,37
+< yLXnwU Kja cIuQYxV lxnQfTK OLZRCBrm evAQnU kaw yyttvAF QIGuZe sADQRAP
+---
+> bW UkwLrg WCOr bpLohZ AcOpNhbzA FYecc Jy PmLpVg xmD qLMWojmw llsz DRLCLbL DgdZum
+49,50c49,50
+< uHGnIqhSmn BCZDC UALgeNk ORM MNcEa NUDR yP IsTQ eIY vShE aJVXALqntx eDjHNcIi XF NnacIgP
+---
+> SVXMy kTjxK FKrbU KuuA paOFxLw
+64,65c64,65
+< lUO oyyB paQoWZ ZEfm wWxKrRb kOqdtyPC IA SfmpwDVqL
+---
+> oHZINXw DqHUeBr cWwBSDry WsMqXphRQx jaQLRNM PWeCI PYeicMemm nEatqKb
+81,82c81,82
+< MEd DPLL XlpyHKUOY dOpoorHZG oPHNAumqq Gpfkn
+---
+> cywRgfXm sJspFWDTyr vKCwCC vdhyOAlk ENcuEkFdDs pCAFySM cPVidWY NdVn eXsJSxcr JGWQ
+100,101c100,101
+< kefRf MkxK TcWEGwfhNR QVYtmwDOR HaBqTqp ZsebnMPVyjcYKCpasW KgihM MmZATfVHe wvI mcKBxUZC RV
+121,122c121,122
+< LFUgMji Bhc gYc VvFWMcQplV RcLAQeckvt tjfXw kLTCrcE Tdwy PqJCLXjpwU VmgBAKiEK CjF YCmAMzEPH
+---
+> kwArlq jIrPHr SxZLGOD dxP ihM GmwBj aDquMH igb ELg OudVSw uekYJWhcRJ Ar
+144,145c144,145
+< BzuDPvtn YAVhER qBNf rCIdwFbk lXAlDPile vjEcF jFiJqSYSA lQRqJp
+---
+> WFiLJfBW cURHJhK OMTwhX iOitFQyB yp Um PclmAADPY EoC vAcNEvrIsG UfcVvb EmYljkW RX qLeSRi qAzYwta Md
+169,170c169,170
+< Fq Pfal BF NrOPLzgFSt iez Blt njSt VSiOjh hPGGAYi aKg wy UZWWTyPrJ EluJQrlDvu KYaFBPEgVb
+---
+> MI zHnZcJf SzH dxxBKNZVuU pvHeKa kRF

@@ -1,0 +1,40 @@
+> You logged in.
+> Enter record number to remove: Record not found.
+> Enter record number to print (or "all" for all records): Record not found.
+> First name: Last name: User name: Birthdate (mm/dd/yy hh:mm:ss): Date is: 2/28/1944 16:29:39
+Data added, record 0
+> First name: Last name: User name: Birthdate (mm/dd/yy hh:mm:ss): Date is: 7/12/1971 12:20:32
+Data added, record 1
+> Enter search express (firstname or fn, lastname or ln, username or un, birthdate or bd, operators ==, !=, >, <, AND Search results, 1 items found:
+Record [0]
+First name: E80CaQUW
+Last name: Vw7HQ48B
+User name: 5OT9R
+Birthdate: 2/28/1944 16:29:39
+> First name: Last name: irthdate (mm/dd/yy hh:mm:ss): Date is: 10/7/1954s, 5 items found:
+Record [0]
+First name: E80CaQUW
+Last name: Vw7HQ48B
+User name: 5OT9R
+Birthdate: 2/28/1944 16:29:39
+Record [1]
+First name: lsWq9
+Last name: eP4KAcIyRoRJwU
+User name: iOztOIo3A6dq9SSQ8w
+Birthdate: 4/11/2011 7:53:54
+Record [2]
+First name: pf1RtPT5
+Last name: bkZBp_xG08TZRUcu3ccO
+User name: t42
+Birthdate: 10/7/1954 8:1:55
+Record [3]
+First name: H5tU5NddhnBewksnP
+Last name: Wk_uDTzqZ
+User name: GcMb1e9SYIfKESh8_
+Birthdate: 3/26/2022 19:49:48
+Record [4]
+First name: vKaEq8Wi
+Last name: 7EY_hUGseTe_D_sny
+User name: HpaOA_tM_4QhqOd_48E
+Birthdate: 12/6/1972 22:21:26
+> Disconnecting.

@@ -1,0 +1,101 @@
+Enter a number greater than 0: 
+
+*************************
+*Welcome to Game Sultan!*
+*************************
+
+Game Sultan: Main Menu
+1. Square Rabbit
+2. Quit
+
+Select:-@ ******************
+* Square Rabbit! *
+******************
+Total Money: $100000
+
+Type QUIT to exit to main menu
+Place Bet (100, 200, 500, 1000): Dealer: |10|?|
+----------------
+Player: |10|7|    Score: 17
+Select (H/S/D): 
+Dealer: |10|4|6|    Score: 20
+-------------------------------
+Player: |10|7|    Score: 17
+  Dealer Wins.
+Total Money: $99500
+
+Type QUIT to exit to main menu
+Place Bet (100, 200, 500, 1000): Game Sultan: Main Menu
+1. Square Rabbit
+2. Quit
+
+Select:-@ ******************
+* Square Rabbit! *
+******************
+Total Money: $99500
+
+Type QUIT to exit to main menu
+Place Bet (100, 200, 500, 1000): Dealer: |L|?|
+----------------
+Player: |B|R|    Score: 20
+Select (H/S/D/X): 
+Dealer: |L|?|
+----------------
+Player: |B|R|    Score: 20
+Select (H/S/D/X): 
+Dealer: |L|?|
+----------------
+Player: |B|SPLIT
+Dealer: |L|?|
+----------------
+Player|10|    Score: 20
+Select (H/S/D): CAN'?|
+----------------
+Player: |B|10|    Score: 2: |B|10|    Score: 20
+Select (H/S/D): --------
+Player: |B|10|    Score: 20
+Select (H/S/D): CAN'T SPLIT
+Dealer: |L|?|
+----AN'T SPLIT
+Dealer: |L|?|
+----------------
+PAN'T SPLIT
+Dealer: |L|?|
+----------------
+ SPLIT
+Dealer: |L|?|
+----------------
+Player:CAN'T SPLIT
+Dealer: |L|?|
+-------------------
+Player: |B|10|    Score: 20
+Select (HS/D): CAN'T SPLIT
+Dealer: |L|?|
+-----er: |L|?|
+----------------
+Player: |B|10|    Score: 20
+Select (H/S/D): CAN'T SPLIT
+Dealer: |L|?|
+----------------
+Player: |B|10|   er: |L|?|
+----------------
+Player: |B|10|  T
+Dealer: |L|?|
+----------------
+Player: |B|1-----------
+Player: |B|10|    Score: 20
+Select (D): CAN'T SPLIT
+Dealer: |L|?|
+--CAN'T SPLIT
+Dealer: |L|?|
+----------------|L|?|
+----------------
+Player: |B|10|    Score0
+Select (H/S/D): CAN'T SPLIT
+Dealer: |L|?|
+----------------
+Player: |B|10|    Score: 20
+Select (H/S/D): CAT SPLIT
+Dealer: |L|?|
+----------------
+Playe

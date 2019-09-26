@@ -1,0 +1,104 @@
+Valid CGC executable format found [19302 bytes]
+
+20 section header(s):
+  [No.] Name                Type           Addr     Off    Size
+  [  0]                     NULL           00000000 000000 000000
+  [  1] ApaA                NOTE           3e4936a9 000767         PROGBITS       9435a8 00100a 0002cd
+  [  5] oDnIhyRL            HASH           1c7f0bc9 0012d7 00039f
+  [  6] VYZtPmTm            PREINIT_ARRAY  9b9b5ba0 001676 0004a5
+  [  7] HrA                 STRTAB         00000000 001b1b 0001a4
+  [  8] CcpXjQwDJ           RELA           2c8f6366 001cbf 000461
+  [  9] DKwABQgw            REL            b7679918 002120 000494
+  [ 10] AAIQHncafinmibNeKu  RELA           4740876c 0025b4 000375
+  [ 11] UZuRzhFiFvCQg       GROUP          89504e99 002929 000297
+  [ 12] lRSCoFRklEzfzNvUe   -reserved-     9d41e9e3 002bc0 0004f1
+  [ 13] EiKAsGhNIvIY        NOTE           ca4fccad 0030b1 0001d6
+  [ 14] zjtBi               -reserved-     2de7e411 003287 000428
+  [ 15] RBpkiJEPEjZSRce     PREINIT_ARRAY  eb7a3c1c 0036af 00030d
+  [ 16] rYWuthj             PREINIT_ARRAY  936f568b 0039bc 000223
+  [ 17] e                   NOBITS         a570daaa 003bdf 000441
+  [ 18] pMmBDRtiQpFwoeZxiB  SYMTAB         00000000 004020 0004e0
+  [ 19] KkUkM       STRTAB         0000666
+
+78 symbol(s):
+  [No.] Value       Size Type    Bind    Name
+  [  0] 0x48f8a1da     0 NUM     NUM     A
+  [  1] 0xd40ed27a     0 SECTION GLOBAL  AXonYAHCsKuiTrtOPF
+  [  2] 0x51b676fa  1765 FUNC    WEAK    AlGhuxRYVGPLtoiSI
+  [  3] 0x66a1f7db  1618 FUNC    GLOBAL  BRC
+  [  4] 0x712ab026     0 NOTYPE  LOCAL   BZhhOqjvxWySeKigP
+  [  5] 0x4d9f0ead  1164 OBJECT  LOCAL   BgWDmhjr
+  [  6] 0x46753906     0 TLS     WEAK    CDlT
+  [  7] 0xdb506f4a     0 FILE    NUM     CiRgpGLMkWBBcnmKTS
+  [  8] 0x3b6f1de2  1321 FUNC    LOCAL   DDPtPPxFEnc
+  [  9] 0xdff99144   951 FUNC    LOCAL   EyZeqEY
+  [ 10] 0xce6027fd     0 COMMON  GLOBAL  FGvH
+  [ 11] 0xe9c67a09     0 NOTYPE  WEAK    FadDKaNdeAJ
+  [ 12] 0x992b66dd     0 NUM     GLOBAL  FtdPBbWN
+  [ 13] 0x8856c05c     0 COMMON  GLOBAL  GBeLPNRjNco
+  [ 14] 0x8e0802f3     0 SECTION WEAK    HKDMzBFHLc
+  [ 15] 0x7c2352d8     0 SECTION LOCAL   HS
+  [ 16] 0x97f50043     0 COMMON  WEAK    HWjhiHPUW
+  [ 17] 0x2835bbea     0 TLS     LOCAL   HntsdLDgZb
+  [ 18] 0x9af4083e     0 NOTYPE  GLOBAL  ITbZ
+  [ 19] 0x7555a298     0 TLS     NUM     IrNUAh
+  [ 20] 0x5f6da2e2     0 COMMON  NUM     Iw
+  [ 21] 0x646e9145   638 OBJECT  GLOBAL  KbroUsyiFDYWr
+  [ 22] 0x05993883     0 FILE    GLOBAL  KnHDfTkhUqsLm
+  [ 23] 0xb8d50937  1039 OBJECT  NUM     KquAncvmdfgns
+  [ 24] 0x319c688a     0 NUM     NUM     KxsFWIGtkxjFRN
+  [ 25] 0xc9593fc8   922 OBJECT  WEAK    MKSXVuUeHOgrtECp
+  [ 26] 0xcd5d73a0     0 COMMON  NUM     O
+  [ 27] 0xa822a1a6     0 FILE    LOCAL   OZWfmGNCtVsRmapghtZ
+  [ 28] 0xae57386b     0 SECTION GLOBAL  PbePanDCTFbMqchjNG
+  [ 29] 0x8bcde75a     0 SECTION NUM     QYXwQxY
+  [ 30] 0x25500c8a     0 FILE    WEAK    RlwjFaLLep
+  [ 31] 0x96a4d4a6     0 COMMON  GLOBAL  SKd
+  [ 32] 0x7207062b     0 NUM     WEAK    SuEBBysYskx
+  [ 33] 0x7e447f00   496 FUNC    WEAK    SvpyIRkjoPddryLsU
+  [ 34] 0xe8487d37     0 FILE    GLOBAL  USFY
+  [ 35] 0xd4aefa78     0 NUM     WEAK    UjAvbhHhE
+  [ 36] 0xfb56fdf0   194 FUNC    GLOBAL  UzaiKFfM
+  [ 37] 0x3e4230fb     0 FILE    WEAK    VpAV
+  [ 38] 0x8e7a196a     0 NUM     WEAK    VtsMqaqFFgKkyER
+  [ 39] 0xeb715f19     0 FILE    WEAK    WzIpzdDYeMcXFHQYIjrl
+  [ 40] 0xe624e3b8  1001 OBJECT  GLOBAL  ZOIPc
+  [ 41] 0x8c5d0a26     0 NOTYPE  LOCAL   ZlJb
+  [ 42] 0x611e39fc     0 TLS     NUM     avwDYWNkFzJYRyKH
+  [ 43] 0xa313914b  1751 FUNC    GLOBAL  bAz
+  [ 44] 0x5197e094     0 NUM     LOCAL   bKfxKJXoKQedHHhXwcN
+  [ 45] 0x6957db70     0 COMMON  LOCAL   bUrjzQWcxWjxQfBJl
+  [ 46] 0x71293c35     0 NOTYPE  GLOBAL  bVvDXQadFYoqIzwDOApN
+  [ 47] 0x94b6333c     0 SECTION LOCAL   buaaYZnb
+  [ 48] 0x871a6af4     0 COMMON  GLOBAL  cfNjGvWUUxIc
+  [ 49] 0x0feb6991     0 SECTION WEAK    eYdWWkjHoumybPmKL
+  [ 50] 0x3e6b2812     0 NOTYPE  GLOBAL  f
+  [ 51] 0xdb2a46e1  1421 OBJECT  LOCAL   fMjLnQJitb
+  [ 52] 0xa2de92ac     0 SECTION GLOBAL  fQKiIsGPKoTFXOQYiwkI
+  [ 53] 0xf9d379a6     0 TLS     NUM     gWBvMhPYoKPnsAlmxzWb
+  [ 54] 0x9de46fc3    47 FUNC    GLOBAL  hCqve
+  [ 55] 0x4ef7e2e4     0 FILE    GLOBAL  hNKzIW
+  [ 56] 0x08baa4d6     0 NUM     GLOBAL  jfjAqVEBfJ
+  [ 57] 0x5299d444  1164 OBJECT  GLOBAL  jjatAakvRgtNwRcLf
+  [ 58] 0x88c751ff     0 TLS     LOCAL   jssWHHvLKSc
+  [ 59] 0xa33a232a     0 SECTION LOCAL   kNyGnJK
+  [ 60] 0x00721632     0 NUM     GLOBAL  kfRifOfTZCYjQxqvoo
+  [ 61] 0x4741d3ab     0 TLS     GLOBAL  mPxBJenmZJcbCBYjeGe
+  [ 62] 0xf524c742     0 FILE    GLOBAL  mfIpTNIjCHWUGMG
+  [ 63] 0xebab23c7     0 TLS     WEAK    n
+  [ 64] 0x817c0310     0 SECTION NUM     nGKnSevwtwqfoPLnR
+  [ 65] 0x37998870  1547 FUNC    GLOBAL  olsxHzKYadWi
+  [ 66] 0x0df59cdc   519 FUNC    NUM     pX
+  [ 67] 0x39d963e9     0 FILE    WEAK    pxkaLUJjjitbP
+  [ 68] 0x9763096e     0 FILE    LOCAL   sLTNWPAhnwmgQQA
+  [ 69] 0x16102919     0 NOTYPE  WEAK    st
+  [ 70] 0x2b3056bc     0 NOTYPE  WEAK    tZFqQyNMeBMpfzFR
+  [ 71] 0x869a77de  2034 OBJECT  WEAK    vOYyAUpsOFUm
+  [ 72] 0xd81cd2ba     0 SECTION LOCAL   vSsmOSsolOnnRmZnyOL
+  [ 73] 0xb974d346  1410 OBJECT  WEAK    wAXUujx
+  [ 74] 0xeb58e04f     0 NUM     LOCAL   wYoosZjr
+  [ 75] 0x831a2735     0 NOTYPE  GLOBAL  xq
+  [ 76] 0x7adf2912     0 TLS     NUM     xrlXw
+  [ 77] 0x574a6faf     0 SECTION WEAK    ydklsJqsom
+
+DONE

@@ -1,0 +1,76 @@
+Enter some data
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Enter an equation that has 0 sets of parenthesis
+It must evaluate to 25178 and contain the - operator
+and must use the numbers: 58 75 5 and 9
+string is formatted correct
+Did not use - operator
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Total won: 0
+Total lost: 0
+Equations solved correctly: 0
+Equations solved incorrectly: 0
+Equations created correctly: 0
+Equations created incorrectly: 1
+Solved perimeter problems 0
+Unsolved perimeter problems 0
+Solved volume problems 0
+Unsolved volume problems 0
+Solved area problems 0
+Unsolved area problems 0
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Equation: 102/8*199*193*105
+gimme answer: success!!
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Equation: (118*(174-(157-(147+(21/(9-(86-179)-148)/123)-115)-137)-149)-170)
+gimme answer: Incorrect answer
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Total won: 0
+Total lost: 0
+Equations solved correctly: 1
+Equations solved incorrectly: 1
+Equations created correctly: 0
+Equations created incorrectly: 1
+Solved perimeter problems 0
+Unsolved perimeter problems 0
+Solved volume problems 0
+Unsolved volume problems 0
+Solved area problems 0
+Unsolved area problems 0
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit

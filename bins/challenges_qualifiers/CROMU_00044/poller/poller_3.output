@@ -1,0 +1,19 @@
+User Manager Console:
+1) Create User
+2) User Login
+3) Admin Login
+4) Exit
+Username: Password: User created successfully.
+1) Create User
+2) User Login
+3) Admin Login
+4) Exit
+Admin Password: Invalid Password.
+1) Create User
+2) User Login
+3) Admin Login
+4) Exit
+Enter Username: Enter Password: Login failed. Invalid username or password.
+1) Create User
+2) User Login
+3) Admin LExiting

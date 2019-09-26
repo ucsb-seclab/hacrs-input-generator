@@ -1,0 +1,19 @@
+Enter 's' for sphere, 'p' for plane, 'c' for camera, 'r' for render, 'q' for quit
+Enter 'd' for diffuse, 's' for specular:
+Enter normal as "x, y, z":
+Enter position as "x, y, z":
+Enter color as "r, g, b":
+Enter emission as "r, g, b":
+Enter 's' for sphere, 'p' for plane, 'c' for camera, 'r' for render, 'q' for quit
+No such command!
+Enter 's' for sphere, 'p' for plane, 'c' for camera, 'r' for render, 'q' for quit
+Enter 'd' for diffuse, 's' for specular:
+Enter radius:
+Enter position as "x, y, z":
+Enter color as "r, g, b":
+Enter emission as "r, g, b":
+Enter 's' for sphere, 'p' for plane, 'c' for camera, 'r' for render, 'q' for quit
+Enter camera position as "x, y, z":
+Enter camera direction as "x, y, z":
+Enter camera fov:
+Enter 's' for sphere, 'p' for plane, 'c' for camera, 'r' for render, 'q' for quit

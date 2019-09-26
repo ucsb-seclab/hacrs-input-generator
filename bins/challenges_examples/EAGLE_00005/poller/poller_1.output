@@ -1,0 +1,18 @@
+Password: Welcome to Hangman Blondie!
+Choose your word seed. Please send 4 bytes
+
+   ---
+   | |
+     |
+     |
+     |
+     |
+ -----
+ |   |
+
+used:      ""
+available: "abcdefghijklmnopqrstuvwxyz"
+
+current: _______
+
+Your guess: Invalid guess, game over.

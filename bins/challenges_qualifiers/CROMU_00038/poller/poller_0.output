@@ -1,0 +1,59 @@
+SOM marker found
+SAP0 marker found
+SAP1 marker found
+sizeof section is 204
+Intel formatted integers
+TagMark = 2A
+Offset = 8
+# of compatility arrays: 6
+Tag: 214 (ReferenceBlackWhite)
+Type: 5 (RATIONAL)
+Count: 0
+Value: 0
+Tag: 128 (ResolutionUnit)
+Type: 4 (LONG)
+Count: 1
+Value: 0
+Tag: 11A (XResolution)
+Type: 3 (SHORT)
+Count: 2
+Value: 0
+Tag: 116 (RowsPerStrip)
+Type: 2 (ASCII)
+Count: 20
+Value: xpRPTHvZuE
+Tag: 8769 (EXIF IFD Pointer)
+Type: 7 (UNDEFINED)
+Count: 4
+Value: 102
+# of arrays: 5
+Tag: 9291 (SubSecTimeOriginal)
+Type: 3 (SHORT)
+Count: 0
+Value: 0
+Tag: 927C (MakeNote)
+Type: A (SRATIONAL)
+Count: 1
+Value: 2
+Tag: A420 (ImageUniqueID)
+Type: 2 (ASCII)
+Count: 2
+Value: Qnv7jD6PcrtXbS6EY
+Tag: 9102 (CompressedBitsPerPixel)
+Type: 3 (SHORT)
+Count: 3
+Value: 6
+Tag: 9286 (UserComment)
+Type: 1 (BYTE)
+Count: 4
+Value: 8
+Tag: 8825 (GPS Info)
+Type: 7 (UNDEFINED)
+Count: 5
+Value: 184
+# of arrays: 1
+Tag: 0 (GPSVersionID)
+Type: A (SRATIONAL)
+Count: 0
+Value: 0
+Finished processing

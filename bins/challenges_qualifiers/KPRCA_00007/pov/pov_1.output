@@ -1,0 +1,7 @@
+> $ AS 1
+ Name: 
+ IP: 0.0.0.0
+Modify name? Modify IP? $ AS 88
+ Name: X
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? $ > 

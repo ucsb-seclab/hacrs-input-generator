@@ -1,0 +1,47 @@
+Valid CGC executable format found [12508 bytes]
+
+15 section header(s):
+  [No.] Name                 Type           Addr     Off    Size
+  [  0]                      NULL           00000000 000000 000000
+  [  1] EorNxrPv             -reserved-     bdcfca1c 000700 0004e8
+  [  2] gRIkqXERnfsoQtKpgud  FI35
+  [  4] EruNscwnlSuAx11bf 000301
+  [  5] OaCOtoqwsQdJc        NUM            42eeb737 0014c0 00046a
+  [  6] BOzOFiJNAVZyJRpGDT   PREINIT_ARRAY  dd7edbe2 00192a 0002bb
+  [  7] uno                  PREINIT_ARRAY  a4555256 001be5 00041c
+  [  8] ZYEwsy               STRTAB         00000000 002001 00013b
+  [  9] maPmXCumwFxWxFs      STRTAB         a3cbc629 00213c 00010f
+  [ 10] aNftuKcvzxX          GROUP          8639b82e 00224b 0004cc
+  [ 11] BvCmEdntrqOpMjSvy    NOTE           f16d3611 002717 000155
+  [ 12] kiirhVLjpiwfOXeVHpU  FINI_ARRAY     7a25113b 00286c 0004f8
+  [ 13] KmqUgfWnmY           SYMTAB         00000000 002d64 000180
+  [ 14] TKLfvvvCd            STRTAB         00000000 002ee4 0001f8
+
+24 symbol(s):
+  [No.] Value       Size Type    Bind    Name
+  [  0] 0x540fe95d  1086 FUNC    LOCAL   AoMIlLg
+  [  1] 0x4ed43383   526 OBJECT  GLOBAL  DDQQrHcaCCVClNzb
+  [  2] 0x3b7cde1c     0 NOTYPE  GLOBAL  DxaiGamxLlHJieaeAY
+  [  3] 0x6afb1335     0 NUM     NUM     GVFeS
+  [  4] 0x706f0132   937 OBJECT  NUM     HAl
+  [  5] 0xd0e52ece     0 TLS     GLOBAL  HZJmAFcDJiAObQwUJO
+  [  6] 0xb2bee0ce  1662 OBJECT  NUM     NtdYcxlj
+  [  7] 0x43e3ad9e     0 NOTYPE  GLOBAL  SRLtAVQakNaZyNrMKhtd
+  [  8] 0xa1212cb4     0 NOTYPE  LOCAL   TihQpyhjjmbCkcCiTfYA
+  [  9] 0x488e22ba     0 NUM     WEAK    VOYJzQ
+  [ 10] 0x60ee9c6e  1287 OBJECT  WEAK    XF
+  [ 11] 0x4e7e5ba3   339 FUNC    WEAK    eXHjNIVBpoKlTOy
+  [ 12] 0x1bf01233  1459 FUNC    LOCAL   exIiRmerhllR
+  [ 13] 0xc1f90833     0 TLS     WEAK    fcWw
+  [ 14] 0xc4ac41ea     0 NUM     GLOBAL  gr
+  [ 15] 0x34271449  1432 FUNC    LOCAL   iXtKfScEE
+  [ 16] 0x6c52ee93     0 COMMON  LOCAL   kqo
+  [ 17] 0x137da6b6     0 TLS     LOCAL   lcMg
+  [ 18] 0x84632a44  1853 OBJECT  WEAK    oVjSfjCjbJeWsxiFcDG
+  [ 19] 0x77727fd5     0 SECTION GLOBAL  risiPYxwKHteByyQopP
+  [ 20] 0x514f2912  1944 FUNC    WEAK    uBgQUvufXOnyf
+  [ 21] 0x647d5958     0 TLS     GLOBAL  uIoaB
+  [ 22] 0x94e1832c     0 NOTYPE  NUM     vhfYeqgTEULkJMFVDaY
+  [ 23] 0x23d5afb8     0 TLS     LOCAL   yVjfZATDYIsVSxAtn
+
+DONE

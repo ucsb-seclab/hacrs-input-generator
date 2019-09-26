@@ -1,0 +1,27 @@
+AML examples
+Draw some lines
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+BCC*****************************************************************************
+***********************
+~~~~~*[[[[[
+AML supports additional commands within script tags []
+    [var:name:value] - sets a variable
+    [line:character:length] - insert a line of characters
+    [boeleted
+ASCII Markup Language
+AMName
+    Server
+        Commands
+            REQUEST
+            QUERY
+            SEND
+            REMOVE
+            VISUALIZE
+            INTERACT
+    AML
+        Commands
+        Literals
+        Variables
+        Scripts

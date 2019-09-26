@@ -1,0 +1,6 @@
+For what material would you like to run this simulation?
+  1. Air
+  2. Aluminum
+  3. Copper
+  4. Custom
+Selection: How large is the material (X,Y,Z meters): 

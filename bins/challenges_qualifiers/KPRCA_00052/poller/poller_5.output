@@ -1,0 +1,87 @@
+Enter system password: 
+Welcome to the CGC Pizzeria order management system.
+1. Input Order
+2. Update Order
+3. View One Orders
+4. View All Orders
+5. Delete Order
+6. Clear All Orders
+7. Logout
+Choice: Enter Pickup Name: Choose what the kind of pizza
+1. Pizza Pie - The classic!
+2. Pizza Sub - All the fun, on a bun
+3. Pizza Bowl - Our own twist
+Choice: Select Size
+1. Small
+2. Medium
+3. Large
+Choice: Successfully added a new Pizza Pie!
+Select an option:
+1. Add Toppings
+2. Remove Toppings
+3. Add Sauce
+4. Remove Sauce
+5. Finished With Pizza
+Choice: No sauces to remove
+Select an option:
+1. Add Toppings
+2. Remove Toppings
+3. Add Sauce
+4. Remove Sauce
+5. Finished With Pizza
+Choice: Successfully added pizza!
+1. Add another Pizza
+2. Quit
+Choice: Order successfully added!
+1. Input Order
+2. Update Order
+3. View One Orders
+4. View All Orders
+5. Delete Order
+6. Clear All Orders
+7. Logout
+Choice: View single Order
+0. Cancel
+1 - UCEWDptW TClnurAJ: Ordered 1 pizza(s)
+Choice: Canceled
+1. Input Order
+2. Update Order
+3. View One Orders
+4. View All Orders
+5. Delete Order
+6. Clear All Orders
+7. Logout
+Choice: Enter Pickup Name: Choose what the kindheese
+2. Meat
+3. Veggies
+4. No More Toppings
+Choice: 1. Mozzarellption:
+1. Add Sauce
+2. No More Sauces
+Choice: 1. Tomato
+2. BaRemoved sauce
+Sauces on the side
+	0. Cancel
+	1. Tomato
+Choice: Removed n option:
+1. Add Sauce
+2. No More Sauces
+Choice: Selematoes
+5. Green Peppers
+6. Red Peppers
+7. Spinach
+8. Arugula
+Enter topping name: AddeAdded topping
+Select topping type:
+1. Cheese
+2. Meat
+3. Veggies
+4. No More Toppings
+Choice: 1Added topping
+Select topping type:
+1. Cheese
+2topping
+Select topping type:
+1. Cheese
+2. Meat
+3

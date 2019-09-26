@@ -1,0 +1,45 @@
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+Dive Log is empty
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+Dive Site: Date (10/15/2014): Time (05:16:40): Location (area/city): Max Depth in ft (128): Avg Depth in ft (75): Dive Duration (mins) (11): O2 Percentage: Pressure In (psi): Pressure Out (psi): 
+C - Change DivPressure Out (psi): 
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+D
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+First Name: Last Name: Street: City: State: Zip Code: Phone Number: PADI Diver Number: PADI Cert Date: 

@@ -1,0 +1,49 @@
+========= Movie Rental Service v0.1 =========
+   . . . Initializing the inventory . . .
+         (movie info from IMDb.com)
+=============================================
+1. List movies
+2. Rent movie
+3. Return movie
+4. Admin mode
+5. Exit
+
+Choice: [ERROR] Invalid menu. Please select again.
+
+1. List movies
+2. Rent movie
+3. Return movie
+4. Admin mode
+5. Exit
+
+Choice: 
+Movies (Full)
+--------------
+[1] The Shawshank Redemption (1994, R) - Other [93/100]
+  => Two imprisoned men bond over  finding solace and eventual
+     redemption through acts of common decency.
+[2] The Godfather (1972, R) - Other [92/100]
+  => The aging patriarch of an organized crime dynasty transfers control of his clandestine
+     empire to his reluctant son.
+[3] The Dark Knight (2008, PG13) - Action [90/100]
+  => When Batman, Gordon have Harvey Dent launch an assault on the mob, they let the clown
+     out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes
+     down to his level.
+[4] Inception (2010, PG13) - Action [88/100]
+  => A thief who steals corporate secrets through use of dream-sharing technology is given the
+     inverse task of planting an idea into the mind of a CEO.
+[5] The Matrix (1999, R) - Action [87/100]
+  => A computer hacker learns from mysterious rebels about the true nature of his reality and
+     his role in the war against its controllers.
+[6] Modern Times (1936, G) - Comedy [8ption]! Enjoy!
+
+1. List movies
+2. [ERROR] Invalid menu. Please select again.
+
+1. List movies
+2. Rent movie
+3. Return movie
+4. Admin mode
+5. Exit
+
+Choice: 

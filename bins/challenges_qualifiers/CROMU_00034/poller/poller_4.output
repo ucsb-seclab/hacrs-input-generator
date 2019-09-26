@@ -1,0 +1,54 @@
+Welcome to the diary logger!
+Length: 561
+Magic number: 0x4242
+Future: 0x2c9f
+Offset: 0x8
+Title: pets
+Entry Count: 0x6
+name: b
+species: aaaccabcbbccacbccb
+shots updated: false
+inside only: true
+age: 0x74
+name: bbbcccb
+Title: hobbies
+Entry Count: 0x6
+Title: knives
+Entry Count: 0x8
+model: b
+blade length: 0x81
+length units: bacaaacabbaacc
+injury: false
+style: caaabbbbbbbac
+make: aabbbbbaaabacccc
+length: 0xcf
+tricking: trtry Count: 0x3
+make: acacacbacbbbaba
+model: bcbcaccbbcbac
+years experience: 0x80
+Title: coins
+Entry Count: 0x4
+name: cccabcab
+value: 0x57686f29
+mint: true
+count: 0x87
+Title: kayaking
+Entry Count: 0xb
+make: cababacccba
+model: abcacbcb
+touring: true
+surfing: false
+tricking: true
+initial stability: 0xeb
+years experience: 0xa0
+highest class: 0x56
+style: ccac
+injury: true
+length: 0xd4
+Title: kayaking
+Entry Count: 0x4
+make: caabacbaabcccc
+model: abaaccbbcaabaacbac
+surfing: true
+injury: false
+good book.

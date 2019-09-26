@@ -1,0 +1,43 @@
+employee_id-16`employee_name-Jonathan Archer`wage-71.72`exempt-yes`
+employee_id-20`employee_name-T'Pol`wage-75.91`
+employee_id-34`employee_name-Travis Mayweather`wage-24.33`
+employee_id-37`employee_name-John Paxton`wage-13.24`exempt-yes`
+employee_id-16`week-0`monday-7h55m`tuesday-14h37m`wednesday-10h32m`friday-7h58m`saturday-7h10m`
+employee_id-16`week-12`monday-6h13m`tuesday-7h39m`wednesday-23h12m`thursday-7h47m`friday-14h12m`
+employee_id-16`week-16`monday-0h6m`tuesday-11h16m`wednesday-22h1m`thursday-19h0m`friday-11h20m`
+employee_id-16`week-17`monday-8h57m`tuesday-24h17m`wednesday-25h44m`thursday-12h6m`friday-5h22m`saturday-19h54m`
+employee_id-16`week-20`monday-13h54m`tuesday-16h8m`wednesday-22h14m`thursday-20h22m`friday-5h30m`sunday-16h44m`
+employee_id-16`week-31`monday-13h31m`tuesday-25h32m`wednesday-15h6m`thursday-6h24m`friday-19h1m`
+employee_id-16`week-32`monday-4h13m`tuesday-22h57m`wednesday-17h58m`thursday-11h15m`
+employee_id-20`week-0`monday-13h16m`tuesday-21h39m`wednesday-19h38m`thursday-17h60m`friday-9h42m`
+employee_id-20`week-12`tuesday-24h16m`wednesday-4h24m`thursday-6h8m`friday-19h13m`
+employee_id-20`week-16`monday-23h57m`tuesday-17h34m`thursday-20h38m`friday-13h11m`
+employee_id-20`week-17`monday-8h53m`tuesday-2h34m`wednesday-16h51m`thursday-21h26m`friday-8h5m`
+employee_id-20`week-20`monday-12h26m`tuesday-22h4m`wednesday-5h28m`thursday-24h61m`friday-10h4m`
+employee_id-20`week-31`monday-13h47m`tuesday-10h29m`wednesday-24h23m`thursday-18h34m`friday-22h41m`
+employee_id-20`week-32`monday-10h31m`wednesday-9h30m`thursday-3h22m`friday-7h22m`
+employee_id-34`week-0`monday-11h10m`tuesday-7h22m`wednesday-16h27m`thursday-25h21m`friday-25h15m`saturday-25h3m`
+employee_id-34`week-12`tuesday-5h19m`wednesday-20h45m`thursday-2h55m`friday-0h28m`
+employee_id-34`week-16`monday-23h40m`wednesday-11h0m`thursday-0h53m`friday-3h59m`
+employee_id-34`week-17`monday-17h33m`tuesday-15h42m`wednesday-0h48m`thursday-14h55m`friday-7h57m`
+employee_id-34`week-20`monday-8h7m`tuesday-12h58m`wednesday-6h56m`thursday-17h4m`friday-9h13m`
+employee_id-34`week-31`monday-12h2m`tuesday-18h55m`friday-21h36m`saturday-2h15m`
+employee_id-34`week-32`monday-16h21m`tuesday-14h35m`wednesday-17h42m`thursday-7h19m`friday-16h24m`sunday-2h4m`
+employee_id-37`week-0`monday-15h26m`wednesday-0h59m`thursday-14h51m`friday-17h60m`
+employee_id-37`week-12`monday-15h39m`tuesday-8h49m`wednesday-8h38m`thursday-5h34m`friday-23h21m`
+employee_id-37`week-16`monday-1h40m`monday-24h15m`tuesday-9h25m`wednesday-18h20m`thursday-25h33m`friday-14h3m`
+employee_id-37`week-17`monday-3h7m`tuesday-11h30m`wednesday-1h49m`thursday-22h10m`friday-9h14m`saturday-12h15m`sunday-21h45m`
+employee_id-37`week-20`monday-25h2m`wednesday-16h54m`friday-6h49m`friday-24h49m`
+employee_id-37`week-31`monday-14h45m`tuesday-13h7m`wednesday-23h28m`thursday-18h38m`friday-23h14m`
+employee_id-37`week-32`monday-15h47m`tuesday-24h18m`wednesday-16h5m`thursday-4h0m`friday-6h23m`
+query-all`
+query-week`employee_id-20`week-20`
+query-week`employee_id-20`week-21`
+query-week`employee_id-20`week-22`
+query-week`employee_id-20`week-24`
+query-week`employee_id-20`week-25`
+query-week`employee_id-20`week-48`
+query-week_all`week-49`
+query-week`employee_id-20`week-50`
+query-all`
+query-all`

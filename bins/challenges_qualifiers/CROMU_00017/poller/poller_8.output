@@ -1,0 +1,22 @@
+Enter some data
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+find volume of rectangular prism with a base of 896, side of 1176, and height of 56
+you got it
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Enter an equation that has 4 sets of parenthesis
+It must evaluate to 8156 and contain the - operator
+and must use the numbers: 194 156 73 and 225
+string is formatted correct
+((((194-156+73+225))))+7820 does resolve to 8156, 

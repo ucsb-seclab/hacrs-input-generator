@@ -1,0 +1,94 @@
+SOM marker found
+SAP1 marker found
+sizeof section is 312
+Intel formatted integers
+TagMark = 2A
+Offset = 8
+# of compatility arrays: 8
+Tag: 12D (TransferFunction)
+Type: 3 (SHORT)
+Count: 0
+Value: 0
+Tag: 117 (StripByteCounts)
+Type: 5 (RATIONAL)
+Count: 1
+Value: 0
+Tag: 13E (WhitePoint)
+Type: 5 (RATIONAL)
+Count: 2
+Value: 0
+Tag: 11A (XResolution)
+Type: 3 (SHORT)
+Count: 3
+Value: 0
+Tag: 211 (YCbCrCoefficients)
+Type: 4 (LONG)
+Count: 4
+Value: 0
+Tag: 102 (BitsPerSample)
+Type: 7 (UNDEFINED)
+Count: 5
+Value: 0
+Tag: 8769 (EXIF IFD Pointer)
+Type: 7 (UNDEFINED)
+Count: 6
+Value: 106
+# of arrays: 4
+Tag: 9004 (DateTimeDigitized)
+Type: 2 (ASCII)
+Count: 0
+Value: 6K5E1jvYjsMI
+Tag: 9291 (SubSecTimeOriginal)
+Type: 3 (SHORT)
+Count: 1
+Value: 2
+Tag: A002 (PixelXDimension)
+Type: 2 (ASCII)
+Count: 2
+Value: OmQiSvTo
+Tag: A002 (PixelXDimension)
+Type: 7 (UNDEFINED)
+Count: 3
+Value: 6
+Tag: 8825 (GPS Info)
+Type: 7 (UNDEFINED)
+Count: 7
+Value: 196
+# of arrays: 9
+Tag: 1E (GPSDifferential)
+Type: 2 (ASCII)
+Count: 0
+Value: 0
+Tag: 1A (GPSDestDistance)
+Type: 7 (UNDEFINED)
+Count: 1
+Value: 2
+Tag: 1B (GPSProcessingMethod)
+Type: 1 (BYTE)
+Count: 2
+Value: 4
+Tag: 1B (GPSProcessingMethod)
+Type: A (SRATIONAL)
+Count: 3
+Value: 6
+Tag: 1D (GPSDateStamp)
+Type: 4 (LONG)
+Count: 4
+Value: 8
+Tag: 13 (GPSDestLatitudeRef)
+Type: A (SRATIONAL)
+Count: 5
+Value: 10
+Tag: 15 (GPSDestLongitudeRef)
+Type: 4 (LONG)
+Count: 6
+Value: 12
+Tag: 1B (GPSProcessingMethod)
+Type: 7 (UNDEFINED)
+Count: 7
+Value: 14
+Tag: 19 (GPSDestDistanceRef)
+Type: 1 (BYTE)
+Count: 8
+Value: 16
+Finished processing

@@ -1,0 +1,221 @@
+Password: Welcome to Hangman Blondie!
+Choose your word seed. Please send 4 bytes
+
+   ---
+   | |
+     |
+     |
+     |
+     |
+ -----
+ |   |
+
+used:      ""
+available: "abcdefghijklmnopqrstuvwxyz"
+
+current: ____
+
+Your guess: 
+Haha, Tuco is feeling that rope a little more!
+
+   ---
+   | |
+   O |
+     |
+     |
+     |
+ -----
+ |   |
+
+used:      "z"
+available: "abcdefghijklmnopqrstuvwxy"
+
+current: ____
+
+Your guess: 
+Haha, Tuco is feeling that rope a little more!
+
+   ---
+   | |
+   O |
+   | |
+     |
+     |
+ -----
+ |   |
+
+used:      "zy"
+available: "abcdefghijklmnopqrstuvwx"
+
+current: ____
+
+Your guess: 
+Haha, Tuco is feeling that rope a little more!
+
+   ---
+   | |
+   O |
+  /| |
+     |
+     |
+ -----
+ |   |
+
+used:      "zyx"
+available: "abcdefghijklmnopqrstuvw"
+
+current: ____
+
+Your guess: 
+Miraculously, you have manage to prolong Tuco's life.
+
+   ---
+   | |
+   O |
+  /| |
+     |
+     |
+ -----
+ |   |
+
+used:      "zyxw"
+available: "abcdefghijklmnopqrstuv"
+
+current: __w_
+
+Your guess: 
+Haha, Tuco is feeling that rope a little more!
+
+   ---
+   | |
+   O |
+  /|\|
+     |
+     |
+ -----
+ |   |
+
+used:      "zyxwv"
+available: "abcdefghijklmnopqrstu"
+
+current: __w_
+
+Your guess: 
+Haha, Tuco is feeling that rope a little more!
+
+   ---
+   | |
+   O |
+  /|\|
+   | |
+     |
+ -----
+ |   |
+
+used:      "zyxwvq"
+available: "abcdefghijklmnoprstu"
+
+current: __w_
+
+Your guess: 
+Haha, Tuco is feeling that rope a little more!
+
+   ---
+   | |
+   O |
+  /|\|
+   | |
+  /  |
+ -----
+ |   |
+
+used:      "zyxwvqk"
+available: "abcdefghijlmnoprstu"
+
+current: __w_
+
+Your guess: 
+   ---
+   | |
+   O |
+  /|\|
+   | |
+  / \|
+ -----
+ |   |
+
+
+Blondie, you missed, Tuco has been hanged.
+The correct word is: maws.
+Play again (y/n)? Choose your word seed. Please send 4 bytes
+
+   ---
+   | |
+     |
+     |
+     |
+     |
+ -----
+ |   |
+
+used:      ""
+available: "abcdefghijklmnopqrstuvwxyz"
+
+current: ____
+
+Your guess: 
+Miraculously, you have manage to prolong Tuco's life.
+
+   ---
+   | |
+     |
+     |
+     |
+     |
+ -----
+ |   |
+
+used:      "m"
+available: "abcdefghijklnopqrstuvwxyz"
+
+current: m___
+
+Your guess: 
+Miraculously, you have manage to prolong Tuco's life.
+
+   ---
+   | |
+     |
+     |
+     |
+     |
+ -----
+ |   |
+
+used:      "ma"
+available: "bcdefghijklnopqrstuvwxyz"
+
+current: ma__
+
+Your guess: 
+Miraculously, you have manage to prolong Tuco's life.
+
+   ---
+   | |
+     |
+     |
+     |
+     |
+ -----
+ |   |
+
+used:      "maw"
+available: "bcdefghijklnopqrstuvxyz"
+
+current: maw_
+
+Your guess: 
+Nice shot Blondie, you freed Tuco.
+The correct word is: maws.
+Congratulations blondie, add yourself to the high score list
+What is your name? New member of the HOF: :?tf-P*=N9hW9mf byJD wFo5S1G4B([¯ªºs]xDzv`@nnLZ

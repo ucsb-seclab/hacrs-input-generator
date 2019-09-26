@@ -1,0 +1,27 @@
+crs@CB>   
+No passwd entry for user 'YlJNG'
+crs@CB>         
+uid=crs gid=crs
+crs@CB> [0G[Kcrs@CB> idhR[1D[0G[Kcrs@CB> idhR[2D  
+uid=crs gid=crs
+crs@CB>         
+uid=crs gid=crs
+crs@CB> [0G[Kcrs@CB> idM1[1D[0G[Kcrs@CB> idM1[2D  
+uid=crs gid=crs
+crs@CB>   
+Directory listing
+Filename                         Owner                            Group                             Size
+passwd                           root                             root                                78
+confidential                     secure                           secure                               4
+crs@CB>   
+uid=crs gid=crs
+crs@CB>   
+Yio7
+crs@CB> [0G[Kcrs@CB> print Yio7[0G[Kcrs@CB> id  
+uid=crs gid=crs
+crs@CB> [0G[Kcrs@CB> id[0G[Kcrs@CB>   
+crs@CB>   
+Password:   
+Authentication failure
+crs@CB>   
+

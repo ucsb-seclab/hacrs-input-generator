@@ -1,0 +1,53 @@
+Enter a number greater than 0: 
+
+*************************
+*Welcome to Game Sultan!*
+*************************
+
+Game Sultan: Main Menu
+1. Square Rabbit
+2. Quit
+
+Select:-@ ******************
+* Square Rabbit! *
+******************
+Total Money: $100000
+
+Type QUIT to exit to main menu
+Place Bet (100, 200, 500, 1000): Dealer: |8|?|
+----------------
+Player: |10|7|    Score: 17
+Select (H/S/D): 
+Dealer: |8|10|    Score: 18
+-------------------------------
+Player: |10|7|    Score: 17
+  Dealer Wins.
+Total Money: $99800
+
+Type QUIT to exit to main menu
+Place Bet (1
+Player: |R|6|    Score: 16
+Select (H/S/D): 
+Dealer: |R|?|
+----------------
+Player: |R|6|3|    Score: 19
+Select (H/S): 
+Dealer: |R|LDealer: |L|?|
+----------------
+Player: |4|10|4|    Score: 18
+Select (H/S): 
+Dealer: |L|2|D|B|    Score: 23
+-------------------------------
+Player: |4|10|4|    Score: 18
+  Winner!
+Total Money: $99800
+
+Type QUIT to exit to main menu
+Place Bet (100, 200, 500, 1000): DScore: 20
+-------------------------------
+Player: |2|4|D|    Score: 17
+  Dealer Wins.
+Total Money: $99000
+
+Type QUIT to exit to main menu
+Place Bet (100, 200, 500, 1000): Game

@@ -1,0 +1,106 @@
+1. Register New Player
+2. Exit
+> Flair 1 = Terminator
+Flair 2 = 2001
+Flair 3 = Collosus
+Enter player information: [name,flair]
+
+Welcome to WarGames, PovPlayer. It's just you vs. me
+---PovPlayer's stats---
+Current Score: 0
+Number of Three in a row draws: 0
+Number of Three in a row wins: 0
+Number of Hammer, Sheet, Sheers wins: 0
+Number of Guess my number wins: 0
+
+Choose a game to play:
+--Easy--
+1. Hammer, Sheet, Sheers
+--Medium--
+2. Guess my number
+--Impossible--
+3. Three in a row
+4. Give up
+
+Shall we play a game?
+Game # See you next time, PovPlayer
+1. Register New Player
+2. Exit
+> Flair 1 = Terminator
+Flair 2 = 2001
+Flair 3 = Collosus
+Enter player information: [name,flair]
+
+Welcome to WarGames, 123456789012345678901234ð†. It's just you vs. me
+---123456789012345678901234ð†'s stats---
+Current Score: 0
+Number of Three in a row draws: 0
+Number of Three in a row wins: 0
+Number of Hammer, Sheet, Sheers wins: 0
+Number of Guess my number wins: 0
+
+Choose a game to play:
+--Easy--
+1. Hammer, Sheet, Sheers
+--Medium--
+2. Guess my number
+--Impossible--
+3. Three in a row
+4. Give up
+
+Shall we play a game?
+Game # Enter max value (Default=65535): We've changed the max value to -1.
+Keep in mind only the games using the default max value are scored.
+Guess the number [33 guesses left]: Too High
+Guess the number [32 guesses left]: Too Low
+Guess the number [31 guesses left]: Too High
+Guess the number [30 guesses left]: Too High
+Guess the number [29 guesses left]: Too High
+Guess the number [28 guesses left]: Too Low
+Guess the number [27 guesses left]: Too High
+Guess the number [26 guesses left]: Too High
+Guess the number [25 guesses left]: Too High
+Guess the number [24 guesses left]: Too Low
+Guess the number [23 guesses left]: Too High
+Guess the number [22 guesses left]: Too Low
+Guess the number [21 guesses left]: Too Low
+Guess the number [20 guesses left]: Too High
+Guess the number [19 guesses left]: Too Low
+Guess the number [18 guesses left]: Too High
+Guess the number [17 guesses left]: Too Low
+Guess the number [16 guesses left]: Too Low
+Guess the number [15 guesses left]: Too High
+Guess the number [14 guesses left]: Too High
+Guess the number [13 guesses left]: Too Low
+Guess the number [12 guesses left]: Too High
+Guess the number [11 guesses left]: Too Low
+Guess the number [10 guesses left]: Too High
+Guess the number [9 guesses left]: Too High
+Guess the number [8 guesses left]: Too High
+Guess the number [7 guesses left]: Too Low
+Guess the number [6 guesses left]: Too High
+Guess the number [5 guesses left]: Too Low
+Guess the number [4 guesses left]: Too High
+Guess the number [3 guesses left]: Too Low
+Guess the number [2 guesses left]: You won!
+---123456789012345678901234ð†'s stats---
+Current Score: 0
+Number of Three in a row draws: 0
+Number of Three in a row wins: 0
+Number of Hammer, Sheet, Sheers wins: 0
+Number of Guess my number wins: 0
+
+Choose a game to play:
+--Easy--
+1. Hammer, Sheet, Sheers
+--Medium--
+2. Guess my number
+--Impossible--
+3. Three in a row
+4. Give up
+
+Shall we play a game?
+Game # See you next time, 123456789012345678901234ð†
+1. Register New Player
+2. Exit
+> Exited

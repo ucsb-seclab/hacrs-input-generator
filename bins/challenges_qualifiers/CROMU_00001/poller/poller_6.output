@@ -1,0 +1,139 @@
+1) Create User
+2) Login
+3) Exit
+: [-] Invalid choice
+1) Create User
+2) Login
+3) Exit
+: username: 1) Create User
+2) Login
+3) Exit
+: username: [-] Error user exists
+1) Create User
+2) Login
+3) Exit
+: username: 1) Create User
+2) Login
+3) Exit
+: username: Login Failed
+1) Create User
+2) Login
+3) Exit
+: username: Login Success
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: [-] Invalid choice
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: To: Message: 1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: To: Message: 1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: Logging out...
+1) Create User
+2) Login
+3) Exit
+: username: Login Success
+Unread messages:
+***********************************
+1:  Hello User Two
+***********************************
+***********************************
+2:  Another Message To You
+***********************************
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: ID: [-] Message ID out of range
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: ID: ***********************************
+1:  Hello User Two
+***********************************
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: ***********************************
+1:  Hello User Two
+***********************************
+***********************************
+2:  Another Message To You
+***********************************
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: ID: [-] Message ID out of range
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: ID: 1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: ***********************************
+2:  Another Message To You
+***********************************
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: ID: 1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: ID: [-] Message ID not found
+1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: 1) Send Message
+2) Read Message
+3) List Messages
+4) Delete Message
+5) Logout
+6) Exit
+: Logging out...
+1) Create User
+2) Login
+3) Exit
+: Exiting...

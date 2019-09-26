@@ -1,0 +1,58 @@
+
+ _______  _______  _______ _________ _______  _______  _______  _______
+(  ____ \(  ___  )(  ____ )\__   __/(  ____ )(  ____ \(  ____ \(  ____ \
+| (    \/| (   ) || (    )|   ) (   | (    )|| (    \/| (    \/| (    \/
+| (__    | |   | || (____)|   | |   | (____)|| (__    | (_____ | (_____
+|  __)   | |   | ||     __)   | |   |     __)|  __)   (_____  )(_____  )
+| (      | |   | || (\ (      | |   | (\ (   | (            ) |      ) |
+| )      | (___) || ) \ \__   | |   | ) \ \__| (____/\/\____) |/\____) |
+|/       (_______)|/   \__/   )_(   |/   \__/(_______/\_______)\_______)
+                                                                  v0.1 B
+
+
+Day-001 => [0 mission] | [0 explorer] | [50 supply]
+-----------------------------------------------------
+0. Next day!
+1. Missions
+2. Explorers
+3. Give up
+
+]]] Explorers [[[
+1. Hire explorer
+2. View current explorers
+3. Remove explorer
+4. Learn skills
+5. Back
+
+... Removable explorers ...
+No explorers :(
+
+]]] Explorers [[[
+1. Hire explorer
+2. View current explorers
+3. Remove explorer
+4. Learn skills
+5. Back
+
+Day-001 => [0 mission] | [0 explorer] | [50 supply]
+-----------------------------------------------------
+0. Next day!
+1. Missions
+2. Explorers
+3. Give up
+
+]]] Missions [[[
+1. Send mission (1 available)
+2. View current missions
+3. Back
+
+... Available missions ...
+0. Cyclone [LVL 1] [GRP 1] [DUR 5] [COST 5] <NAVAL,RESCUE>
+   ==> +5 supply, +100 experience
+
+No explorers available.
+
+]]] Missions [[[
+1. Send mission (1 available)
+2. View current missions
+3. Back

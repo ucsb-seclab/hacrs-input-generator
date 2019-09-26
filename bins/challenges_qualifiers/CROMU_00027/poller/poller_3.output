@@ -1,0 +1,26 @@
+AML examples
+ERROR: Tree not found: JTvpaVvvZR
+INTERACT
+
+value0value1value2value3value4value5value6value7value8value9
+
+value0value1value2value3value4value5value6value7value8value9
+
+value0value1value2value3value4value5value6value7value8value9
+.
+    Hello
+        Name
+    Server
+        Commands
+            REQUEST
+            QUERY
+            SEND
+            REMOVE
+            VISUALIZE
+            INTERACT
+    AML
+        Commands
+        Literals
+    leset
+            ManyVariables
+            Box

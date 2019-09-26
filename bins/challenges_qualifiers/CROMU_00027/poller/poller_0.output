@@ -1,0 +1,27 @@
+AML examples
+SUCCESS: Page uploaded to server
+
+value0value1value2value3value4value5value6value7value8value9
+Variableset
+.
+    Hello
+        Name
+    Server
+        Commands
+            REQUEST
+            QUERY
+            SEND
+            REMOVE
+            VISUALIZE
+            INTERACT
+            REMOVE_new
+    AML
+        Commands
+        Literals
+        Variables
+        Scripts
+        Examples
+            Line
+            Variableset
+            ManyVariables
+            Box

@@ -1,0 +1,29 @@
+> BAD ARGUMENTS
+> ROUTE NOT FOUND
+> BAD ARGUMENTS
+> BAD ARGUMENTS
+> $ AS 17490
+ Name: 
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? New IP? $ > > > > > BAD PASSWORD
+> > > > $ AS 45082
+ Name: 
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? New IP? $ AS 15706
+ Name: 
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? New IP? $ AS 47180
+ Name: 
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? New IP? $ AS 33659
+ Name: 
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? New IP? $ AS 27445
+ Name: 
+ IP: 0.0.0.0
+Modify name? New name? Modify IP? New IP? $ > BAD PASSWORD
+> Next hop for 145.16.52.71 is 213.231.50.213, AS 17490 (t6vvcT6ocgysEHOmV8r9rgJ4sT48oNJY67ikLnz4j1NqJIlztdK0khuntJs3qBP0Vhg1a76rjhpcDkdl8JAdQ9tuCIi04hvxS5by)
+> > Next hop for 176.158.32.88 is 213.231.50.213, AS 17490 (t6vvcT6ocgysEHOmV8r9rgJ4sT48oNJY67ikLnz4j1NqJIlztdK0khuntJs3qBP0Vhg1a76rjhpcDkdl8JAdQ9tuCIi04hvxS5by)
+> BAD ARGUMENTS
+> > > > > > > Next hop for 93.49.13.163 is 157.104.58.172, AS 27445 (vkUvLGDTHjCd6bBAEbzdNsa9KEW7dHjrJyP3aFSsSPymYRTtB4LAVWFLuYLr6GFu3v2EgkFauz0QNeA8IjrmzDmN2azhIvRHCCBK)
+> > > > > > > Next hop for 116.158

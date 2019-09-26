@@ -1,0 +1,21 @@
+Welcome to the diary logger!
+Length: 277
+Magic number: 0x4242
+Future: 0x26d9
+Offset: 0x8
+Title: books
+Entry Count: 0x6
+author: cca
+made into a movie: true
+year: 0x52
+publisher: bcccaabcababccac
+character: caaabcababcbbbc
+summary: aacbbbbababa
+Title: jobs
+Entry Count: 0x4
+title: ccacaabccbbcabbab
+company: bacbbbbabcbbcb
+salary: 0x4932d474
+title: bbabbbcabcaabbabacc
+Title: vehicles
+Entry C

@@ -1,0 +1,107 @@
+This is Mapper.
+choice:
+Road Name:
+Road Length:
+Invalid Road.
+choice:
+Road Name:
+Road Length:
+Invalid Road.
+choice:
+Road Name:
+Road Length:
+choice:
+Road Name:
+Road Length:
+Invalid Road.
+choice:
+Road Name:
+Road Length:
+choice:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Prev intersection on road 1.
+This road has no intersections to choose.
+Prev intersection on road 2.
+This road has no intersections to choose.
+choice:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Invalid intersection.
+choice:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Invalid intersection.
+choice:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Invalid intersection.
+choice:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Invalid intersection.
+choice:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Invalid intersection.
+choice:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+1-2:
+Invalid intersection.
+choice:
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choicSelect intersection by (N)umber, (L)ist, or set to N(O)TDEFINED.
+choice:
+1-2:
+Distance to intersection: 
+Select intersection by (N)umber, (L)ist, or set to N(O)TDEFINED.
+choice:
+1-2:
+Distance to intersection: 
+chchoice:
+Street Number: 
+Resident: 
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choic1-2:
+Invalid number.
+Select intersection by (N)umber, (L)ist, or set to N(O)TDEFINED.
+choice:
+choice:
+from address 
+Select Road by (N)umber, or (L)ist or (0)Exit.
+choice:
+11-2:
+Select address (N)umber (L)ist or (0)Exit: 
+1-7:
+Address is on the same road.
+choice:
+Road Name:
+Road 

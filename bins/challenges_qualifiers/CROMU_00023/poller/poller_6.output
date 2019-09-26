@@ -1,0 +1,65 @@
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+Dive Site: Date (11/28/2014): Time (21:08:58): Location (area/city): Max Depth in ft (109): Avg Depth in ft (60): Dive Duration (mins) (8): O2 Percentage: Pressure In (psi): Pressure Out (psi): 
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+Dive# Date       Time     Dive Site                 Location                 
+   1: 11/28/2014 21:08:58 ibgfchbkmb                oifejibohf               
+
+Enter Dive # to display: 
+          Date: 11/28/2014
+          Time: 21:08:58
+     Dive Site: ibgfchbkmb
+      Location: oifejibohf
+     Max Depth: 109
+     Avg Depth: 60
+      Duration: 8
+    O2 Percent: 40
+Start Pressure: 3006
+  End Pressure: 872
+     Bin Count: 9
+
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+Dive# Date       Time     Dive Site                 Location                 
+   1: 11/28/2014 21:08:58 ibgfchbkmb                oifejibohf               
+
+Enter Dive # to edit: Invalid die: Last Name: Street: City: State: ZipPADI Diver Number: PADI Cert Date: 
+     Nam
+First Name (jgcdmmnafgeacj): Last Name (cbgj): Street (celjkombebbak): City (iopdnbnljonfil): State (og): Zip Code (51560717): Phone Number (7: 
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+Dive# Date  

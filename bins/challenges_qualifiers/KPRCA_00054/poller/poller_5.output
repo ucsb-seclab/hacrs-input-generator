@@ -1,0 +1,24 @@
+$ Unknown command [PHdMi]
+$ No such directory
+$ $ $ ..:
+3 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+<FILE> C 0 AWmkeKvScIlgjImYVJMl
+
+AWmkeKvScIlgjImYVJMl:
+<FILE> C 0 AWmkeKvScIlgjImYVJMl
+
+AWmkeKvScIlgjImYVJMl:
+<FILE> C 0 AWmkeKvScIlgjImYVJMl
+$ Invalid fileno
+$ quit
+ - Quits the program.
+$ Invalid fileno
+$ $ 2 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+$ 2 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+$ 

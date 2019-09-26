@@ -1,0 +1,240 @@
+University Course Scheduler
+
+Enter name: Select a major
+List Departments?
+1 - Yes
+2 - No
+Choice: Enter your Major's Department Name: Congratulations. You're read to start adding classes
+Main Menu
+1 - Search Classes
+2 - Add Class
+3 - Remove Class
+4 - Print Schedule
+5 - Exit
+Choice: Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: List Profese|Professor|Credits|Enrolled|Max50|Laveta Pea|CR:3|CE:18|MC:15|MW|15:00|16:20|Introduction to Communication
+#3|655217|COM 150|Laveta Pea|CR:3|CE:16|MC:15|MW|11:00|12:20|Introduction to Communication
+#4|655217|COM 150|Lashaun Pasha|CR:3|CE:15|MC:15|TR|14:00|15:20|Introduction to Communication
+#5|317140|COM 235|Tomas Jiang|CR:1|CE:10|MC:15|T|16:30|18:20|Intergroup Dialogue
+#6|317140|COM 235|Laveta Pea|CR:1|CE:13|MC:15|W|16:30|18:20|Intergroup Dialogue
+#7|317140|COM 235|Lashaun Pasha|CR:1|CE:6|MC:15|W|16:30|18:20|Intergroup Dialogue
+#8|823272|COM 270|Nellie Borja|CR:3|CE:9|MC:15|MWF|09:00|09:50|Parliamentary Procedure
+#9|658478|COM 280|Laura Scannell|CR:3|CE:16|MC:16|TR|11:00|12:20|Group Communication
+#10|658478|COM 280|Laura Scannell|CR:3|CE:16|MC:16|TR|11:00|12:20|Group Communication
+#11|433535|COM 290|Lashaun Pasha|CR:3|CE:12|MC:15|TR|09:30|10:50|Public Presentations
+#12|433535|COM 290|Lashaun Pasha|CR:3|CE:14|MC:15|TR|14:00|15:20|Public Presentations
+#13|433535|COM 290|Nellie Borja|CR:3|CE:14|MC:15|TR|17:00|18:20|Public Presentations
+#14|433535|COM 290|Nellie Borja|CR:3|CE:14|MC:15|TR|17:00|18:20|Public Presentations
+#15|454102|COM 320|Kami Hansen|CR:1|CE:21|MC:15|W|14:00|15:20|Internship Seminar
+#16|454102|COM 320|Katharyn Armbruster|CR:1|CE:21|MC:15|W|14:00|15:20|Internship Seminar
+#17|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#18|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#19|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#20|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#21|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#22|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#23|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#24|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#25|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#26|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#27|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:20|H|00:00|00:00|Internship
+#28|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#29|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#30|415991|COM 321|Katharyn Armbruster|CR:1|CE:1|MC:1|H|00:00|00:00|Internship
+#31|178562|COM 330|Laveta Pea|CR:3|CE:15|MC:15|MW|12:30|13:50|Interpersonal & Group Conflict
+#32|169242|COM 340|Katharyn Armbruster|CR:3|CE:16|MC:15|MWF|09:00|09:50|Business & Prof Communication
+#33|169242|COM 340|Katharyn Armbruster|CR:3|CE:17|MC:15|MWF|09:00|09:50|Business & Prof Communication
+#34|257698|COM 350|Mireille Jain|CR:3|CE:9|MC:15|MW|13:00|14:50|Intro to Mass Communication
+#35|257698|COM 350|Mireille Jain|CR:3|CE:15|MC:15|TR|09:30|10:50|Intro to Mass Communication
+#36|159350|COM 380|Lashaun Pasha|CR:3|CE:11|MC:15|H|00:00|00:00|Theories of Human Com.
+#37|159350|COM 380|Laveta Pea|CR:3|CE:15|MC:15|MW|10:00|11:20|Theories of Human Com.
+#38|714023|COM 390|Lovie Lubin|CR:3|CE:17|MC:15|TR|15:30|16:50|Communication Accessibility
+#39|438456|COM 410|Coretta Himes|CR:3|CE:12|MC:15|TR|14:00|15:20|Advanced Public Presentations
+#40|227514|COM 420|Coretta Himes|CR:3|CE:18|MC:15|TR|09:30|10:50|Nonverbal Communication
+#41|709133|COM 430|Lashaun Pasha|CR:3|CE:12|MC:15|TR|14:00|15:20|Gender and Communication
+#42|605399|COM 440|Lashaun Pasha|CR:3|CE:16|MC:15|TR|11:00|12:20|Intercultural Communication
+#43|605399|COM 440|Laveta Pea|CR:3|CE:17|MC:15|MW|12:30|13:50|Intercultural Communication
+#44|810064|COM 470|Coretta Himes|CR:3|CE:18|MC:15|TR|11:00|12:20|Family Communication
+#45|810064|COM 470|Coretta Himes|CR:3|CE:16|MC:15|TR|09:30|10:50|Family Communication
+#46|844399|COM 495|Edwardo Pokorny|CR:1|CE:10|MC:15|H|00:00|00:00|Special Topics
+#47|844399|COM 495|Edwardo Pokorny|CR:1|CE:12|MC:15|H|00:00|00:00|Special Topics
+#48|844399|COM 495|Nova Christon|CR:1|CE:10|MC:15|W|17:00|19:50|Special Topics
+#49|844399|COM 495|Laveta Pea|CR:1|CE:1|Lashaun Pasha|CR:1|CE:5|MC:18|T|1:50|Special Topics
+#51|323155|COM 499|Coretta Himes|CR:1|CE:1|MC:1|H|00:00|00:00|Independent Study
+ Himes|CR:1|CE:1|MC:1|H|00:00|00:rning to main menu
+Main Menu
+1 - Stle
+#1|296902|PER 345|Jannie Pastor|CR:3|CE:11|MC:15|MW|11:00|12:20|Care & Prevent Athletic Injuri
+#2|296902|PER 345|Jannie Pastor|CR:3|CE:10|MC:12|MW|11:00|12:20|Care & Prevent Athletic Injuri
+Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: List Professors?
+1 - Yes
+2 - No
+Choice: Enter professor's full name: --Audra SpraIDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|648886|ASL 211|Jordon Fiorillo|CR:4|CE:14|MC:12|MWF|09:00|10:50|American Sign Language 3 & 4
+#2|648886|ASL 211|Jordon Fiorillo|CR:4|CE:12|MC:14|MWF|13:00|14:50|American Sign Language 3 & 4
+#3|648886|ASL 211|Jordon Fiorillo|CR:4|CE:7|MC:14|MWF|15:00|16:50|American Sign Language 3 & 4
+#4|309816|GSR 104|Jordon Fiorillo|CR:3|CE:15|MC:15|MW|12:30|13:50|Quantitative Reasoning Apprch
+#5|309816|GSR 104|Jordon Fiorillo|CR:3|CE:16|MC:18|MW|11:00|12:20|Quantitative Reasoning Apprch
+#6|309816|GSR 104|Jordon Fiorillo|CR:3|CE:18|MC:19|TR|08:00|09:20|Quantitative Reasoning Apprch
+#7|124427|HSL 883|Jordon Fiorillo|CR:1|CE:1|MC:10|H|00:00|00:00|Research Project in Audiology
+#8|124427|HSL 883|Jordon Fiorillo|CR:1|CE:1|MC:15|F|13:00|13:50|Research Project in Audiology
+#9|797443|HSL 895|Jordon Fiorillo|CR:1|CE:2|MC:10|H|00:00|00:00|Special Topics
+#10|797443|HSL 895|Jordon Fiorillo|CR:1|CE:2|MC:10|H|00:00|00:00|Special Topics
+#11|266323|HSL 899|Jordon Fiorillo|CR:1|CE:1|MC:1|H|00:00|00:00|Independent Study
+#12|955660|HSL 900|Jordon Fiorillo|CR:1|CE:2|MC:10|H|00:00|00:00|Dissertation
+#13|955660|HSL 900|Jordon Fiorillo|CR:1|CE:3|MC:15|H|00:00|00:00|Dissertation
+#14|381695|MAT 40|Jordon Fiorillo|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#15|381695|MAT 40|Jordon Fiorillo|CR:4|CE:18|MC:18|MWF|13:00|14:10|Pre-College Mathematics
+#16|233252|MPA 713|Jordon Fiorillo|CR:3|CE:7|MC:18|T|17:00|19:50|Budgeting Public Sector/NonPro
+#17|567469|MPA 794|Jordon Fiorillo|CR:3|CE:3|MC:18|M|17:00|19:50|Successful Grant Writes--
+IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|
+1 - Yes
+2 - No
+Choice:rtment name: --Department Availability--
+IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|0|Jeane Guyer|CR:3|CE:7|MC:15|TR|11:00|12:20|The Latino Presence in the US
+#2|899591|WLC 395|Corey Teets|CR:1|CE:9|MC:15|W|18:00|20:00|Special Topics
+#3|899591|WLC 395|Joy Greenley|CR:1|CE:9|MC:15|W|18:00|20:00|Special Topics
+#4|899591|WLC 395|Joy Greenley|CR:1|CE:9|MC:15|W|18:00|20:00|Special Topics
+#5|899591|WLC 395|Joy Greenley|CR:1|CE:9|MC:15|W|18:00|20:00|Special Topics
+#6|899591|WLC 395|Joy Greenley|CR:1|CE:9|MC:15|W|18:00|20:00|Special Topics
+#7|899591|WLC 395|Joy Greenley|CR:1|CE:9|MC:15|W|18:00|20:00|Special Topics
+#8|899591|WLC 395|Joy Greenley|CR:1|CE:9|MC:15|W|18:00|20:00|Special Topics
+#9|899591|WLC 395|Joy Greenley|CR:1|CE:9|MC:15|W|18:00|20:00|Special Topics
+#10|899591|WLC 395|Quincy Modlin|CR:1|CE:9|MC:15|W|18:00|20:00|Special Topics
+Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: EnReturning to main menu
+Main Menu
+1 - Search Classes
+2 - Add Class
+3 - Remove Class
+4 - Print Schedule
+5 - Exit
+Choice: Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: List Departments?
+1 - Yes
+2 - No
+Choice: ECID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|305213|PER 110|Keshia Creswell|CR:3|CE:13|MC:15|MW|11:00|12:20|Wellness
+#2|305213|PER 110|Tawna Bradstreet|CR:3|CE:15|MC:15|MW|11:00|12:20|Wellness
+#3|305213|PER 110|Winfred Rowse|CR:3|CE:14|MC:15|TR|11:00|12:20|Wellness
+#4|305213|PER 110|Winfred Rowse|CR:3|CE:12|MC:12|MW|14:00|15:20|Wellness
+#5|930283|PER 120|Winfred Rowse|CR:3|CE:15|MC:15|TR|08:00|09:20|Fndtns of PE and Recreation
+#6|930283|PER 120|Todd Holsinger|CR:3|CE:16|MC:16|MW|08:30|09:50|Fndtns of PE and Recreation
+#7|8410|PER 200|Tawna Bradstreet|CR:3|CE:17|MC:15|MW|13:00|14:20|Leading Phys & Rec Activities
+#8|8410|PER 200|Tawna Bradstreet|CR:3|CE:18|MC:12|MW|14:00|15:20|Leading Phys & Rec Activities
+#9|315378|PER 201|Todd Holsinger|CR:2|CE:15|MC:12|TR|09:30|10:50|Outdoor Experiential Learning
+#10|315378|PER 201|Todd Holsinger|CR:2|CE:14|MC:12|TR|09:30|10:50|Outdoor Experiential Learning
+#11|260120|PER 202|Odell Ostrowski|CR:2|CE:23|MC:15|MWF|14:30|15:20|Fndmntl Mvmnt,Rhythms & Gymn
+#12|62782|PER 203|Tawna Bradstreet|CR:2|CE:17|MC:15|MW|11:00|12:20|Cncpts & Skls of Sports
+#13|62782|PER 203|Tawna Bradstreet|CR:2|CE:11|MC:12|TR|08:00|09:20|Cncpts & Skls of Sports
+#14|919502|PER 204|Keshia Creswell|CR:2|CE:18|MC:15|TR|11:00|12:20|Concepts&Skills of Phy Fitness
+#15|919502|PER 204|Keshia Creswell|CR:2|CE:12|MC:12|MW|11:00|12:20|Concepts&Skills of Phy Fitness
+#16|919502|PER 204|Keshia Creswell|CR:2|CE:8|MC:15|TR|11:00|12:20|Concepts&Skills of Phy Fitness
+#17|919502|PER 204|Winfred Rowse|CR:2|CE:9|MC:15|MW|11:00|12:20|Concepts&Skills of Phy Fitness
+#18|562559|PER 205|Viola Grayer|CR:2|CE:12|MC:12|TR|14:00|15:20|Cncpts&Sklls of Rcqut Sports
+#19|562559|PER 205|Viola Grayer|CR:2|CE:13|MC:12|TR|14:00|15:20|Cncpts&Sklls of Rcqut Sports
+#20|368037|PER 222|Todd Holsinger|CR:1|CE:9|MC:12|TR|11:00|12:20|Outdoor Activities
+#21|368037|PER 222|Todd Holsinger|CR:1|CE:12|MC:12|TR|11:00|12:20|Outdoor Activities
+#22|917354|PER 223|Edwardo Pokorny|CR:1|CE:8|MC:15|MW|15:00|15:50|Aquatic Activities
+#23|917354|PER 223|Odell Ostrowski|CR:1|CE:17|MC:18|MW|14:00|14:50|Aquatic Activities
+#24|917354|PER 223|Quincy Modlin|CR:1|CE:9|MC:15|T|19:00|21:50|Aquatic Activities
+#25|917354|PER 223|Quincy Modlin|CR:1|CE:9|MC:12|T|19:00|21:50|Aquatic Activities
+#26|703489|PER 224|Winfred Rowse|CR:1|CE:16|MC:15|MW|13:00|13:50|Activities
+#27|703489|PER 224|Laura Scannell|CR:1|CE:17|MC:15|MW|13:00|13:50|Activities
+#28|703489|PER 224|Laura Scannell|CR:1|CE:12|MC:12|MW|09:00|09:50|Activities
+#29|703489|PER 224|Laura Scannell|CR:1|CE:12|MC:12|MW|09:00|09:50|Activities
+#30|150300|PER 232|Winfred Rowse|CR:3|CE:15|MC:15|MW|09:30|10:50|Motor Learning
+#31|150300|PER 232|Winfred Rowse|CR:3|CE:7|MC:15|MW|08:00|09:20|Motor Learning
+#32|624590|PER 235|Edwardo Pokorny|CR:3|CE:8|MC:12|TR|14:00|15:20|Lifeguard Training
+#33|624590|PER 235|Tawna Bradstreet|CR:3|CE:11|MC:12|TR|14:00|15:20|Lifeguard Training
+#34|446795|PER 239|Viola Grayer|CR:3|CE:12|MC:12|MW|17:00|20:50|Pro Rscr CPR/AED & First Aid
+#35|446795|PER 239|Viola Grayer|CR:3|CE:11|MC:11|MW|17:00|20:50|Pro Rscr CPR/AED & First Aid
+#36|371967|PER 250|Viola Grayer|CR:3|CE:12|MC:12|TR|17:00|20:50|Sport Safety Training
+#37|371967|PER 250|Viola Grayer|CR:3|CE:10|MC:12|TR|18:00|21:50|Sport Safety Training
+#38|934892|PER 341|Keshia Creswell|CR:3|CE:16|MC:15|TR|08:00|09:20|Kinesiology
+#39|934892|PER 341|Keshia Creswell|CR:3|CE:13|MC:12|TR|08:00|09:20|Kinesiology
+#40|296902|PER 345|Jannie Pastor|CR:3|CE:11|MC:15|MW|11:00|12:20|Care & Prevent Athletic Injuri
+#41|296902|PER 345|Jannie Pastor|CR:3|CE:10|MC:12|MW|11:00|12:20|Care & Prevent Athletic Injuri
+#42|532560|PER 350|Alphonso Lowenstein|CR:3|CE:14|MC:15|MW|12:30|13:50|Event Planning and Management
+#43|532560|PER 350|Alphonso Lowen50|Event Planning and Management
+12|MW|08:00|09:20|Physiology of Exercise
+#46|335962|PER 383|Winfred Rowse|CR:3|CE:9|MC:12|TR|08:00|09:20|Intramurals and Officiating
+#47|925676|PER 386|Tawna Bradstreet|CR:3|CE:19|MC:15|TR|11:00|12:20|PE and Wellness in School Env
+#48|976430|PER 387|Tawna Bradstreet|CR:3|CE:4|MC:15|TR|11:00|12:20|Athletic Coaching
+#49|976430|PER 387|Todd Holsinger|CR:3|CE:14|MC:15|MW|09:30|Augustina Amann|CR:3|CE:9|MC:12|TR|14:00|15:20|Msrmnt & Evaluation in PE/REC
+#51|730659|PER 400|Augustina Amann|CR:3|CE:9|MC:12|TR|14:00|15:20|Msrmnt & Evaluation in PE/REC
+#52|491987|PER 410|Alphonso Lowenstein|CR:3|CE:15|MC:15|TR|09:30|10:50|Mngmt of PE and Rec
+#53|491987|PER 410|Alphonso Lowenstein|CR:3|CE:14|MC:12|TR|11:00|12:20|Mngmt of PE and Rec
+#54|307159|PER 440|Alphonso Lowenstein|CR:3|CE:14|MC:15|MW|08:00|09:20|Adapted PE and Rec
+#55|307159|PER 440|Alphonso Lowenstein|CR:3|CE:13|MC:12|MW|08:30|09:50|Adapted PE and Rec
+#56|665486|PER 460|Todd Holsinger|CR:3|CE:5|MC:10|H|00:00|00:00|Practicum in Athletic Coaching
+#57|665486|PER 460|Todd Holsinger|CR:3|CE:1|MC:12|H|00:00|00:00|Practicum in Athletic Coaching
+#58|131405|PER 490|Augustina Amann|CR:3|CE:6|MC:12|MW|12:30|13:50|PED/REC Capstone
+#59|131405|PER 490|Augustina Amann|CR:3|CE:11|MC:12|MW|12:30|13:50|PED/REC Capstone
+#60|965631|PER 491|Loralee Penman|CR:3|CE:1|MC:1|H|00:00|00:00|Internship
+#61|965631|PER 491|Keshia Creswell|CR:3|CE:1|MC:1|H|00:00|00:00|Internship
+#62|965631|PER 491|Keshia Creswell|CR:3|CE:1|MC:1|H|00:00|00:00|Internship
+#63|965631|PER 491|Keshia Creswell|CR:3|CE:1|MC:1|H|00:00|00:00|Internship
+#64|965631|PER 491|Keshia Creswell|CR:3|CE:1|MC:15|H|00:00|00:00|Internship
+#65|965631|PER 491|Keshia Creswell|CR:3|CE:1|MC:1|H|00:00|00:00|Internship
+#66|56109|PER 499|Odell Ostrowski|CR:1|CE:1|MC:1|H|00:00|00:00|Independent StList Professors?
+1 - Yes
+2 - No
+Choice: Enter professore
+#1|529300|GSR 102|Shirly Bensley|CR:3|CE:10|MC:12|TR|08:00|10:50|Critical Reading and Writing
+#2|529300|GSR 102|Shirly Bensley|CR:3|C:00|16:50|Critical Reading and Writing
+#300|GSR 102|Shirly Bensley|CR:3|CE:13|MC:13|TR|08:00|10:50|Critical Reading and Writing
+#4|529300|GSR 102|Shirly Bensley|CR:3|CE:14|MC:13|TR|14:00|16:50|Critical Reading and Writing
+#5|309816|GSR 104|Shirly Bensley|CR:3|CE:15|MC:15|MW|12:30|13:50|Quantitative Reasoning Apprch
+#6|246666|HSL 774|Shirly Bensley|CR:1|CE:7|MC:25|H|00:00|00:00|Clinical Prac:Speech-Lang Path
+#7|480375|HSL 795|Shirly Bensley|CR:1|CE:20|MC:22|R|17:00|17:50|Special Topics
+#8|48vailability--
+IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|210369|ACC 201|Roselia Whisnant|CR:3|CE:14|MC:15|TR|18:00|19:20|Financial Accounting
+#2|210369|ACC 201|Christinia Lorenzana|CR:3|CE:14|MC:15|TR|18:00|19:20|Financial Accounting
+#3|210369|ACC 201|Jesica Cryer|CR:3|CE:16|MC:15|MWF|11:00|11:50|Financial Accounting
+#4|52056|ACC 202|Jesica Cryer|CR:3|CE:12|MC:15|MWF|09:00|09:50|Managerial Accounting
+#5|52056|ACC 202|Faustino Mailloux|CR:3|CE:16|MC:15|TR|08:00|09:20|Managerial Accounting
+#6|361526|ACC 301|Jesica Cryer|CR:3|CE:15|MC:15|MWF|09:00|09:50|Intermediate Accounting I
+#7|160779|ACC 302|Jesica Cryer|CR:3|CE:14|MC:15|MW|11:00|12:20|Intermediate Accounting II
+#8|83919|ACC 303|Jesica Cryer|CR:3|CE:3|MC:15|MW|15:00|16:20|Intermediate Accounting III
+#9|346288|ACC 321|Christinia Lorenzana|CR:3|CE:13|MC:15|MW|12:30|13:50|Managerial Cost Accounting
+#10|380760|ACC 331|Christinia Lorenzana|CR:3|CE:14|MC:15|MW|12:30|13:50|Income Tax Accounting
+#11|843194|ACC 441|Jesica Cryer|CR:3|CE:7|MC:15|MW|15:00|16:20|Auditing
+#12|675398|ACC 442|Faustino Mailloux|CR:3|CE:7|MC:15|TR|08:00|09:20|Accounting Info Systems
+#13|723054|ACC 461|Christinia Lorenzana|CR:3|CE:10|MC:15|TR|14:00|15:20|International Accounting
+#14|200060|ACC 499|Christinia Lorenzana|CR:1|CE:1|MC:1|H|00:00|00:00|Independent Study
+Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: Enteg to main menu
+Main Menu
+1 - Search Classes
+2 - Add Class
+3 - Remove Class
+4 - Print Schedule
+5 - Exit
+Choice: IDX|CID|Course

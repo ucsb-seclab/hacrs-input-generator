@@ -1,0 +1,7 @@
+ch_sec |
+make_sec foo
+ch_sec |a|++|++|AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA|
+ch_sec |a|++|++|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB|
+ch_sec |a|++|++|CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC|
+ch_sec |a|++|++|DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD|
+ch_sec |a|++|++|Dêêê

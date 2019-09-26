@@ -1,0 +1,189 @@
+University Course Scheduler
+
+Enter name: Select a major
+List Departments?
+1 - Yes
+2 - No
+Choice: Enter your Major's Department Name: Congratulations. You're read to start adding classes
+Main Menu
+1 - Search Classes
+2 - Add Class
+3 - Remove Class
+4 - Print Schedule
+5 - Exit
+Choice: IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+Main Menu
+1 - Search Classes
+2 - Add Clt
+Choice: IDX|CID|Course|Professo3 - Remove Class
+4 - Print Schedule
+5 - Exit
+Choice: Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - ass
+3 - Remove Class
+4 - Print Sclity--
+IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|381695|MAT 40|Lashaun Pasha|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#2|381695|MAT 40|Hollie Hamada|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#3|381695|MAT 40|Keshia Creswell|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#4|381695|MAT 40|Leticia Hedin|CR:4|CE:16|MC:18|MWRF|15:00|15:50|Pre-College Mathematics
+#5|381695|MAT 40|Shirly Bensley|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#6|381695|MAT 40|Melita Crafford|CR:4|CE:22|MC:18|MW|08:00|09:50|Pre-College Mathematics
+#7|381695|MAT 40|Hassan Stoke|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#8|381695|MAT 40|Burt Aquino|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#9|381695|MAT 40|Jordon Fiorillo|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#10|381695|MAT 40|Jordon Fiorillo|CR:4|CE:18|MC:18|MWF|13:00|14:10|Pre-College Mathematics
+#11|381695|MAT 40|Glennis Coons|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#12|381695|MAT 40|Carolina Plantz|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#13|381695|MAT 40|Gertrude Schulte|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#14|381695|MAT 40|Adena Garrard|CR:4|CE:19|MC:18|MWRF|11:00|11:50|Pre-College Mathematics
+#15|381695|MAT 40|Verona Tenney|CR:4|CE:17|MC:15|MWF|11:00|12:20|Pre-College Mathematics
+#16|318119|MAT 45|Adena Garrard|CR:4|CE:18|MC:18|MWRF|09:00|09:50|Elementary Algebra
+#17|286740|MAT 55|Ali Forst|CR:4|CE:18|MC:15|MWRF|08:00|08:50|Intermediate Algebra
+#18|286740|MAT 55|Ali Forst|CR:4|CE:14|MC:18|MWRF|08:00|08:50|Intermediate Algebra
+#19|392877|MAT 102|Edwardo Pokorny|CR:3|CE:11|MC:15|MWF|09:00|09:50|Intro Probability & Statistics
+#20|392877|MAT 102|Edwardo Pokorny|CR:3|CE:9|MC:15|MWF|10:00|10:50|Intro Probability & Statistics
+#21|392877|MAT 102|Edwardo Pokorny|CR:3|CE:9|MC:12|MWF|12:00|12:50|Intro Probability & Statistics
+#22|392877|MAT 102|Edwardo Pokorny|CR:3|CE:10|MC:12|MWF|09:00|09:50|Intro Probability & Statistics
+#23|285192|MAT 130|Leticia Hedin|CR:4|CE:16|MC:15|MWF|11:00|12:25|Precalculus
+#24|285192|MAT 130|Leida Chadwick|CR:4|CE:15|MC:20|MWF|08:30|09:55|Precalculus
+#25|285192|MAT 130|Leida Chadwick|CR:4|CE:10|MC:20|MWF|11:00|12:20|Precalculus
+#26|225331|MAT 140|Leticia Hedin|CR:3|CE:7|MC:15|TR|14:00|15:20|Discrete Structures
+#27|225331|MAT 140|Leticia Hedin|CR:3|CE:5|MC:15|MWF|13:00|13:50|Discrete Structures
+#28|510165|MAT 150|Lovie Lubin|CR:4|CE:11|MC:15|MWF|11:00|12:10|Calculus I
+#29|510165|MAT 150|Lovie Lubin|CR:4|CE:9|MC:20|MWF|11:00|12:20|Calculus I
+#30|292235|MAT 171|Mica Dildine|CR:3|CE:17|MC:15|T|17:00|19:50|Bsc Cpts-Math ECE/Elem Tchr I
+#31|330195|MAT 172|Mica Dildine|CR:3|CE:20|MC:15|M|17:00|19:50|Bsc Cpts-Math ECE/Elem Tchr II
+#32|445315|MAT 205|Quincy Modlin|CR:4|CE:6|MC:15|MWF|11:00|12:10|Calculus II
+#33|445315|MAT 205|Quincy Modlin|CR:4|CE:6|MC:15|MWF|11:00|12:10|Calculus II
+#34|819545|MAT 206|Leticia Hedin|CR:4|CE:10|MC:15|MWRF|08:00|08:50|Calculus III
+#35|946953|MAT 307|Lovie Lubin|CR:3|CE:9|MC:15|TR|11:00|12:20|Linear Algebra
+#36|507481|MAT 314|Leida Chadwick|CR:3|CE:6|MC:15|TR|09:30|10:50|Applied Statistics I
+#37|728323|MAT 328|Quincy Modlin|CR:3|CE:8|MC:15|MWF|15:00|15:50|Differential Equations
+#38|836812|MAT 410|Leida Chadwick|CR:3|CE:11|MC:15|MWF|12:00|12:50|Foundations of Geometry
+#39|589358|MAT 434|Leida Chadwick|CR:3|CE:4|MC:15|TR|09:30|10:50|Abstract Algebra
+#40|354563|MAT 445|Lovie Lubin|CR:3|CE:6|MC:15|MWF|09:00|09:50|Intro to Complex Analysis
+#41|348131|MAT 451|Leida Chadwick|CR:3|CE:1|MC:1|H|00:00|00:00|Internship
+#42|348131|MAT 451|Leid|348131|MAT 451|Edwardo Pokorny|C|MC:1|H|00:00|00:00|Internship
+#44|735814|MAT 455|Quincy Modlin|CR:3|CE:6|MC:15|MWF|09:00|09:50|Adv Go Back
+1 - Search by Professor Class to Schedule
+0 - Go Back
+1 - Add by Class Num (ex: MAT 150)
+2 - Add by Course ID (ex: 2600)
+Choice: Returning to main le
+0 - Go Back
+1 - Add by Class Num (ex: MAT 150)
+2 - Add by Course ID (ex: 2600)
+Choice: Returning t - Search Classes
+2 - Add Class
+3 - Remove Class
+4 - Print SchProfessor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|657265|GSR 110|Julius Anding|CR:1|CE:18|MC:18|R|09:30|10:50|Career Development
+#2|657265|GSR 1tle
+#1|9206 added course!
+Add Class to Schese ID: 0 - Go Back
+IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|876413|GSR 103|Laverne Conely|CR:3|CE:12|MC:12|TR|11:00|12:20|Ameri Sign Lang & Deaf Studies
+#2|876413|GSR 103|Laverne Conely|CR:3|CE:14|MC:15|TR|14:00|15:20|Ameri Sign Lang & Deaf Studies
+#3|876413|GSR 103|Laverne Conely|CR:3|CE:10|MC:12|TR|09:30|10:50|Ameri Sign Lang & Deaf Studies
+#4|876413|GSR 103|Ranee Boeck|CR:3|CE:15|MC:15|TR|15:30|16:50|Ameri Sign Lang & Deaf Studies
+#5|876413|GSR 103|Hassan Stoke|CR:3|CE:13|MC:15|MW|12:30|13:50|Ameri Sign Lang & Deaf Studies
+#6|876413|GSR 103|Hassan Stoke|CR:3|CE:6|MC:15|TR|08:00|09:20|Ameri Sign Lang & Deaf Studies
+#7|876413|GSR 103|Hassan Stoke|CR:3|CE:15|MC:15|MW|11:00|12:20|Ameri Sign Lang & Deaf Studies
+#8|876413|GSR 103|Hassan Stoke|CR:3|CE:16|MC:15|MW|12:30|13:50|Ameri Sign Lang & Deaf Studies
+#9|876413|GSR 103|Hassan Stoke|CR:3|CE:15|MC:15|TR|09:30|10:50|Ameri Sign Lang & Deaf Studies
+#10|876413|GSR 103|Hassan Stoke|CR:3|CE:15|MC:15|TR|11:00|12:20|Ameri Sign Lang & Deaf Studies
+#11|876413|GSR 103|Mica Dildine|CR:3|CE:11|MC:15|MW|08:30|09:50|Ameri Sign Lang & Deaf Studies
+#12|876413|GSR 103|Mica Dildine|CR:3|CE:13|MC:12|MW|08:30|09:50|Ameri Sign Lang & Deaf Studies
+#13|876413|GSR 103|Mica Dildine|CR:3|CE:16|MC:15|MW|11:00|12:20|Ameri Sign Lang & Deaf Studies
+#14|876413|GSR 103|Mica Dildine|CR:3|CE:7|MC:8|H|00:00|00:00|Ameri Sign Lang & Deaf Studies
+#15|876413|GSR 103|Hollie Hamada|CR:3|CE:12|MC:12|MW|11:00|12:20|Ameri Sign Lang & Deaf Studies
+#16|876413|GSR 103|Hollie Hamada|CR:3|CE:17|MC:15|MW|15:00|16:20|Ameri Sign Lang & Deaf Studies
+#17|876413|GSR 103|Hollie Hamada|CR:3|CE:8|MC:15|TR|14:00|15:20|Ameri Sign Lang & Deaf Studies
+#18|876413|GSR 103|Hollie Hamada|CR:3|CE:12|MC:12|MW|12:30|13:50|Ameri Sign Lang & Deaf Studies
+#19|876413|GSR 103|Hollie Hamada|CR:3|CE:16|MC:15|MW|15:00|16:20|Ameri Sign Lang & Deaf Studies
+#20|876413|GSR 103|Hollie Hamada|CR:3|CE:15|MC:15|MW|16:30|17:50|Ameri Sign Lang & Deaf Studies
+#21|876413|GSR 103|Hollie Hamada|CR:3|CE:16|MC:15|TR|09:30|10:50|Ameri Sign Lang & Deaf Studies
+#22|876413|GSR 103|Linsey Khalil|CR:3|CE:15|MC:15|MW|08:30|09:50|Ameri Sign Lang & Deaf Studies
+#23|876413|GSR 103|Linsey Khalil|CR:3|CE:15|MC:15|TR|11:00|12:20|Ameri Sign Lang & Deaf Studies
+Choice: Add Class to Schedule
+0 - Go Back
+1 - Add by Class Num (ex: MAT 150)
+2 - Add by Course ID (ex: 2600)
+Choice: Enter Class ID: 0 - Go Back IDX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|294488|FCS 334|Loralee Penman|CR:3|CE:17|MC:25|TR|14:00|15:20|Parent-Child Interactions
+#2|294488|FCS 334|Loralee Penman|CR:3|CE:6|MC:20|TR|11:00|12:20|Parent-Child Interactions
+Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: List ProfeX|CID|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Titleme: --Kami Hansen's Classes--
+ID2|208470|GOV 370|Teressa Marshburn|CR:3|CE:33|MC:18|TR|08:00|09:20|Human Rights
+Class Search
+0 - Go Back
+1 - Search by Professor Name (ex: Gerardo Chacon)
+2 - Search by Department Name (ex: MAT)
+3 - Search by Class ID (ex: MAT 150)
+4 - Search by Course ID (ex: 2600)
+Choice: Enter CourCourse|Professor|Credits|Enrolled|Max|DEnter Course IDD|Course|Professor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|424077|HON 487|Yon Seidel|CR:3|CE:11|MC:12|MW|10:00|11:00|Prep for Senior Honors Project
+#2|424077|HON 487|Yon Seidel|CR:3|CE:11|MC:12|F|11:00|13:00|Prep for Senior Honors Project
+#3|424077|HON 487|Rosetta Harker|CR:3|CE:11|MC:12|MW|10:00|11:00|Prep for Senior Honors Project
+#4|424077|HON 487|Rosetta Harker|CR:3|CE:11|MC:12|F|11:00|13:00|Prep for Senior Honors Project
+#5|281363|HON 488|Yon Seidel|CR:1|CE:4|MC:15|H|00:00|00:00|Honors Capstone Seminar
+#6|323 - No
+Choice: Enter professor's full name: --E:14|MC:15|MW|16:00|18:50|Critical Reading and Writing
+#3|529300|GSR 102|Una Worster|CR:3|CE:16|MC:15|TR|14:00|16:50|Critical Reading and Writing
+#4|529300|GSR 102|Henry Sandor|CR:3|CE:12|MC:12|MWF|09:00|10:50|Critical Reading and Writing
+#5|529300|GSR 102|Henry Sandor|CR:3|CE:12|MC:12|MWF|12:00|13:50|Critical Reading and Writing
+#6|529300|GSR 102|Shirly Bensley|CR:3|CE:10|MC:12|TR|08:00|10:50|Critical Reading and Writing
+#7|529300|GSR 102|Shirly Bensley|CR:3|CE:12|MC:12|TR|14:00|16:50|Critical Reading and Writing
+#8|529300|GSR 102|Shirly Bensley|CR:3|CE:13|MC:13|TR|08:00|10:50|Critical Reading and Writing
+#9|529300|GSR 102|Shirly Bensley|CR:3|CE:14|MC:13|TR|14:00|16:50|Critical Reading and Writing
+#10|529300|GSR 102|Rosetta Harker|CR:3|CE:6|MC:12|TR|08:00|09:20|Critical Reading and Writing
+#11|529300|GSR 102|Rosetta Harker|CR:3|CE:9|MC:12|TR|11:00|12:20|Critical Reading and Writing
+#12|529300|GSR 102|Mireille Jain|CR:3|CE:11|MC:12|MWF|11:00|11:50|Critical Reading and Writing
+#13|529300|GSR 102|Laverne Conely|CR:3|CE:16|MC:16|MWF|09:00|09:50|Criessors?
+1 - Yes
+2 - No
+Choice: Enter|End|Title
+#1|534231|SOC 101|Jordoon Fiorillo|CR:3|CE:19|MC:20|TR|20|Intro to Sociology
+#3|534231|SOC 101|Bilredits|Enrolled|Max|Days|StartProfessor|Credits|Enrolled|Max|Days|Start|End|Title
+#1|469121|BUS 181|Edwardo Pokorny|CR:3|CE:15|MC:15|TR|18:30|19:50|Business Computer Applications
+#2|925363|BUS 281|Edwardo Pokorny|CR:3|CE:10|MC:15|TR|18:30|19:50|Management Information Systems
+#3|342937|BUS 493|Edwardo Pokorny|CR:3|CE:0|MC:15|MW|16:00|17:50|Entrepreneurship
+#4|844399|COM 495|Edwardo Pokorny|CR:1|CE:10|MC:15|H|00:00|00:00|Special Topics
+#5|844399|COM 495|Edwardo Pokorny|CR:1|CE:12|MC:15|H|00:00|00:00|Special Topics
+#6|256134|ELI 102|Edwardo Pokorny|CR:7|CE:7|MC:15|MWF|09:00|11:50|Reading & Vocab Level II
+#7|552808|ELI 202|Edwardo Pokorny|CR:8|CE:7|MC:15|F|09:00|11:50|Writing and Grammar Level II
+#8|552808|ELI 202|Edwardo Pokorny|CR:8|CE:7|MC:15|TR|09:00|11:50|Writing and Grammar Level II
+#9|71320|ELI 302|Edwardo Pokorny|CR:3|CE:7|MC:15|TR|13:00|14:20|Applied English Level II
+#10|71320|ELI 302|Edwardo Pokorny|CR:3|CE:10|MC:12|TR|14:30|15:50|Applied English Level II
+#11|186029|FYE 310|Edwardo Pokorny|CR:3|CE:17|MC:15|T|19:00|20:50|Seminar-GSR101 Peer Leaders
+#12|767835|GSR 101|Edwardo Pokorny|CR:3|CE:7|MC:13|TR|11:00|12:20|First Year Seminar
+#13|767835|GSR 101|Edwardo Pokorny|CR:3|CE:15|MC:15|TR|11:00|12:20|First Year Seminar
+#14|767835|GSR 101|Edwardo Pokorny|CR:3|CE:14|MC:15|MW|15:00|16:20|First Year Seminar
+#15|767835|GSR 101|Edwardo Pokorny|CR:3|CE:10|MC:15|MW|15:00|16:20|First Year Seminar
+#16|767835|GSR 101|Edwardo Pokorny|CR:3|CE:8|MC:15|MW|08:00|09:20|First Year Seminar
+#17|53120|GSR 240|Edwardo Pokorny|CR:4|CE:15|MC:15|MW|16:00|17:50|Ethical Evaluations and Action
+#18|678932|GSR 300|Edwardo Pokorny|CR:4|CE:16|MC:15|TR|16:30|18:20|General Studies Capstone
+#19|392877|MAT 102|Edwardo Pokorny|CR:3|CE:11|MC:15|MWF|09:00|09:50|Intro Probability & Statistics
+#20|392877|MAT 102|Edwardo Pokorny|CR:3|CE:9|MC:15|MWF|10:00|10:50|Intro Probability & Statistics
+#21|392877|MAT 102|Edwardo Pokorny|CR:3|CE:9|MC:12|MWF|12:00|12:50|Intro Probability & Statistics
+#22|392877|MAT 102|Edwardo Pokorny|CR:3|CE:10|MC:12|MWF|09:00|09:50|Intro Probability & Statistics
+#23|348131|MAT 451|Edwardo Pokorny|CR:3|CE:1|MC:1|H|00:00|00:00|Internship
+#24|917354|PER 223|Edwardo Pokorny|CR:1|CE:8|MC:15|MW|15:00|15:50|Aquatic Activities
+#25|624590|PER 235|Edwardo Pokorny|CR:3|CE:8|MC:12|TR|14:00|15:20|Lifeguard Training
+#26|405596|PST 302|Edwardo Pokorny|CR:3|CE:7|MC:15|MW|08:30|09:50|ASL II
+#27|507554|PSY 711|Edwardo Pokorny|CR:3|CE:16|MC:15|MW|14:00|15:30|Principles of Statistics
+#28|585798|PSY 713|Edwardo Pokorny|CR:3|CE:9|MC:15|MW|14:00|15:20|Psycholo|CID|Course|Professor|Credits#1|324024|ECO 202|Gertrude Schulte|CR:3|CE:9|MC:20|TR|11:00|12ssor|Credits|Enrolled|Max|Days|Sss
+3 - Remove Class
+4 - Print Schx: MAT 150)
+2 - Add by Course ID Choice: Returning to main menu
+Maedule
+0 - Go Back
+1 - Add by Cla

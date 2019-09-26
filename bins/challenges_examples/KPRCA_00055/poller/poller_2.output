@@ -1,0 +1,230 @@
+Matrix math is fun!
+-------------------
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Transpose a Matrix:
+Select Matrix 1 or Matrix 2
+>> Original Matrix
+| 0 |
+Transposed Matrix
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Print Matrices:
+-Matrix 1-
+| 0 |
+
+-Matrix 2-
+| 0 |
+
+-Resultant Matrix-
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Transpose a Matrix:
+Select Matrix 1 or Matrix 2
+>> Original Matrix
+| 0 |
+Transposed Matrix
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Subtracting Matrices:
+Result:
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Perform Reduced Row Echelon Form on Matrix
+Select Matrix 1 or Matrix 2
+>> RREF Result:
+| 0.0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Adding Matrices:
+Result:
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Swap Rows in a  Matrix:
+Select Matrix 1 or Matrix 2
+>> Enter Row Index 1: Enter Row Index 2: Original Matrix
+| 0 |
+Swapped Rows
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Swap Rows in a  Matrix:
+Select Matrix 1 or Matrix 2
+>> Enter Row Index 1: Enter Row Index 2: Original Matrix
+| 0 |
+Swapped Rows
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Multiplying Matrices:
+Result:
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Transpose a Matrix:
+Select Matrix 1 or Matrix 2
+>> Original Matrix
+| 0 |
+Transposed Matrix
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Create a Random Matrix:
+Select Matrix 1 or Matrix 2
+>> New Row Size (0 to stay the same): New Column Size (0 to stay the same): Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Print Matrices:
+-Matrix 1-
+| 77 | 102 | 126 | 55 | 62 | 59 | 117 | -54 | 5 |
+| -11 | -65 | 87 | -37 | 59 | 25 | -93 | 77 | -31 |
+| -60 | 24 | -79 | 9 | 65 | -81 | -92 | -113 | -2 |
+| -38 | 44 | -71 | -74 | 66 | -15 | 42 | -110 | 8 |
+| -18 | 85 | -109 | 40 | -29 | 36 | 94 | -105 | -68 |
+| -65 | -103 | 24 | 76 | -75 | -112 | -114 | -48 | 5 |
+| 57 | -66 | 53 | -47 | 110 | 6 | 119 | 37 | 69 |
+| 90 | -85 | 113 | 34 | -121 | 64 | -115 | -58 | 99 |
+| 71 | 23 | 45 | 56 | 107 | -35 | 95 | -97 | 57 |
+
+-Matrix 2-
+| 0 |
+
+-Resultant Matrix-
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Exiting...

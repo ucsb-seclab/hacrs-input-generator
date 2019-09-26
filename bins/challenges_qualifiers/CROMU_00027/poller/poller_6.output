@@ -1,0 +1,30 @@
+Hello, World!
+SUCCESS: Page uploaded to server
+SUCCESS: Page uploaded to server
+Commands all share the form:
+    COMMAND:page_name:length:data
+The Commands are REQUEST, QUERY, SEND, REMOVE, VISUALIZE, and INTERACT.
+ASCII Markup Language
+.
+    Hello
+        Name
+    Server
+        Commands
+            REQUEST
+            QUERY
+            SEND
+            REMOVE
+            VISUALIZE
+            INTERACT
+            QUERY_new
+    AML
+        Commands
+        Literals
+        Variables
+        Scripts
+        Examples
+            Line
+            Variableset
+            ManyVariables
+            Box
+    AML_new

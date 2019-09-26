@@ -1,0 +1,25 @@
+# Sad Face Template Engine - v0.1
+1. Define variables
+2. View variables
+3. Submit templated text
+4. Render text
+5. Quit
+
+> -- Current variables:
+-- None
+
+1. Define variables
+2. View variables
+3. Submit templated text
+4. Render text
+5. Quit
+
+> -- Empty variable name will exit this menu
+-- Empty value will undefine the variable (if exists)
+var name: 
+1. Define variables
+2. View variables
+3. Submit templated text
+4. Render texterminated string
+
+1. Define variaXWmAmYAzCuNgSgnsRCDYIaCqFClkaSOXzrJwUNIKnvAWdixiUYJoMhJKacHyKdRPlgYtJVkfNokGObMIyUgPyGrgfqnQOkCfbRi

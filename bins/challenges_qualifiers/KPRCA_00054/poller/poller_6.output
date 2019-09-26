@@ -1,0 +1,32 @@
+$ Invalid fileno
+$ No such file
+$ Invalid fileno
+$ $ Invalid fileno
+$ Invalid fileno
+$ Invalid fileno
+$ Invalid fileno
+$ Invalid fileno
+$ No such directory
+$ $ No such file
+$ $ $ No such file
+$ $ $ delete <filename>
+ - Deletes a file.
+$ Invalid fileno
+$ Invalid fileno
+$ .:
+3 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+<DIR> D 0 J
+
+J:
+2 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+
+J:
+2 entries
+<DIR> D 0 .
+<DIR> D 0 ..
+$ $ $ $ Unknown command $ Not a regular file
+$ $ [yZbAXRqTkLHzpFpR

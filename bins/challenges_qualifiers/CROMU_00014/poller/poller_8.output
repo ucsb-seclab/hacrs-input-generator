@@ -1,0 +1,160 @@
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+Dive Site: Date: Time: Location (area/city): Max Depth in ft: Avg Depth in ft: Dive Duration (mins): O2 Percentage: Pressure In (psi): Pressure Out (psi): 
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+Dives logged: 1
+Average Max Depth: 60
+Average Dive Length: 43
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+Dive Site: Date (7/6/2014): Time (09:07:01): Location (area/city): Max Depth in ft (123): Avg Depth in ft (58): Dive Duration (mins) (13): O2 Percentage: Pressure In (psi): Pressure Out (psi): 
+ive Duration (mins): O2 Percentage: 60): Avg Depth in ft (30): Dive Duration (Pressure In (psi) (3075): Pressure Out (psi) (508): 
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+Dives logged: 3
+Average Max Depth: 72
+Average Dive Length: 38
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+First Name (demopjpj): Last Name (olapieejbepa): Street (fflblapieejbepa
+  Address: fflbkhjdmcmnfbpate (cl): Zip Code (457569874): Phone Numbeercentage: Pressure In (psi): Pressure  New Dive
+D - Download Dive Data
+
+Dive# Date       Time     Dive Site                 Location                 
+   1: 7/31/2014  06:44:05 pkaonpdlcd                okigojndij               
+   2: 7/6/2014   09:07:01 cjikkcngpb                hmfidopgkd               
+   3: 4/7/2014   13:01:00 ngbimkcade                mcnjdadmkl               
+   4: 2/1/2014   22:05:28 fhiiloedhh                doejacchmi               
+   5: 10/24/2014 05:18:18 jkaaipfljj                lknkoigice               
+   6: 4/30/2014  02:05:03 apbdegmcjd                fopamgflii               
+
+Enter Dive # to display: 
+       t: Avg Depth in ft: Dive Duration (mins): Date (10/24/2014): Time (05:18:18): ime     Dive Site                 /7/2014): Time (13:01:00): Location (aer (754370085589663): PADI Diver Number (949ADI Diver Number (949722613755858674): PA     Name: demopjpj olapieejbepa
+  Address: fflbkhjdmcmnfbpbckde
+     City: lfkjdlpgandaeibko
+    State: cl
+ Zip Code: 457569874
+    Phone: 754370085589663
+ PADI Num: 949722613755858674
+Cert Date: 123002030
+
+
+C - Change Diver Info
+L - Log a New Dive
+D - Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+Dive# Date       Time     Dive Site                 Location                 
+   1: 7/31/2014  06:44:05 pkaonpdlcd                okigojndij               
+   2: 7/6/2014   09:07:01 cjikkcngpb                hmfidopgkd               
+   3: 4/4/2014   12:33:58 bnkpabiaam                glblbbkgmh               
+   4: 2/1/2014   22:05:28 fhiiloedhh                doejacchmi               
+   5: 7/27/2014  05:40:58 kgfcdaedgi                jncoomkppm               
+   6: 4/30/2014  02:05:03 apbdegmcjd                fopamgflii               
+   7: 2/22/2014  04:53:48 mkibbncjjc                defnipokma               
+
+Enter Dive # to delete or blank to abort: 
+C - Change Diver Info
+L - Log a New Dive
+D - DownloDate       Time     Dive Site                 Location                 
+   1: 7/31/2014  06:44:05 pkaonpdlcd                okigojndij               
+   2: 7/6/2014   09:07:01 cjikkcngpb                hmfidopgkd               
+   3: 4/4/2014   12:33:58 bnkpabiaam                glblbbkgmh               
+   4: 2/1/2014   22:05:28 fhiiloedhh                doejacchmi               
+   5: 7/27/2014  05:40:58 kgfcdaedgi                jncoomkppm               
+   6: 2/22/2014  04:53:48 mkibbncjjc                defnipokma               
+
+Enter Dive # to edit: Editing dive number 6
+Dive Site                 Location                 
+   1: 7/31/2014  06:44:05 pkaonpdlcd                okigojndij               
+   2: 7/6/2014   09:07:01 cjikkcngpb                hmfidopgkd               
+   3: 4/4/2014   12:33:58 bnkpabiaam                glblbbkgmh               
+   4: 2/1/2014   22:05:28 fhiiloedhh                doejacchmi               
+   5: 7/27/2014  05:40:58 kgfcdaedgi                jncoomkppm               
+   6: 5/1/2014   04:55:42 edbnbemlnj                degjdchoje               
+   7: 2/2/2014   03:13:42 ntage (40): Pressure In (psi) (3155): Pres Dive
+D - Download Dive Data
+E - Edit Dives Date: 2/1/2014
+          Time: 22 Location                 
+   1: 7/31Pressure In (psi) (3020): Pressure Out (psi)Dive Site: Date (10/21/2014): Time (1Avg Depth in ft (68): Dive Duration (minsre Out (psi): 
+C - Change Diver Time (20:37:06): Location (area/city): - Print Dive Logs
+R - Remove D  Time     Dive Site                 Location                 
+   1: 7/31/2014  06:44:05 pkaonpdlcd                okigojndij               
+   2: 8/16/2014  12:01:43 limgnlcilg                llckdnejcp               
+   3: 8/3/2014   03:15:59 jkockkpmih                mekagaopce               
+   4: 7/27/2014  05:40:58 kgfcdaedgi                jncoomkppm               
+   5: 5/1/2014   04:55:42 edbnbemlnj                degjdchoje               
+   6: 2/2/2014   03:13:42 ccegbkhmgb                cdgladlhie               
+   7: 3/15/2014  19:56:13 bebehgnfen                ackldmmccn               
+   8: 10/21/2014 19:46:17 bkaidcmfml                ihjfngibmj               
+   9: 12/8/2014  20:37:06 ggnhngmgoh                dlggfpoied               
+  10: 2/11/2014  23:35:22 odcbmjobbk                gagifopnlh               
+  11: 10/7/2014  13:38:06 eglohoapnk                inpfifedkc               
+
+Enter Dive # to display: 
+ e
+     Max Depth: 129
+     Avg Depth: 62
+  Editing dive number 1
+Dive Site (p Download Dive Data
+E - Edit Dives
+P - Print Dive Logs
+R - Remove Dives
+S - Diver Statistics
+X - Exit Application
+:
+
+Dive# Date       Time     Dive Site              Time: 03:13:42
+     Dive S14): Time (13:38:06): Location (area/citves logged: 10
+Average Max Depth: 113
+Average Percentage: Pressure In (psi): Pressure Out     Dive Site: edbnbemlnj
+      Location: de
+C - Change Diver Info
+L - Log a Pressure Out (psi): 
+C - Change Diver Info

@@ -1,0 +1,45 @@
+Welcome to the diary logger!
+Length: 447
+Magic number: 0x4242
+Future: 0x1121
+Offset: 0x8
+Title: songs
+Entry Count: 0x3
+writer: b
+free online: true
+genre: bbaaa
+Title: hobbies
+Entry Count: 0x1
+Title: sports
+Entry Count: 0x3
+name: aaa
+position: cbbcbacbbbcacbbcabab
+years experience: 0x37
+Title: books
+Entry Count: 0x4
+author: cabbabcaab
+made into a movie: true
+year: 0xbf
+character: cacbbccbabcabbbaccbbca
+Title: jobs
+Entry Count: 0x4
+title: abbcbc
+company: babccbaccbbcacccaa
+salary: 0x471870b8
+job category: bcbbababccaaababaa
+Title: books
+Entry Count: ovie: true
+summary: baaaaccbcaba
+publisher: caaac
+character: cbacababaacbbaacaacba
+character: baaabbbccbac
+Title: songs
+Entry Count: 0x2
+writer: bbaaccabc
+free online: false
+Title: identity
+Entry Count: 0x3
+first name: cbaabbbbbbacabacbabcbbaa
+last name: bba
+age: 0x7f
+good book.

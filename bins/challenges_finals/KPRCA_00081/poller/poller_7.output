@@ -1,0 +1,97 @@
+
+ _______  _______  _______ _________ _______  _______  _______  _______
+(  ____ \(  ___  )(  ____ )\__   __/(  ____ )(  ____ \(  ____ \(  ____ \
+| (    \/| (   ) || (    )|   ) (   | (    )|| (    \/| (    \/| (    \/
+| (__    | |   | || (____)|   | |   | (____)|| (__    | (_____ | (_____
+|  __)   | |   | ||     __)   | |   |     __)|  __)   (_____  )(_____  )
+| (      | |   | || (\ (      | |   | (\ (   | (            ) |      ) |
+| )      | (___) || ) \ \__   | |   | ) \ \__| (____/\/\____) |/\____) |
+|/       (_______)|/   \__/   )_(   |/   \__/(_______/\_______)\_______)
+                                                                  v0.1 T
+
+
+Day-001 => [0 mission] | [0 explorer] | [50 supply]
+-----------------------------------------------------
+0. Next day!
+1. Missions
+2. Explorers
+3. Give up
+
+Day-002 => [0 mission] | [0 explorer] | [150 supply]
+------------------------------------------------------
+0. Next day!
+1. Missions
+2. Explorers
+3. Give up
+
+Day-003 => [0 mission] | [0 explorer] | [250 supply]
+------------------------------------------------------
+0. Next day!
+1. Missions
+2. Explorers
+3. Give up
+
+Day-004 => [0 mission] | [0 explorer] | [350 supply]
+------------------------------------------------------
+0. Next day!
+1. Missions
+2. Explorers
+3. Give up
+
+]]] Explorers [[[
+1. Hire explorer
+2. View current explorers
+3. Remove explorer
+4. Learn skills
+5. Back
+
+... Available explorers ...
+0. Gurro Shiner [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Dark Calamity <INTEL>
+   ==> Skill #2: No Skill <None>
+1. Hallie Hope [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Aurum Surge <NAVAL>
+   ==> Skill #2: No Skill <None>
+2. Jimmy Mcclanahan [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Dark Calamity <INTEL>
+   ==> Skill #2: No Skill <None>
+3. Freddie Haugen [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Aurum Surge <NAVAL>
+   ==> Skill #2: No Skill <None>
+4. Patrina Wasson [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Whirling Burst <GROUND>
+   ==> Skill #2: No Skill <None>
+5. Salome Burrell [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Nebula Cleave <RESCUE>
+   ==> Skill #2: No Skill <None>
+6. Rosaria Curley [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Aurum Surge <NAVAL>
+   ==> Skill #2: No Skill <None>
+7. Bertie Hodgson [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Celestial Attack <AERIAL>
+   ==> Skill #2: No Skill <None>
+8. Yoko Hauser [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Dark Calamity <INTEL>
+   ==> Skill #2: No Skill <None>
+9. Eldon Buckley [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Chaotic Blink <SPECIAL>
+   ==> Skill #2: No Skill <None>
+10. Makeda Spears [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Chaotic Blink <SPECIAL>
+   ==> Skill #2: No Skill <None>
+11. Marget Burrow [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Whirling Burst <GROUND>
+   ==> Skill #2: No Skill <None>
+12. Hae Ledoux [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Aurum Surge <NAVAL>
+   ==> Skill #2: No Skill <None>
+13. Joeann Findley [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Nebula Cleave <RESCUE>
+   ==> Skill #2: No Skill <None>
+14. Lupita Acosta [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Celestial Attack <AERIAL>
+   ==> Skill #2: No Skill <None>
+15. Eliza Dickinson [LVL 1] [EXP 1000/1150] (not-hired)
+   ==> Skill #1: Nebula Cleave <RESCUE>
+   ==> Skill #2: No Skill <None>
+16. Aurelia Lyon [LVL 1] [EX

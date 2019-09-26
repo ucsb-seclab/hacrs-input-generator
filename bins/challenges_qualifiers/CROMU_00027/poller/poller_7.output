@@ -1,0 +1,32 @@
+Remove a page from the server
+    [REMOVE:pagename::]
+Draw some lines
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+BCC*****************************************************************************
+***********************
+~~~~~*[[[[[
+Process and display page data without uploading it to the server
+    [VISUALIZE::length:pagedata]
+Fetch a page from the server using variable substitution.
+    [INTERACT:pagename:length:variabledata]
+    Name
+    Server
+        Commands
+            REQUEST
+            QUERY
+            SEND
+            REMOVE
+            VISUALIZE
+            INTERACT
+    AML
+        Commands
+        Literals
+        Variables
+        Scripts
+        Examples
+            Line
+            Variableset
+            ManyVariables
+            Box

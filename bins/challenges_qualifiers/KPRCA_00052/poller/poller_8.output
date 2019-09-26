@@ -1,0 +1,60 @@
+Enter system password: 
+Welcome to the CGC Pizzeria order management system.
+1. Input Order
+2. Update Order
+3. View One Orders
+4. View All Orders
+5. Delete Order
+6. Clear All Orders
+7. Logout
+Choice: Enter Pickup Name: Choose what the kind of pizza
+1. Pizza Pie - The classic!
+2. Pizza Sub - All the fun, on a bun
+3. Pizza Bowl - Our own twist
+Choice: Select Size
+1. Small
+2. Medium
+3. Large
+Choice: Successfully added a new Pizza Pie!
+Select an option:
+1. Add Toppings
+2. Remove Toppings
+3. Add Sauce
+4. Remove Sauce
+5. Finished With Pizza
+Choice: Successfully added pizza!
+1. Add another Pizza
+2. Quit
+Choice: Order successfully added!
+1. Input Order
+2. Update Order
+3. View One Orders
+4. View All Orders
+5. Delete Order
+6. Clear All Orders
+7. Logout
+Choice: 1 - StomG OpKLo: Ordered 1 pizza(s)
+==================================================
+  Item #1. Classic Pizza Pie, Size: LARGE
+    Selected Toppings
+	None
+    Sauce on the side
+	None
+--------------------------------------
+		Calories: 2300
+		Carbs   : 356
+
+Pizza length... = 1
+		Estimated wait time: 36 minute(s)
+==================================================
+*  = Contains Meat
+** = Contains Pork
+1. Input Order
+2. Update Order
+3. View One Orders
+4. View All Orders
+5. Delete Order
+6. Clear All Orders
+7. Logout
+Choice: Logging out
+Enter system password: Received termination string

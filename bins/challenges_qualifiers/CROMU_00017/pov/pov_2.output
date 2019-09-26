@@ -1,0 +1,51 @@
+Enter some data
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Enter an equation that has 1 sets of parenthesis
+It must evaluate to 27118 and contain the * operator
+and must use the numbers: 247 88 195 and 114
+string is formatted correct
+(247*88+195+114)+5073 does resolve to 27118, good!
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. equation that has 3 sets of parenthesis
+It must evaluate to 20529 and contain the / operator
+and must use the numbers: 136 168 252 and 148
+string is formattedd correct
+((((9-115+221+7))))+4057 does resolve to 4179, good!
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Enter an equatstring is formatted correct
+(107/199+44+214)+5028 does resolve to 5286, good!
+1. Solve Equation
+2. Create Equation
+3. Solve Area
+4. Solve Perimeter
+5. Solve Volume
+6. View Statistics
+7. Exit
+Enter an parenthesis
+It must evaluate to 12243 and contain the + operator
+and must use the numbers: 90 153 172 and 2
+stringrenthesis
+It must evaluate to 16103 and contain the / operator
+and must use the numbers: 243 182 8 and 189
+string is formatted correct
+(((243/1tion that has 1 sets of parenthesis
+It must evaluate to 15493 and contain the / operator
+and must use the numbers: 245 166 144 and 26
+string is format

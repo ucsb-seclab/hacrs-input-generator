@@ -1,0 +1,66 @@
+Matrix math is fun!
+-------------------
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Swap Columns in a  Matrix:
+Select Matrix 1 or Matrix 2
+>> Enter Column Index 1: Enter Column Index 2: Original Matrix
+| 0 |
+Swapped Columns
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Adding Matrices:
+Result:
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Swap Rows in a  Matrix:
+Select Matrix 1 or Matrix 2
+>> Enter Row Index 1: Enter Row Index 2: Original Matrix
+| 0 |
+Swapped Rows
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Exiting...

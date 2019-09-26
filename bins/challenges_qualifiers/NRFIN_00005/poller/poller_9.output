@@ -1,0 +1,20 @@
+Welcome to Tick-A-Tack.
+Make your selection:
+PLAY
+QUIT
+$ P goes first. Do you want P or Q?
+$ Game on!
+Computer's move: 0 1.
+It's your move. Enter 'row col'
+$ Computer's move: 2 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 0.
+It's your move. Enter 'row col'
+$ Computer's move: 0 2.
+Nice effort. Maybe next time.
+0 wins. 1 losses.
+Make your selection:
+PLAY AGAIN
+START OVER
+QUIT
+$ Give up?. Don't be a stranger!

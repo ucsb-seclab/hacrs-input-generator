@@ -1,0 +1,99 @@
+Matrix math is fun!
+-------------------
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Swap Rows in a  Matrix:
+Select Matrix 1 or Matrix 2
+>> Enter Row Index 1: Enter Row Index 2: Original Matrix
+| 0 |
+Swapped Rows
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Swap Columns in a  Matrix:
+Select Matrix 1 or Matrix 2
+>> Enter Column Index 1: Enter Column Index 2: Original Matrix
+| 0 |
+Swapped Columns
+| 0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Perform Reduced Row Echelon Form on Matrix
+Select Matrix 1 or Matrix 2
+>> RREF Result:
+| 0.0 |
+Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Create a Random Matrix:
+Select Matrix 1 or Matrix 2
+>> New Row Size (0 to stay the same): New Column Size (0 to stay the same): Make a selection: 
+1. Input Matrix
+2. Print Matrix
+3. Add Matrices
+4. Subtract Matrices
+5. Multiply Matrices
+6. Swap Matrix Row
+7. Swap Matrix Col
+8. Transpose Matrix
+9. Perform Reduced Row Echelon Form on Matrix
+10. Randomize Matrix
+11. Exit
+>> Print Matrices:
+-Matrix 1-
+| 0 |
+
+-Matrix 2-
+| -77 | 43 | -42 | 79 | 48 | -36 | 35 | 22 | 8 | 127 | -2 | -14 |
+| -24 | -90 | -51 | 84 | 26 | -103 | -61 | 73 | -31 | 1 | -110 | 23 |
+| -97 | -83 | -107 | -103 | -114 | -104 | -87 | -77 | 43 | 92 | 45 | -66 |
+| -73 | 66 | 20 | -89 | 56 | -106 | 27 | -80 | -69 | 100 | 55 | 4 |
+| -105 | 79 | -9 | -48 | -20 | -41 | 55 | -80 | -67 | 53 | 43 | -48 |
+| -75 | 18 | 93 | 62 | -30 | -73 | -66 | 97 | -19 | 104 | 8 | -87 |
+| 76 | -127 | -122 | 36 | 75 | -78 | 58 | 20 | -14 | 18 | -82 | -76 |
+| 75 | 20 | -121 | 46 | 116 | -63 | 71 | -12 | 57 | 14 | -74 | 81 |
+| 72 | 109 | 13 | 83 | -111 | -18 | -30 | -93 | -120 | 91 | -57 | -88 |
+| -18 | -111 | -81 | 5 | 122 | 31 | 1 | -123 | -109 | -82 | 60 | 121 |
+| -60 | -15 | 1 | -96 | -120 | 118 | 0 | 59 | 16 | -47 | 70 | 101 |
+| -46 | 25 | -119 | 32 | -108 | 62 | -125 | 44 | 39 | 111 | 51 | 126 |
+| 72 | 81 | -39 | 107 | -51 | 104 | 86 | -16 | 20 | 12 | -93 | -121 |
+

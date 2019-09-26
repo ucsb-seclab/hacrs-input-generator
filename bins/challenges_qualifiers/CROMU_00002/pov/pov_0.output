@@ -1,0 +1,14 @@
+2D Particle Simulator
+Enter the number of particles to simulate (1-10):
+Enter Position (x,y):
+Enter Velocity (x,y):
+Enter Mass:
+Enter Radius:
+Particle #1 added at (197.99000,197.99000) velocity(0.00000,0.00000) mass(1.00000) radius(2.00000).
+Enter Position (x,y):
+Enter Velocity (x,y):
+Enter Mass:
+Enter Radius:
+Particle #2 added at (159.69000,159.69000) velocity(3.00000,3.00000) mass(6.00000) radius(4.00000).
+Enter Position (x,y):
+Enteradded at (193.70000,193.70000) vel

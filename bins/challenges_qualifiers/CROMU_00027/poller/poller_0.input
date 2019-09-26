@@ -1,0 +1,1 @@
+ACS+0.1[VISUALIZE::14:AML examples~n]ACS+0.1[SEND:Server.Commands.REMOVE_new:56:Remove a page from the server~n~t~[REMOVE:pagename::~]~n]ACS+0.1[REQUEST:AML.Examples.ManyVariables::]ACS+0.1[QUERY:AML.Examples.Variableset::]ACS-0.1[QUERY:::]
