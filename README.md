@@ -1,3 +1,11 @@
+# For archival purposes only, not maintained
+
+## HaCRS input generator
+
+A component to produce baselines, seeds and other artifacts for the evaluation and seeding for the HaCRS system.
+
+### Use
+
 To make it work:
 
 ```
