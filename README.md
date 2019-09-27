@@ -4,6 +4,10 @@
 
 A component to produce baselines, seeds and other artifacts for the evaluation and seeding for the HaCRS system.
 
+## Paper
+
+The corresponding paper can be found here: https://acmccs.github.io/papers/p347-shoshitaishviliA.pdf
+
 ### Use
 
 To make it work:
